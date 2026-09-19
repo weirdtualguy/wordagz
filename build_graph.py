@@ -52,6 +52,9 @@ LANG_NAMES = {
     "gmw-pro": "Proto-West Germanic", "ine-pro": "Proto-Indo-European",
     "itc-pro": "Proto-Italic", "cel-pro": "Proto-Celtic",
     "sla-pro": "Proto-Slavic",
+    "cmn": "Mandarin", "ro": "Romanian", "uk": "Ukrainian",
+    "mul": "Translingual", "la-lat": "Late Latin",
+    "la-med": "Medieval Latin", "la-new": "New Latin",
 }
 
 # Function words plus dictionary-gloss boilerplate that carries no meaning.
