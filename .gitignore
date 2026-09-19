@@ -1,0 +1,9 @@
+kaikki.dump
+*.jsonl
+*.jsonl.gz
+__pycache__/
+docs/words/
+docs/languages/
+docs/README.md
+docs/_sidebar.md
+docs/drift.md

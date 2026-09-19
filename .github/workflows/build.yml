@@ -1,0 +1,60 @@
+name: Build Wordagz
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      max_pages:
+        description: "Max word pages to generate (0 = unlimited)"
+        required: false
+        default: "250000"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wordagz-build
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Download Kaikki dump
+        run: |
+          BASE="https://kaikki.org/dictionary/English"
+          if ! wget --no-verbose --tries=3 -O kaikki.dump "$BASE/kaikki.org-dictionary-English.jsonl.gz"; then
+            echo "gz not available, falling back to plain JSONL"
+            rm -f kaikki.dump
+            wget --no-verbose --tries=3 -O kaikki.dump "$BASE/kaikki.org-dictionary-English.jsonl"
+          fi
+          ls -lh kaikki.dump
+
+      - name: Build graph and static site
+        env:
+          WORDAGZ_MAX_PAGES: ${{ github.event.inputs.max_pages || '250000' }}
+        run: python build_graph.py --input kaikki.dump --output docs
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          force_orphan: true
+          user_name: "github-actions[bot]"
+          user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_message: "Deploy Wordagz build"
