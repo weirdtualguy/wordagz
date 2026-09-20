@@ -1,0 +1,15 @@
+# Palla
+
+**Language:** Italian (`it`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Palla](../../en/de/palla-56033d6f.md) — English *(borrowed)*

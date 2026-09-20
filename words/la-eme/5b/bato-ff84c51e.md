@@ -1,0 +1,15 @@
+# bato
+
+**Language:** la-eme (`la-eme`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [bay](../../en/44/bay-eb57284e.md) — English *(derived)*

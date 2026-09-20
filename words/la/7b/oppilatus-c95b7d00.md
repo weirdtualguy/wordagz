@@ -1,0 +1,15 @@
+# oppīlātus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [oppilate](../../en/8f/oppilate-aa8de31e.md) — English *(borrowed)*

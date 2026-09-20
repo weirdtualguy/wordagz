@@ -1,0 +1,15 @@
+# Тифли́с
+
+**Language:** Russian (`ru`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Tiflis](../../en/21/tiflis-7ebd1d50.md) — English *(borrowed)*

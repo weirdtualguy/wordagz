@@ -1,0 +1,17 @@
+# tucken
+
+**Language:** Middle Dutch (`dum`)
+
+## Definition
+
+to tuck
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tuck](../../en/2a/tuck-48bf8280.md) — English *(derived)*

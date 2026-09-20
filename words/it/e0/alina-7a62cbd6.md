@@ -1,0 +1,15 @@
+# Alina
+
+**Language:** Italian (`it`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Alina](../../en/93/alina-6f748f1e.md) — English *(borrowed)*

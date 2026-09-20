@@ -1,0 +1,15 @@
+# -hād
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [-hood](../../en/ce/hood-69888c4b.md) — English *(inherited)*

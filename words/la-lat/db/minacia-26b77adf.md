@@ -1,0 +1,19 @@
+# minacia
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+threat
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [minacious](../../en/00/minacious-fe8b5732.md) — English *(borrowed)*
+- [minaciously](../../en/42/minaciously-6baf4a7a.md) — English *(derived)*
+- [minaciousness](../../en/43/minaciousness-6cc8f01e.md) — English *(derived)*

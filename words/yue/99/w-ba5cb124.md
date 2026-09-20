@@ -1,0 +1,15 @@
+# 炒飯
+
+**Language:** yue (`yue`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [chao fan](../../en/f6/chao-fan-5b4acf6f.md) — English *(derived)*

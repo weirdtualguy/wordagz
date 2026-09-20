@@ -1,0 +1,15 @@
+# Yannick
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Yannick](../../en/10/yannick-49049ca2.md) — English *(borrowed)*

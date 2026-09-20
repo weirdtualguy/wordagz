@@ -1,0 +1,17 @@
+# pit
+
+**Language:** Dutch (`nl`)
+
+## Definition
+
+kernel, core
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [pit](../../en/f0/pit-66ae68df.md) — English *(borrowed)*

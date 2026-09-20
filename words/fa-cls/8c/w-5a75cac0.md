@@ -1,0 +1,15 @@
+# قفلی
+
+**Language:** fa-cls (`fa-cls`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [kulfi](../../en/07/kulfi-65da7b79.md) — English *(derived)*

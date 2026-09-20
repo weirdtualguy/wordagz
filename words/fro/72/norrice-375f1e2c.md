@@ -1,0 +1,15 @@
+# norrice
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [nurse](../../en/64/nurse-4bbda421.md) — English *(derived)*

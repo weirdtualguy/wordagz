@@ -1,0 +1,15 @@
+# Tsi'ya
+
+**Language:** kee (`kee`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Zia](../../en/4f/zia-e7a88005.md) — English *(derived)*

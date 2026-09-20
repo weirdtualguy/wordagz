@@ -1,0 +1,17 @@
+# exeō
+
+**Language:** Latin (`la`)
+
+## Definition
+
+go out, exit
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [issue](../../en/64/issue-ea17c17f.md) — English *(derived)*

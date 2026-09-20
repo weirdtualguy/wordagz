@@ -1,0 +1,15 @@
+# Pavúk
+
+**Language:** sk (`sk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Pavuk](../../en/3b/pavuk-ba7e380c.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# बेलदार
+
+**Language:** Hindi (`hi`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [bildar](../../en/92/bildar-788a4985.md) — English *(borrowed)*

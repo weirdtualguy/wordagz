@@ -1,0 +1,15 @@
+# bordei
+
+**Language:** Romanian (`ro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [burdei](../../en/37/burdei-ef01b328.md) — English *(derived)*

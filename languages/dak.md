@@ -1,0 +1,22 @@
+# dak (`dak`)
+
+18 pages. Showing the 18 best-connected.
+
+- [mníȟaȟa](../words/dak/8a/mnihaha-c0ea6de8.md)
+- [Absaroka](../words/dak/3d/absaroka-d3b8c053.md)
+- [anoka](../words/dak/a6/anoka-f36573c4.md)
+- [ayúxba](../words/dak/8a/ayuxba-fd7636fe.md)
+- [Bdé Makhá Ská](../words/dak/85/bde-makha-ska-bf65bf62.md)
+- [bdóte](../words/dak/05/bdote-a154c502.md)
+- [dakhóta](../words/dak/55/dakhota-cc87c72c.md)
+- [isáŋathi](../words/dak/72/isaathi-8bef4316.md)
+- [mahpiya](../words/dak/3a/mahpiya-3f820166.md)
+- [owóthaŋna](../words/dak/b8/owothana-adc79ca7.md)
+- [ta](../words/dak/d4/ta-13a09c20.md)
+- [wazíyata](../words/dak/3e/waziyata-9f4ed5f0.md)
+- [winúŋna](../words/dak/8e/winuna-30776c2f.md)
+- [ya](../words/dak/71/ya-84b85099.md)
+- [čhaské](../words/dak/eb/chaske-34ebeaa6.md)
+- [ša](../words/dak/62/sa-037d1fc7.md)
+- [šahíyena](../words/dak/94/sahiyena-e644f69e.md)
+- [šaia](../words/dak/16/saia-66bb6d5a.md)

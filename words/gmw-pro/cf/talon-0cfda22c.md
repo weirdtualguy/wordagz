@@ -1,0 +1,15 @@
+# \*talōn
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tale](../../en/76/tale-335db7f2.md) — English *(derived)*

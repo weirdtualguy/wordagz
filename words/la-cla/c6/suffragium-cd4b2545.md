@@ -1,0 +1,17 @@
+# suffrāgium
+
+**Language:** la-cla (`la-cla`)
+
+## Definition
+
+support, vote, right of voting
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [suffrage](../../en/bd/suffrage-c6c231a5.md) — English *(derived)*

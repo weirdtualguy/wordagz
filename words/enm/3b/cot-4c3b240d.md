@@ -1,0 +1,17 @@
+# cot
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+matted wool
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [cot](../../en/fe/cot-689f9717.md) — English *(inherited)*

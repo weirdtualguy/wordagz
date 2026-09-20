@@ -1,0 +1,15 @@
+# concision
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [concision](../../en/d1/concision-4b9f2adc.md) — English *(borrowed)*

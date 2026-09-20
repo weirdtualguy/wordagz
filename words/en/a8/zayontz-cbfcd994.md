@@ -1,0 +1,19 @@
+# Zayontz
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from Polish.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [zając](../../pl/4d/zajac-72bae7ad.md) ("hare").
+
+## Direct ancestors
+
+- [Zając](../../pl/2d/zajac-2b75a6ef.md) — Polish *(derived)*
+- [zając](../../pl/4d/zajac-72bae7ad.md) — Polish *(derived)*
+- [Зайонц](../../ru/70/w-a2868e10.md) — Russian *(derived)*
+
+## Direct descendants
+
+_None recorded._

@@ -1,0 +1,16 @@
+# \*wīnabaʀi
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [whimberry](../../en/95/whimberry-b01ba99e.md) — English *(inherited)*
+- [wineberry](../../en/0e/wineberry-10704cdd.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# ^홍(洪)
+
+**Language:** Korean (`ko`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Hong](../../en/76/hong-62ab7e35.md) — English *(borrowed)*

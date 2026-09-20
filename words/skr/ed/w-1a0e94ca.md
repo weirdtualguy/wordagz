@@ -1,0 +1,15 @@
+# ملتان
+
+**Language:** skr (`skr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Multan](../../en/b0/multan-953fd664.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# klubba
+
+**Language:** Old Norse (`non`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [club](../../en/05/club-bc91ba87.md) — English *(derived)*

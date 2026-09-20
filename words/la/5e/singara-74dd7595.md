@@ -1,0 +1,15 @@
+# Singara
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Singara](../../en/fd/singara-5315693e.md) — English *(borrowed)*

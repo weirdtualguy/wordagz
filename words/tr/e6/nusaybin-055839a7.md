@@ -1,0 +1,15 @@
+# Nusaybin
+
+**Language:** Turkish (`tr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Nusaybin](../../en/e6/nusaybin-9b3a12ae.md) — English *(borrowed)*

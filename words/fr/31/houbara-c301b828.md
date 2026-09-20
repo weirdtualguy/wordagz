@@ -1,0 +1,15 @@
+# houbara
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [houbara bustard](../../en/c8/houbara-bustard-ca8a0a20.md) — English *(borrowed)*

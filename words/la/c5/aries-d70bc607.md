@@ -1,0 +1,15 @@
+# Aries
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Aries](../../en/62/aries-82083e08.md) — English *(borrowed)*

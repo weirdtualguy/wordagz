@@ -1,0 +1,15 @@
+# clifian
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [cleave](../../en/a8/cleave-84261d6d.md) — English *(inherited)*

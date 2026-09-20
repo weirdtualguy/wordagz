@@ -1,0 +1,15 @@
+# transept
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [transept](../../en/0e/transept-b2e02b5a.md) — English *(borrowed)*

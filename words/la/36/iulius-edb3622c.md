@@ -1,0 +1,15 @@
+# iūlius
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [July](../../en/fd/july-8856e618.md) — English *(derived)*

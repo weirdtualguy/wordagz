@@ -1,0 +1,15 @@
+# Σήθ
+
+**Language:** Ancient Greek (`grc`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Seth](../../en/ff/seth-e91c2386.md) — English *(borrowed)*

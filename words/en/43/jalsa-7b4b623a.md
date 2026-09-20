@@ -1,0 +1,17 @@
+# Jalsa
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+Ellipsis of Jalsa Salana.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [جَلْسَہ](../../ur/83/w-f8a0fb34.md) ("gathering").
+
+## Direct ancestors
+
+- [جَلْسَہ](../../ur/83/w-f8a0fb34.md) — ur *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

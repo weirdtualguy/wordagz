@@ -1,0 +1,15 @@
+# narow
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [narrow](../../en/ba/narrow-26a9f1fe.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# Tuna
+
+**Language:** Old Norse (`non`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Tuna](../../en/5f/tuna-f1e2f2fe.md) — English *(derived)*

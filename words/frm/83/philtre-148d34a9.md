@@ -1,0 +1,15 @@
+# philtre
+
+**Language:** Middle French (`frm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [philter](../../en/e8/philter-be28968a.md) — English *(derived)*

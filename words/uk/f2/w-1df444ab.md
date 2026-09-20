@@ -1,0 +1,15 @@
+# Лисі́вка
+
+**Language:** Ukrainian (`uk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Lysivka](../../en/02/lysivka-0e1c66d1.md) — English *(borrowed)*

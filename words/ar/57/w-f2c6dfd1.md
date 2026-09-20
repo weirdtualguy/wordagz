@@ -1,0 +1,17 @@
+# قَوْس
+
+**Language:** Arabic (`ar`)
+
+## Definition
+
+bow
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [kavass](../../en/20/kavass-0bcd7e86.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# huntung
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [hunting](../../en/41/hunting-25952b2d.md) — English *(inherited)*

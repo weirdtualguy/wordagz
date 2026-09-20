@@ -1,0 +1,15 @@
+# compressiō
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [compression](../../en/23/compression-3acf466b.md) — English *(derived)*

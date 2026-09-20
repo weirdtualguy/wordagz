@@ -1,0 +1,17 @@
+# estandart
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+gathering place, battle flag
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [standard](../../en/81/standard-b7ac7ee8.md) — English *(derived)*

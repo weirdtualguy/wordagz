@@ -1,0 +1,15 @@
+# \*ber
+
+**Language:** cel-bry-pro (`cel-bry-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Percival](../../en/31/percival-882e26f0.md) — English *(derived)*

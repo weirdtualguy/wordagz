@@ -1,0 +1,18 @@
+# Shush
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A city in Khuzestan Province, Iran, site of ancient Susa.
+
+## Direct ancestors
+
+- [شوش](../../fa/64/w-4e8ebc49.md) — Persian *(borrowed)*
+- [𐏂𐎢𐏁𐎠](../../peo/d9/w-d8d1bfd8.md) — peo *(derived)*
+- [𐭮𐭥𐭱𐭩](../../pal/a4/w-e20647b1.md) — pal *(derived)*
+- [𒀸𒋗𒊺𒂗](../../elx/ac/w-744191c5.md) — elx *(derived)*
+
+## Direct descendants
+
+_None recorded._

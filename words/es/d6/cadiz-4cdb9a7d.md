@@ -1,0 +1,15 @@
+# Cádiz
+
+**Language:** Spanish (`es`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Cadiz](../../en/53/cadiz-f5e5f210.md) — English *(derived)*

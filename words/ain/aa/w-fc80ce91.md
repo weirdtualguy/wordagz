@@ -1,0 +1,15 @@
+# トカㇷ゚チ
+
+**Language:** ain (`ain`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Tokachi](../../en/f9/tokachi-b03afe6d.md) — English *(derived)*

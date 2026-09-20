@@ -1,0 +1,17 @@
+# blek
+
+**Language:** Old Norse (`non`)
+
+## Definition
+
+black tint, ink
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [bleck](../../en/8c/bleck-c1c701c1.md) — English *(derived)*

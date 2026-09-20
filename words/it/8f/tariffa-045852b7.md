@@ -1,0 +1,17 @@
+# tariffa
+
+**Language:** Italian (`it`)
+
+## Definition
+
+arithmetical table; list of customs duties
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tariff](../../en/0b/tariff-d8a6d3ff.md) — English *(derived)*

@@ -1,0 +1,19 @@
+# rhythmus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+rhythm
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [rhyme](../../en/4a/rhyme-93717a4f.md) — English *(derived)*
+- [rhythm](../../en/50/rhythm-24ed10f5.md) — English *(derived)*
+- [rhythmus](../../en/cf/rhythmus-88ad1384.md) — English *(derived)*

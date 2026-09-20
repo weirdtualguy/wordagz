@@ -1,0 +1,17 @@
+# \*rode
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+clearing
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [royd](../../en/b1/royd-9acefb27.md) — English *(inherited)*

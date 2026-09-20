@@ -1,0 +1,15 @@
+# Gabe
+
+**Language:** German (`de`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Gabe](../../en/06/gabe-425724a9.md) — English *(borrowed)*

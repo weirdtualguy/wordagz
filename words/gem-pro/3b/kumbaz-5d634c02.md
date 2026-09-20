@@ -1,0 +1,18 @@
+# \*kumbaz
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+bowl, vessel
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [coomb](../../en/43/coomb-7c15728a.md) — English *(inherited)*
+- [Kump](../../en/aa/kump-69cb3d89.md) — English *(derived)*

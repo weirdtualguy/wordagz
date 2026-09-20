@@ -1,0 +1,19 @@
+# glucinum
+
+**Language:** English (`en`) · **Part of speech:** noun
+
+## Definition
+
+beryllium.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [γλυκύς](../../grc/75/w-89e13caa.md) ("sweet").
+
+## Direct ancestors
+
+- [glucina](../../la-new/c5/glucina-a341f42c.md) — New Latin *(derived)*
+- [glucine](../../fr/ca/glucine-e15b031f.md) — French *(derived)*
+- [γλυκύς](../../grc/75/w-89e13caa.md) — Ancient Greek *(derived)*
+
+## Direct descendants
+
+_None recorded._

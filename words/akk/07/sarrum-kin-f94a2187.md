@@ -1,0 +1,15 @@
+# Šarrum-kīn
+
+**Language:** akk (`akk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Sargon](../../en/2b/sargon-bcc34662.md) — English *(derived)*

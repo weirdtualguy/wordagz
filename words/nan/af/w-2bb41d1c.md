@@ -1,0 +1,15 @@
+# 巫
+
+**Language:** nan (`nan`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Boo](../../en/8f/boo-8b787b59.md) — English *(derived)*

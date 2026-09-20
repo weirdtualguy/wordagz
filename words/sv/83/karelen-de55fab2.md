@@ -1,0 +1,15 @@
+# Karelen
+
+**Language:** Swedish (`sv`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Karelia](../../en/86/karelia-0762a0ab.md) — English *(derived)*

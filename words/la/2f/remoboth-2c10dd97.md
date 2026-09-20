@@ -1,0 +1,15 @@
+# remoboth
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Remoboth](../../en/c9/remoboth-fa3dda00.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# parados
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [parados](../../en/d9/parados-a7f9d82f.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# Zarmanian
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from Armenian.
+
+## Direct ancestors
+
+- [Զարմանյան](../../hy/4f/w-fd1b29bc.md) — hy *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

@@ -1,0 +1,15 @@
+# galee
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [galley](../../en/f3/galley-e873a3dc.md) — English *(derived)*

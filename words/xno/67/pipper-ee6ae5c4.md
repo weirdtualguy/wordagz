@@ -1,0 +1,17 @@
+# pipper
+
+**Language:** Anglo-Norman (`xno`)
+
+## Definition
+
+to play the pipe or flute
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Peppard](../../en/9b/peppard-780fa246.md) — English *(derived)*

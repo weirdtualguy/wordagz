@@ -1,0 +1,16 @@
+# myriologue
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [myriologue](../../en/f5/myriologue-0699c086.md) — English *(borrowed)*
+- [myriology](../../en/6e/myriology-c0e80f01.md) — English *(borrowed)*

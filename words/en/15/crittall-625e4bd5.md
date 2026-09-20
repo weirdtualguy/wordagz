@@ -1,0 +1,17 @@
+# Crittall
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from Old English.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [crūċ](../../ang/6e/cruc-52c68982.md) ("cross").
+
+## Direct ancestors
+
+- [crūċ](../../ang/6e/cruc-52c68982.md) — Old English *(derived)*
+
+## Direct descendants
+
+_None recorded._

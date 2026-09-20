@@ -1,0 +1,15 @@
+# -derma
+
+**Language:** English (`en`) · **Part of speech:** suffix
+
+## Definition
+
+skin or skin disease
+
+## Direct ancestors
+
+- [δέρμα](../../grc/9d/w-1d678b81.md) — Ancient Greek *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

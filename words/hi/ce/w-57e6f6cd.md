@@ -1,0 +1,15 @@
+# बुज़ुर्ग
+
+**Language:** Hindi (`hi`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [buzurg](../../en/3d/buzurg-a6d18160.md) — English *(borrowed)*

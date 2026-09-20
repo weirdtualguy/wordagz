@@ -1,0 +1,18 @@
+# \*dūnaz
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+down
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [down](../../en/24/down-46635f80.md) — English *(inherited)*
+- [duvet](../../en/17/duvet-c8e7d500.md) — English *(derived)*

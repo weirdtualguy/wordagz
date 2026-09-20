@@ -1,0 +1,15 @@
+# Samaria
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Samaria](../../en/b5/samaria-3cee745d.md) — English *(borrowed)*

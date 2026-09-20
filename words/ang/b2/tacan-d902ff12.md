@@ -1,0 +1,17 @@
+# tacan
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+to grasp, touch
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [take](../../en/b9/take-bbe2550b.md) — English *(inherited)*

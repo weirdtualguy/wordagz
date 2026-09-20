@@ -1,0 +1,15 @@
+# tribu
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tribe](../../en/6b/tribe-7879a5d4.md) — English *(derived)*

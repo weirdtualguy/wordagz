@@ -1,0 +1,17 @@
+# wratthen
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+to be or become angry, to rage; to quarrel; to cause wrath, offend; to become troubled or vexed; to cause grief or harm, grieve, vex
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [wrath](../../en/7b/wrath-54a047c6.md) — English *(inherited)*

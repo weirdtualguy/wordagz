@@ -1,0 +1,17 @@
+# \*sneh₁-
+
+**Language:** Proto-Indo-European (`ine-pro`)
+
+## Definition
+
+to wind; twist; braid; plait
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sny](../../en/4b/sny-4afd682b.md) — English *(derived)*

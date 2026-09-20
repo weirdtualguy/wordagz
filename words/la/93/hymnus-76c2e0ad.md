@@ -1,0 +1,15 @@
+# hymnus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [hymn](../../en/35/hymn-87b7457d.md) — English *(derived)*

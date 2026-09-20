@@ -1,0 +1,15 @@
+# Illyria
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Illyria](../../en/36/illyria-95239a10.md) — English *(borrowed)*

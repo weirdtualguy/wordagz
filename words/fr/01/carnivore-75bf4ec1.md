@@ -1,0 +1,15 @@
+# carnivore
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [carnivore](../../en/ec/carnivore-2c02965a.md) — English *(borrowed)*

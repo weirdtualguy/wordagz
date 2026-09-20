@@ -1,0 +1,15 @@
+# doliman
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [dolman](../../en/4d/dolman-0eb6440f.md) — English *(derived)*

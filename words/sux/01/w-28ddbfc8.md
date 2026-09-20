@@ -1,0 +1,15 @@
+# 𒋚
+
+**Language:** sux (`sux`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Subarian](../../en/6d/subarian-4656fe2b.md) — English *(derived)*

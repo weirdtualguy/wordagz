@@ -1,0 +1,15 @@
+# relinquir
+
+**Language:** Middle French (`frm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [relinquish](../../en/bd/relinquish-7d47189f.md) — English *(derived)*

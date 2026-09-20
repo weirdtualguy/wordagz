@@ -1,0 +1,15 @@
+# methafisicien
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [metaphysician](../../en/37/metaphysician-9c6acc13.md) — English *(derived)*

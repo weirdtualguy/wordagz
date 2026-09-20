@@ -1,0 +1,15 @@
+# Nisibis
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Nisibis](../../en/78/nisibis-bb608262.md) — English *(borrowed)*

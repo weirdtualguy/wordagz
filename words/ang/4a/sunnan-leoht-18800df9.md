@@ -1,0 +1,17 @@
+# sunnan lēoht
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+sunlight
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sunlight](../../en/8d/sunlight-7f6b4fb6.md) — English *(inherited)*

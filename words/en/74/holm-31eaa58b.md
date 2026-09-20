@@ -1,0 +1,18 @@
+# holm
+
+**Language:** English (`en`) · **Part of speech:** noun
+
+## Definition
+
+Small island, islet.
+
+## Direct ancestors
+
+- [\*hulmaz](../../gem-pro/98/hulmaz-f7f780b8.md) — Proto-Germanic *(derived)*
+- [holm](../../ang/6b/holm-d236073d.md) — Old English *(inherited)*
+- [holm](../../enm/d1/holm-8917ec28.md) — Middle English *(inherited)*
+- [holmr](../../non/f0/holmr-f6a03681.md) — Old Norse *(derived)*
+
+## Direct descendants
+
+_None recorded._

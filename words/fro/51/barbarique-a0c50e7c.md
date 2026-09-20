@@ -1,0 +1,17 @@
+# barbarique
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+barbarous
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [barbaric](../../en/52/barbaric-596fb615.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# Baraud
+
+**Language:** nrf (`nrf`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Barrett](../../en/0b/barrett-e97d9f3b.md) — English *(derived)*

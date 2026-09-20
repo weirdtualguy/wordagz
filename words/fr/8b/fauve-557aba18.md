@@ -1,0 +1,17 @@
+# fauve
+
+**Language:** French (`fr`)
+
+## Definition
+
+chestnut, reddish-yellow, or fawn
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [curry favor](../../en/c7/curry-favor-85f75704.md) — English *(derived)*

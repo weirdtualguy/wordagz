@@ -1,0 +1,15 @@
+# sawen
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [saw](../../en/d3/saw-70b53d5a.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# ἀχρώματος
+
+**Language:** Ancient Greek (`grc`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [achromatopsia](../../en/6e/achromatopsia-8693a817.md) — English *(derived)*

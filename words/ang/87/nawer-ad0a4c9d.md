@@ -1,0 +1,15 @@
+# nāwþer
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [neither](../../en/1e/neither-f848860f.md) — English *(inherited)*

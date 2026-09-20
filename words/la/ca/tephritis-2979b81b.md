@@ -1,0 +1,15 @@
+# tephrītis
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tephrite](../../en/ee/tephrite-adbbe1e8.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# Asi
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+the Orontes (a river in Lebanon, Syria and Turkey).
+
+## Direct ancestors
+
+- [الْعَاصِي](../../ar/7a/w-ff494797.md) — Arabic *(derived)*
+
+## Direct descendants
+
+_None recorded._

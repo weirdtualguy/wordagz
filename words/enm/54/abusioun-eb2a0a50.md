@@ -1,0 +1,15 @@
+# abusioun
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [abusion](../../en/a2/abusion-0c1d9a60.md) — English *(inherited)*

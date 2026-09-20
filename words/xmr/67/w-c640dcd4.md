@@ -1,0 +1,15 @@
+# 𐦲𐦷𐦲𐦡
+
+**Language:** xmr (`xmr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Candace](../../en/37/candace-7744dbdd.md) — English *(derived)*

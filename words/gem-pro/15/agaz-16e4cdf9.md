@@ -1,0 +1,18 @@
+# \*agaz
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+terror, dread
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [awe](../../en/f2/awe-824e62b2.md) — English *(derived)*
+- [hideous](../../en/90/hideous-d9aee241.md) — English *(derived)*

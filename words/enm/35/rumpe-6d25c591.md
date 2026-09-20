@@ -1,0 +1,15 @@
+# rumpe
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [rump](../../en/96/rump-0caa11f1.md) — English *(derived)*

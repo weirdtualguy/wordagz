@@ -1,0 +1,17 @@
+# tokár
+
+**Language:** sk (`sk`)
+
+## Definition
+
+turner
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Tokar](../../en/54/tokar-a0fc2476.md) — English *(derived)*

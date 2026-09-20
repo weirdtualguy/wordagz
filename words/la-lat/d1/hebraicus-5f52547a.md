@@ -1,0 +1,15 @@
+# hebraicus
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Hebraic](../../en/74/hebraic-464954ff.md) — English *(derived)*

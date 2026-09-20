@@ -1,0 +1,15 @@
+# āmen
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [amen](../../en/fa/amen-0f99829a.md) — English *(inherited)*

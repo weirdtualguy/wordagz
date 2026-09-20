@@ -1,0 +1,21 @@
+# ain (`ain`)
+
+17 pages. Showing the 17 best-connected.
+
+- [aynu](../words/ain/16/aynu-3f0da56e.md)
+- [イナゥ](../words/ain/23/w-0e4f3000.md)
+- [イㇱカㇻ](../words/ain/a1/w-6da632c7.md)
+- [エツ゚ヲロㇷ゚シㇼ](../words/ain/67/w-749714f9.md)
+- [カムイ](../words/ain/d9/w-dc04456a.md)
+- [キナ シㇼ](../words/ain/98/w-cf59ec96.md)
+- [クンネ シㇼ](../words/ain/a7/w-232927c3.md)
+- [クㇽ](../words/ain/62/w-9f6cfbb8.md)
+- [サッ・ポロ・ペッ](../words/ain/db/w-5ffd0fd7.md)
+- [シコタン](../words/ain/c2/w-4b7c4233.md)
+- [スサㇺ](../words/ain/20/w-2733f462.md)
+- [トカㇷ゚チ](../words/ain/aa/w-fc80ce91.md)
+- [ハ アプ オマ イ](../words/ain/26/w-bfcf55ba.md)
+- [ハㇰ チャシ](../words/ain/9a/w-d2806d39.md)
+- [ハㇱカプ](../words/ain/8e/w-4db13a57.md)
+- [ヤㇺ ワッカ ナイ](../words/ain/17/w-1d9c7011.md)
+- [ユカㇻ](../words/ain/41/w-70428123.md)

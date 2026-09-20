@@ -1,0 +1,15 @@
+# doree
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [dory](../../en/a1/dory-9ca0e9fb.md) — English *(derived)*

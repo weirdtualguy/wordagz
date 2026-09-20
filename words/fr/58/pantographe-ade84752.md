@@ -1,0 +1,15 @@
+# pantographe
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [pantograph](../../en/c5/pantograph-58b7aaa4.md) — English *(derived)*

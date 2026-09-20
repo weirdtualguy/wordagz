@@ -1,0 +1,17 @@
+# Holetz
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname.
+
+## Direct ancestors
+
+- [Holec](../../cs/10/holec-6073bbc8.md) — Czech *(derived)*
+- [Holec](../../sk/7b/holec-488f6a4a.md) — sk *(derived)*
+- [Голець](../../uk/23/w-84935a00.md) — Ukrainian *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

@@ -1,0 +1,17 @@
+# si
+
+**Language:** English (`en`) · **Part of speech:** noun
+
+## Definition
+
+A syllable used in solfège to represent the seventh note of a major scale.
+
+## Direct ancestors
+
+- [si](../../enm/0d/si-e11161c0.md) — Middle English *(inherited)*
+- [si](../../it/fe/si-4d51b3c0.md) — Italian *(derived)*
+- [Sāncte Iohannēs](../../la/86/sancte-iohannes-24b35e4f.md) — Latin *(derived)*
+
+## Direct descendants
+
+_None recorded._

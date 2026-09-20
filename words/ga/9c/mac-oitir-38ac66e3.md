@@ -1,0 +1,17 @@
+# Mac Oitir
+
+**Language:** Irish (`ga`)
+
+## Definition
+
+son of Oitir
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [McCotter](../../en/2e/mccotter-6a210af0.md) — English *(derived)*

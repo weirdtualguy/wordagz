@@ -1,0 +1,15 @@
+# cantharides
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [cantharides](../../en/fd/cantharides-34aea26d.md) — English *(derived)*

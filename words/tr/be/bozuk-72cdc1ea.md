@@ -1,0 +1,17 @@
+# bozuk
+
+**Language:** Turkish (`tr`)
+
+## Definition
+
+out of order, rotten
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [bouzouki](../../en/09/bouzouki-7220b216.md) — English *(derived)*

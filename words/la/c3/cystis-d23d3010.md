@@ -1,0 +1,17 @@
+# cystis
+
+**Language:** Latin (`la`)
+
+## Definition
+
+cyst
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [acanthoma adenoides cysticum](../../en/3b/acanthoma-adenoides-cysticum-9ffb71d6.md) — English *(derived)*

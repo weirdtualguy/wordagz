@@ -1,0 +1,15 @@
+# īrēnarcha
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [irenarch](../../en/5a/irenarch-5cd8162e.md) — English *(derived)*

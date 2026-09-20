@@ -1,0 +1,15 @@
+# flagg
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [flag](../../en/da/flag-72343828.md) — English *(derived)*

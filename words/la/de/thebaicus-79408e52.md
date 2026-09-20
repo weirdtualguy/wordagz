@@ -1,0 +1,15 @@
+# Thēbaicus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Thebaic](../../en/68/thebaic-82b224ca.md) — English *(borrowed)*

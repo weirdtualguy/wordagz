@@ -1,0 +1,15 @@
+# dent
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [dent](../../en/00/dent-67251fbe.md) — English *(inherited)*

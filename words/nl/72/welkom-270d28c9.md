@@ -1,0 +1,17 @@
+# welkom
+
+**Language:** Dutch (`nl`)
+
+## Definition
+
+welcome
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Welkom](../../en/5e/welkom-174da1b6.md) — English *(derived)*

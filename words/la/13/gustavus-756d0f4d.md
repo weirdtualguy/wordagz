@@ -1,0 +1,15 @@
+# Gustavus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Gustavus](../../en/bd/gustavus-1ae0dceb.md) — English *(borrowed)*

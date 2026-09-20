@@ -1,0 +1,15 @@
+# аффектоним
+
+**Language:** Russian (`ru`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [affectonym](../../en/a3/affectonym-fdc04341.md) — English *(borrowed)*

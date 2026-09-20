@@ -1,0 +1,15 @@
+# -ite
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [-ity](../../en/20/ity-72a15b64.md) — English *(derived)*

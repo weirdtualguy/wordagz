@@ -1,0 +1,15 @@
+# adulte
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [adult](../../en/6c/adult-9de56189.md) — English *(borrowed)*

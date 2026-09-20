@@ -1,0 +1,18 @@
+# \*snūtijaną
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+to blow the nose
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [snet](../../en/17/snet-3b6f2379.md) — English *(inherited)*
+- [snite](../../en/1d/snite-48d2114d.md) — English *(inherited)*

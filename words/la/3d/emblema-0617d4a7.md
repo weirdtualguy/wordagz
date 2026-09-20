@@ -1,0 +1,18 @@
+# emblēma
+
+**Language:** Latin (`la`)
+
+## Definition
+
+raised ornaments on vessels, tessellated work, mosaic
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [emblem](../../en/59/emblem-fed2f1cc.md) — English *(derived)*
+- [emblema](../../en/cb/emblema-d7d9620f.md) — English *(borrowed)*

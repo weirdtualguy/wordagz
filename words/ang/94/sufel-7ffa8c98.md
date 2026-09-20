@@ -1,0 +1,16 @@
+# sufel
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [soul cake](../../en/cf/soul-cake-8d9bb5e8.md) — English *(derived)*
+- [sowl](../../en/7f/sowl-6b5eab65.md) — English *(inherited)*

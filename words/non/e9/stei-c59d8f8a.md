@@ -1,0 +1,16 @@
+# steði
+
+**Language:** Old Norse (`non`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [stith](../../en/53/stith-07e39c4a.md) — English *(derived)*
+- [stithy](../../en/f0/stithy-c4cc26df.md) — English *(derived)*

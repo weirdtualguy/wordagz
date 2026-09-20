@@ -1,0 +1,15 @@
+# Ulaan-Yde
+
+**Language:** bua (`bua`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Ulan-Ude](../../en/2a/ulan-ude-7730f56e.md) — English *(derived)*

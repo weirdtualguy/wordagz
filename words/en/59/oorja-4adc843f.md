@@ -1,0 +1,17 @@
+# Oorja
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A female given name from Sanskrit used in India.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [ऊर्जा](../../sa/f4/w-40528c79.md) ("power, energy").
+
+## Direct ancestors
+
+- [ऊर्जा](../../sa/f4/w-40528c79.md) — Sanskrit *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

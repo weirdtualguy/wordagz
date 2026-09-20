@@ -1,0 +1,15 @@
+# Arâk
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A city in Iran, the seat of Arak County's Central District and the capital of Markazi Province, formerly called Soltanabad
+
+## Direct ancestors
+
+- [اراک](../../fa/06/w-010b8172.md) — Persian *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

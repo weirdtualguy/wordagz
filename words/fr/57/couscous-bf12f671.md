@@ -1,0 +1,15 @@
+# couscous
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [couscous](../../en/b2/couscous-70c9a706.md) — English *(borrowed)*

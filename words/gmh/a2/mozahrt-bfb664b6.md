@@ -1,0 +1,15 @@
+# Mozahrt
+
+**Language:** Middle High German (`gmh`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Mozart](../../en/e6/mozart-c1d0ae59.md) — English *(derived)*

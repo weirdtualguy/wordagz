@@ -1,0 +1,15 @@
+# Ōrigenēs
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Origen](../../en/d7/origen-7ad0883f.md) — English *(borrowed)*

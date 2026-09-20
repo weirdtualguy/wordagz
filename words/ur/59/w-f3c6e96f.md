@@ -1,0 +1,15 @@
+# حَیْدَر آبَاد
+
+**Language:** ur (`ur`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Hyderabad](../../en/07/hyderabad-e3dfb993.md) — English *(borrowed)*

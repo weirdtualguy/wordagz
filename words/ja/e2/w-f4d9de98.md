@@ -1,0 +1,15 @@
+# 色丹
+
+**Language:** Japanese (`ja`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Shikotan](../../en/c9/shikotan-3352bee0.md) — English *(borrowed)*

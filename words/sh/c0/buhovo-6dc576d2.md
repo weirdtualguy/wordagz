@@ -1,0 +1,15 @@
+# Buhovo
+
+**Language:** sh (`sh`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Buhovo](../../en/ff/buhovo-2cdc1bf6.md) — English *(borrowed)*

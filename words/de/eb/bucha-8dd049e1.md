@@ -1,0 +1,15 @@
+# Bucha
+
+**Language:** German (`de`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Bucha](../../en/97/bucha-4ab638d4.md) — English *(borrowed)*

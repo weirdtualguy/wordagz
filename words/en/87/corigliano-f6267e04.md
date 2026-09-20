@@ -1,0 +1,15 @@
+# Corigliano
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from Italian.
+
+## Direct ancestors
+
+- [Corigliano](../../it/89/corigliano-8ce09243.md) — Italian *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

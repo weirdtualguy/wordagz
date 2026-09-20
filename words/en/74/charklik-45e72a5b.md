@@ -1,0 +1,15 @@
+# Charklik
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+Ruoqiang
+
+## Direct ancestors
+
+- [چاقىلىق](../../ug/38/w-c95e2b15.md) — ug *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

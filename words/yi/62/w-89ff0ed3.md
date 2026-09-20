@@ -1,0 +1,17 @@
+# ישׂראל
+
+**Language:** yi (`yi`)
+
+## Definition
+
+Israel
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Yisroel](../../en/e5/yisroel-b1273370.md) — English *(derived)*

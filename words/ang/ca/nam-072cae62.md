@@ -1,0 +1,17 @@
+# nām
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+seizure of property
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [naam](../../en/ae/naam-7d0dffd8.md) — English *(inherited)*

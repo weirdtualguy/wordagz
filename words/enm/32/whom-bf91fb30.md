@@ -1,0 +1,15 @@
+# whom
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [whom](../../en/9a/whom-8f34fd2d.md) — English *(inherited)*

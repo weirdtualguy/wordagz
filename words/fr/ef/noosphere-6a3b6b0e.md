@@ -1,0 +1,15 @@
+# noosphère
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [noosphere](../../en/0f/noosphere-c6e82d71.md) — English *(borrowed)*

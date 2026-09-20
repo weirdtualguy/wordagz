@@ -1,0 +1,15 @@
+# fotoaparát
+
+**Language:** cs,sk (`cs,sk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [photoapparat](../../en/74/photoapparat-bd4e6bbf.md) — English *(derived)*

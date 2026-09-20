@@ -1,0 +1,15 @@
+# strychnine
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [strychnine](../../en/b6/strychnine-a3dde4b5.md) — English *(derived)*

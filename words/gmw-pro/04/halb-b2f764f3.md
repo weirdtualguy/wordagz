@@ -1,0 +1,15 @@
+# \*halb
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [half](../../en/31/half-42089524.md) — English *(inherited)*

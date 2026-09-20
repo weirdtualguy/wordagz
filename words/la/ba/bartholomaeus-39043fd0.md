@@ -1,0 +1,15 @@
+# Bartholomaeus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Bartholomew](../../en/55/bartholomew-71186da8.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# Nisea
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Nisaea](../../en/35/nisaea-2bb11b3b.md) — English *(derived)*

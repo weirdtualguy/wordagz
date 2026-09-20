@@ -1,0 +1,15 @@
+# Dōdōna
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Dodona](../../en/98/dodona-a5594236.md) — English *(borrowed)*

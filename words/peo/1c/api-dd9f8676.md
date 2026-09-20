@@ -1,0 +1,15 @@
+# api-
+
+**Language:** peo (`peo`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [abkar](../../en/25/abkar-9f6deeca.md) — English *(derived)*

@@ -1,0 +1,18 @@
+# \*teldą
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+tent
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [teld](../../en/50/teld-ba2ea882.md) — English *(inherited)*
+- [tilt](../../en/08/tilt-645747fc.md) — English *(inherited)*

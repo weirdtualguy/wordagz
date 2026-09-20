@@ -1,0 +1,15 @@
+# bēlum
+
+**Language:** akk (`akk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Bel](../../en/4f/bel-112c8828.md) — English *(derived)*

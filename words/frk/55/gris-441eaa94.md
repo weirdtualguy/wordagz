@@ -1,0 +1,15 @@
+# \*grīs
+
+**Language:** frk (`frk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [grizzle](../../en/1a/grizzle-a2e943a6.md) — English *(derived)*

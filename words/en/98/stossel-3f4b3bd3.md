@@ -1,0 +1,15 @@
+# Stossel
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from German.
+
+## Direct ancestors
+
+- [Stößel](../../de/7f/stoel-e4922ef5.md) — German *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

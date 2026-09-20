@@ -1,0 +1,19 @@
+# vītis
+
+**Language:** Latin (`la`)
+
+## Definition
+
+vine
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [feeze](../../en/f2/feeze-ac253c3c.md) — English *(derived)*
+- [vise](../../en/35/vise-9f1eaa81.md) — English *(derived)*
+- [viticulture](../../en/cc/viticulture-23d693c1.md) — English *(derived)*

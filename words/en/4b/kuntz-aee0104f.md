@@ -1,0 +1,15 @@
+# Kuntz
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from German.
+
+## Direct ancestors
+
+- [Kuntz](../../de/6a/kuntz-1e4d918d.md) — German *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

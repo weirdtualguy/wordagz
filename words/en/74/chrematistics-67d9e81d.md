@@ -1,0 +1,17 @@
+# chrematistics
+
+**Language:** English (`en`) · **Part of speech:** noun
+
+## Definition
+
+The study of wealth.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [χρῆμα](../../grc/f3/w-590f7b8c.md) ("money").
+
+## Direct ancestors
+
+- [χρῆμα](../../grc/f3/w-590f7b8c.md) — Ancient Greek *(derived)*
+
+## Direct descendants
+
+_None recorded._

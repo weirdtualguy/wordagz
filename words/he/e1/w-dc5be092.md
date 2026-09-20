@@ -1,0 +1,15 @@
+# אָהָל
+
+**Language:** Hebrew (`he`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [aloe](../../en/88/aloe-dcd894be.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# Perchard
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Pasha](../../en/a1/pasha-c24c6b30.md) — English *(derived)*

@@ -1,0 +1,23 @@
+# yua (`yua`)
+
+19 pages. Showing the 19 best-connected.
+
+- [ajaw](../words/yua/ed/ajaw-f1f67109.md)
+- [alux](../words/yua/c9/alux-a0fea8ac.md)
+- [balcheʼ](../words/yua/65/balche-57bcaa2e.md)
+- [Canché](../words/yua/1c/canche-a052d8a1.md)
+- [chak moʼol](../words/yua/27/chak-mool-932ba3a7.md)
+- [chiʼik](../words/yua/27/chiik-4660442f.md)
+- [ch’ik](../words/yua/0b/chik-982ce5b9.md)
+- [kaan](../words/yua/d3/kaan-acb2991b.md)
+- [Kaan Peech](../words/yua/79/kaan-peech-89a0f6a4.md)
+- [maaya](../words/yua/56/maaya-4b42a4cd.md)
+- [mayab](../words/yua/38/mayab-6aca2c69.md)
+- [Mis](../words/yua/38/mis-19ca594e.md)
+- [Pat](../words/yua/00/pat-2ab105ee.md)
+- [pokolpok](../words/yua/a2/pokolpok-49f22518.md)
+- [píibil kʼéekʼen](../words/yua/07/piibil-keeken-c5fba060.md)
+- [tsʼonoʼot](../words/yua/75/tsonoot-c6bfa80c.md)
+- [xkat-ik](../words/yua/79/xkat-ik-3b28ee80.md)
+- [xulub](../words/yua/f1/xulub-7fb70927.md)
+- [Óoxmáal](../words/yua/e8/ooxmaal-5cfb77e6.md)

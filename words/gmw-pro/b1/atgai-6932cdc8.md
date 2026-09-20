@@ -1,0 +1,15 @@
+# \*atgaiʀ
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [atgar](../../en/76/atgar-76110301.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# hēla
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [heel](../../en/de/heel-82d3154b.md) — English *(inherited)*

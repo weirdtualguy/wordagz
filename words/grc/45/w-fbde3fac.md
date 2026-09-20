@@ -1,0 +1,15 @@
+# θύμον
+
+**Language:** Ancient Greek (`grc`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [thyme](../../en/34/thyme-8bf43b61.md) — English *(derived)*

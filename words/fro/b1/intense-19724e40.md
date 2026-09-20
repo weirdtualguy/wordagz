@@ -1,0 +1,15 @@
+# intense
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [intense](../../en/86/intense-2a9ec528.md) — English *(derived)*

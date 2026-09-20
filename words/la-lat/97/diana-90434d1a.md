@@ -1,0 +1,15 @@
+# Diāna
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Diana](../../en/8b/diana-4710ac51.md) — English *(borrowed)*

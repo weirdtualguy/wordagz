@@ -1,0 +1,16 @@
+# Mały
+
+**Language:** Polish (`pl`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Malley](../../en/f1/malley-3dc92940.md) — English *(derived)*
+- [Maly](../../en/f2/maly-fab1898e.md) — English *(borrowed)*

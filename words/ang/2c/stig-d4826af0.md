@@ -1,0 +1,15 @@
+# stæþþiġ
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [steady](../../en/0a/steady-a2f8a2e4.md) — English *(inherited)*

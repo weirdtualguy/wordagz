@@ -1,0 +1,17 @@
+# rede
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+abomasum
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [reed](../../en/da/reed-87887100.md) — English *(inherited)*

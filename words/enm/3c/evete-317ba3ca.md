@@ -1,0 +1,16 @@
+# evete
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [eft](../../en/42/eft-6248c5b8.md) — English *(inherited)*
+- [newt](../../en/f7/newt-8949f02c.md) — English *(derived)*

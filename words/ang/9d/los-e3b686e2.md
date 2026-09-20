@@ -1,0 +1,18 @@
+# los
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+damage, destruction, loss
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [los](../../en/72/los-b8ff009d.md) — English *(inherited)*
+- [loss](../../en/b4/loss-c06b80ef.md) — English *(inherited)*

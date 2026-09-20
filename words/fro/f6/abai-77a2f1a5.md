@@ -1,0 +1,15 @@
+# abai
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [abay](../../en/82/abay-83b93bb0.md) — English *(derived)*

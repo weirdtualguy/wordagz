@@ -1,0 +1,15 @@
+# cale
+
+**Language:** enm-nor (`enm-nor`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [kale](../../en/0d/kale-adac8784.md) — English *(inherited)*

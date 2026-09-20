@@ -1,0 +1,15 @@
+# \*hauhiþu
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [height](../../en/72/height-7928bbca.md) — English *(inherited)*

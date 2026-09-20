@@ -1,0 +1,15 @@
+# Çal
+
+**Language:** Turkish (`tr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Cal](../../en/3e/cal-1c534d4e.md) — English *(borrowed)*

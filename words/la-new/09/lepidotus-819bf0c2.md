@@ -1,0 +1,17 @@
+# lepidōtus
+
+**Language:** New Latin (`la-new`)
+
+## Definition
+
+covered with scales
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [lepidote](../../en/36/lepidote-8c12439b.md) — English *(derived)*

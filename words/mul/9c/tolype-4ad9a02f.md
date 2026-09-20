@@ -1,0 +1,15 @@
+# Tolype
+
+**Language:** Translingual (`mul`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tolype](../../en/eb/tolype-2bebcd76.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# tȳrian
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tire](../../en/4e/tire-10cd4f4f.md) — English *(inherited)*

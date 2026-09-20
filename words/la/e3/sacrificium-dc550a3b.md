@@ -1,0 +1,17 @@
+# sacrificium
+
+**Language:** Latin (`la`)
+
+## Definition
+
+something offered to a deity, sacrifice
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sacrifice](../../en/4e/sacrifice-64614262.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# Mandaeus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Mandaean](../../en/d6/mandaean-9d2682a4.md) — English *(borrowed)*

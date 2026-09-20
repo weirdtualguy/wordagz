@@ -1,0 +1,15 @@
+# dignité
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [dignity](../../en/98/dignity-4ebca7b2.md) — English *(derived)*

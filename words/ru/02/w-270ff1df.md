@@ -1,0 +1,15 @@
+# ту́грик
+
+**Language:** Russian (`ru`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tugrik](../../en/0e/tugrik-bf2c810f.md) — English *(borrowed)*

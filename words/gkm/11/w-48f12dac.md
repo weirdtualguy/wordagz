@@ -1,0 +1,15 @@
+# Γρηγόριος
+
+**Language:** gkm (`gkm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Grigory](../../en/17/grigory-ccdd8cc8.md) — English *(derived)*

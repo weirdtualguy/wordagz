@@ -1,0 +1,15 @@
+# Ó Breaghaigh
+
+**Language:** Irish (`ga`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Bree](../../en/e8/bree-2523f915.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# 枋山
+
+**Language:** Mandarin (`cmn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Fangshan](../../en/29/fangshan-3dd22fc3.md) — English *(borrowed)*

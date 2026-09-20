@@ -1,0 +1,15 @@
+# mendier
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [maund](../../en/bb/maund-32420f1b.md) — English *(derived)*

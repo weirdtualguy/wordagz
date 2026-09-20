@@ -1,0 +1,17 @@
+# mesohyl
+
+**Language:** English (`en`) · **Part of speech:** noun
+
+## Definition
+
+The gelatinous matrix within a sponge, filling the space between the external pinacoderm and the internal choanoderm.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [ὕλη](../../grc/b4/w-f9a55071.md) ("substance").
+
+## Direct ancestors
+
+- [ὕλη](../../grc/b4/w-f9a55071.md) — Ancient Greek *(derived)*
+
+## Direct descendants
+
+_None recorded._

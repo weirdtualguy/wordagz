@@ -1,0 +1,15 @@
+# kralj
+
+**Language:** sh (`sh`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Kral](../../en/5e/kral-d38f9acc.md) — English *(derived)*

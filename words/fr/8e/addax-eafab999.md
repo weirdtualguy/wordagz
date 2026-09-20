@@ -1,0 +1,15 @@
+# addax
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [addax](../../en/93/addax-9e0c4f2e.md) — English *(borrowed)*

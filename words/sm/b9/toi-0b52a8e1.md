@@ -1,0 +1,15 @@
+# Toi
+
+**Language:** sm (`sm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Toi](../../en/f9/toi-1ca4d4a9.md) — English *(borrowed)*

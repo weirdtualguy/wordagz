@@ -1,0 +1,15 @@
+# \*fralaidijan
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [forlead](../../en/27/forlead-72b928ed.md) — English *(inherited)*

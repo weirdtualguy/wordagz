@@ -1,0 +1,16 @@
+# castlelet
+
+**Language:** English (`en`) · **Part of speech:** noun
+
+## Definition
+
+Uncommon spelling of castlet.
+
+## Direct ancestors
+
+- [castelet](../../enm/71/castelet-35ec95ee.md) — Middle English *(inherited)*
+- [castelet](../../fro/65/castelet-851dce6b.md) — Old French *(derived)*
+
+## Direct descendants
+
+_None recorded._

@@ -1,0 +1,15 @@
+# vång
+
+**Language:** Swedish (`sv`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Vang](../../en/85/vang-1bd3d016.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# Marne
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Marne](../../en/c2/marne-39e1f72c.md) — English *(derived)*

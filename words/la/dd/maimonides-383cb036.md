@@ -1,0 +1,15 @@
+# Maimōnidēs
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Maimonides](../../en/d9/maimonides-7a08d5f4.md) — English *(borrowed)*

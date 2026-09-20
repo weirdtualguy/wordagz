@@ -1,0 +1,15 @@
+# Laodicēnus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Laodicene](../../en/d0/laodicene-0e976b45.md) — English *(borrowed)*

@@ -1,0 +1,17 @@
+# -feald
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+-fold
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [-fold](../../en/22/fold-9ca6074f.md) — English *(inherited)*

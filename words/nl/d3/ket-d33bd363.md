@@ -1,0 +1,15 @@
+# ket
+
+**Language:** Dutch (`nl`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Ket](../../en/24/ket-1011ac44.md) — English *(derived)*

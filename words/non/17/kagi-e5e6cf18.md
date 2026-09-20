@@ -1,0 +1,15 @@
+# \*kagi
+
+**Language:** Old Norse (`non`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [cag](../../en/1c/cag-2914fb81.md) — English *(derived)*

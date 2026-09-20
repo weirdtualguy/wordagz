@@ -1,0 +1,17 @@
+# sinus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+curve, bend; bosom
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sine](../../en/ce/sine-22c68ddd.md) — English *(borrowed)*

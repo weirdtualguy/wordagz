@@ -1,0 +1,15 @@
+# ōwē
+
+**Language:** Middle High German (`gmh`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [oy vey](../../en/75/oy-vey-58dd4a96.md) — English *(derived)*

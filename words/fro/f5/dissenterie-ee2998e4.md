@@ -1,0 +1,15 @@
+# dissenterie
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [dysentery](../../en/ad/dysentery-fe612e3b.md) — English *(derived)*

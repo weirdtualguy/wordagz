@@ -1,0 +1,15 @@
+# Charitōn
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Chariton](../../en/2a/chariton-a81b0528.md) — English *(borrowed)*

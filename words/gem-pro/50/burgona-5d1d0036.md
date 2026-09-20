@@ -1,0 +1,17 @@
+# \*burgōną
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+to pledge, take care of
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [borrow](../../en/58/borrow-9530976a.md) — English *(inherited)*

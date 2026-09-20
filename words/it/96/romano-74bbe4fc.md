@@ -1,0 +1,17 @@
+# romano
+
+**Language:** Italian (`it`)
+
+## Definition
+
+Roman
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [romano](../../en/e6/romano-01014aa8.md) — English *(borrowed)*

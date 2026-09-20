@@ -1,0 +1,15 @@
+# sømil
+
+**Language:** Danish (`da`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sea mile](../../en/42/sea-mile-afd112ab.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# Iaīrus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Jairus](../../en/63/jairus-df34344d.md) — English *(derived)*

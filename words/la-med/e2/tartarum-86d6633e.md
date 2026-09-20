@@ -1,0 +1,16 @@
+# tartarum
+
+**Language:** Medieval Latin (`la-med`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tartar](../../en/68/tartar-313d607f.md) — English *(derived)*
+- [tartro-](../../en/e7/tartro-cef12b8d.md) — English *(derived)*

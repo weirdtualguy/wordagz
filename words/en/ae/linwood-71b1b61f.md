@@ -1,0 +1,18 @@
+# Linwood
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [lind](../../ang/10/lind-17d66da0.md) ("lime").
+
+## Direct ancestors
+
+- [lind](../../ang/10/lind-17d66da0.md) — Old English *(inherited)*
+- [wudu](../../ang/9e/wudu-498c4594.md) — Old English *(inherited)*
+
+## Direct descendants
+
+_None recorded._

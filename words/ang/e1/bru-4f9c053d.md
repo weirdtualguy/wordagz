@@ -1,0 +1,17 @@
+# bru
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+eyebrow
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [brew](../../en/a3/brew-071a9ab0.md) — English *(inherited)*

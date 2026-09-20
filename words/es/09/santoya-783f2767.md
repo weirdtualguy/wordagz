@@ -1,0 +1,15 @@
+# Santoya
+
+**Language:** Spanish (`es`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Santoya](../../en/1d/santoya-6679c939.md) — English *(borrowed)*

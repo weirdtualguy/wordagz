@@ -1,0 +1,15 @@
+# perplexite
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [perplexity](../../en/fc/perplexity-2cc67866.md) — English *(inherited)*

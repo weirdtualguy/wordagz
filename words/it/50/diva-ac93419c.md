@@ -1,0 +1,17 @@
+# diva
+
+**Language:** Italian (`it`)
+
+## Definition
+
+diva, goddess
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [diva](../../en/1c/diva-7d79bbb8.md) — English *(borrowed)*

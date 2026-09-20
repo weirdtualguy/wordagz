@@ -1,0 +1,15 @@
+# sipaio
+
+**Language:** Portuguese (`pt`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sepoy](../../en/57/sepoy-647b9f39.md) — English *(borrowed)*

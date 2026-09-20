@@ -1,0 +1,15 @@
+# -otique
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [-otic](../../en/89/otic-60a11949.md) — English *(borrowed)*

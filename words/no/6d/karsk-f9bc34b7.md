@@ -1,0 +1,15 @@
+# karsk
+
+**Language:** Norwegian (`no`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [karsk](../../en/b5/karsk-18a70bf8.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# joyau
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [jewel](../../en/7e/jewel-4c6ee200.md) — English *(derived)*

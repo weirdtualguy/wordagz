@@ -1,0 +1,16 @@
+# \*sauʀ(ī)
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sear](../../en/58/sear-efb6b7cf.md) — English *(inherited)*
+- [sere](../../en/45/sere-97ab2786.md) — English *(inherited)*

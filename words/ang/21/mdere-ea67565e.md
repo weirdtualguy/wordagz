@@ -1,0 +1,15 @@
+# mædere
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [madder](../../en/16/madder-f882041d.md) — English *(inherited)*

@@ -1,0 +1,16 @@
+# \*chīrurgiānus
+
+**Language:** la-vul (`la-vul`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [chirurgeon](../../en/1f/chirurgeon-94331d0c.md) — English *(derived)*
+- [surgeon](../../en/9e/surgeon-1326051f.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# dēad
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [dead](../../en/24/dead-73fd014c.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# стани́ца
+
+**Language:** Russian (`ru`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [stanitsa](../../en/ce/stanitsa-15a7ce8b.md) — English *(borrowed)*

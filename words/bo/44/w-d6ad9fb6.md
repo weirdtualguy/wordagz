@@ -1,0 +1,15 @@
+# གཡག
+
+**Language:** bo (`bo`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [yak](../../en/49/yak-4a2dc4c1.md) — English *(borrowed)*

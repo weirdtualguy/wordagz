@@ -1,0 +1,15 @@
+# longe
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [long](../../en/0a/long-4d0ef12c.md) — English *(inherited)*

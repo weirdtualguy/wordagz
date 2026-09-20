@@ -1,0 +1,15 @@
+# \*bōlô
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [bully](../../en/1a/bully-8ae0db57.md) — English *(derived)*

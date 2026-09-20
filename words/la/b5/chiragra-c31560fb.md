@@ -1,0 +1,15 @@
+# chīragra
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [chiragra](../../en/ae/chiragra-3b9bc734.md) — English *(borrowed)*

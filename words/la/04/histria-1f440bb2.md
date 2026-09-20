@@ -1,0 +1,15 @@
+# Histria
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Istria](../../en/ef/istria-81855497.md) — English *(derived)*

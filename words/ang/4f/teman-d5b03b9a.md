@@ -1,0 +1,15 @@
+# \*teman
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [teem](../../en/c1/teem-a1a847f9.md) — English *(inherited)*

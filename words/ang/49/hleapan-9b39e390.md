@@ -1,0 +1,17 @@
+# hléapan
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+to leap, run
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [lapper-milk](../../en/ed/lapper-milk-452c6aa0.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# neowe
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [new](../../en/a6/new-301b969f.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# धूप
+
+**Language:** Hindi (`hi`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [dhoop](../../en/01/dhoop-7a8f208f.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# Anching
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+Alternative form of Anqing.
+
+## Direct ancestors
+
+- [安慶](../../cmn/3e/w-ab2b4287.md) — Mandarin *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

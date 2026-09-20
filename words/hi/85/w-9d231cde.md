@@ -1,0 +1,15 @@
+# करेला
+
+**Language:** Hindi (`hi`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [karela](../../en/76/karela-01c59d34.md) — English *(borrowed)*

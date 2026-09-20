@@ -1,0 +1,15 @@
+# leitrun
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [lectern](../../en/eb/lectern-18475b79.md) — English *(derived)*

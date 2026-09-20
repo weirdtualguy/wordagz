@@ -1,0 +1,17 @@
+# ringworm
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+ringworm; intestinal worm
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [ringworm](../../en/98/ringworm-0006537c.md) — English *(inherited)*

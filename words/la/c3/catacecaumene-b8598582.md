@@ -1,0 +1,15 @@
+# Catacecaumenē
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Catacecaumene](../../en/24/catacecaumene-e9f01dfb.md) — English *(borrowed)*

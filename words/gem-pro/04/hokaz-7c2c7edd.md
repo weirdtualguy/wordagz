@@ -1,0 +1,16 @@
+# \*hōkaz
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [harquebus](../../en/31/harquebus-002a3ac0.md) — English *(derived)*
+- [hook](../../en/1b/hook-2c4145e0.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# métallurgie
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [metallurgy](../../en/4c/metallurgy-f8d7f6f8.md) — English *(borrowed)*

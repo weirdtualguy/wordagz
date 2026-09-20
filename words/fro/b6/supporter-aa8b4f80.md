@@ -1,0 +1,15 @@
+# supporter
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [support](../../en/7e/support-22fe9369.md) — English *(derived)*

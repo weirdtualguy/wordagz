@@ -1,0 +1,15 @@
+# Jawad
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from Arabic.
+
+## Direct ancestors
+
+- [جَوَاد](../../ar/fd/w-0ec077b0.md) — Arabic *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

@@ -1,0 +1,15 @@
+# gryps
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [grype](../../en/65/grype-06507c13.md) — English *(derived)*

@@ -1,0 +1,17 @@
+# glouen
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+to gaze, stare
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [glow](../../en/6a/glow-e3f6f107.md) — English *(inherited)*

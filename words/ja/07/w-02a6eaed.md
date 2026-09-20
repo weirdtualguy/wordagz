@@ -1,0 +1,15 @@
+# 文京
+
+**Language:** Japanese (`ja`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Bunkyō](../../en/33/bunkyo-fe514369.md) — English *(borrowed)*

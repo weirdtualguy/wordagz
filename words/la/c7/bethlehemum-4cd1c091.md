@@ -1,0 +1,15 @@
+# Bēthlehēmum
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Bethlehem](../../en/51/bethlehem-80eb5675.md) — English *(derived)*

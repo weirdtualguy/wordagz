@@ -1,0 +1,15 @@
+# wawil-eghed
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [walleyed](../../en/02/walleyed-bb41205a.md) — English *(inherited)*

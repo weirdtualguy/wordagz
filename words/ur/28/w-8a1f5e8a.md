@@ -1,0 +1,15 @@
+# نان
+
+**Language:** ur (`ur`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [naan](../../en/43/naan-c13f275b.md) — English *(borrowed)*

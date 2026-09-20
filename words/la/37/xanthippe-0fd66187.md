@@ -1,0 +1,15 @@
+# Xanthippē
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Xanthippe](../../en/8c/xanthippe-e4e8cf26.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# iunctus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [junta](../../en/18/junta-47e72d57.md) — English *(derived)*

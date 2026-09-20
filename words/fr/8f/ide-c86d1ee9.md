@@ -1,0 +1,15 @@
+# ide
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [ide](../../en/c9/ide-f1d2f161.md) — English *(borrowed)*

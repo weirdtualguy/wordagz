@@ -1,0 +1,15 @@
+# بامیه
+
+**Language:** fa-ira (`fa-ira`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [bamiyeh](../../en/53/bamiyeh-23b321b4.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# meriisa
+
+**Language:** pga (`pga`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [merisa](../../en/27/merisa-fc16bd08.md) — English *(borrowed)*

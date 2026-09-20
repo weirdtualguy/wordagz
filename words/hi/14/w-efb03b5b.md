@@ -1,0 +1,15 @@
+# पालक
+
+**Language:** Hindi (`hi`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [palak](../../en/c4/palak-867cb1b8.md) — English *(borrowed)*

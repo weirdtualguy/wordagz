@@ -1,0 +1,15 @@
+# pharao
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [pharaoh](../../en/0a/pharaoh-b72fafb3.md) — English *(inherited)*

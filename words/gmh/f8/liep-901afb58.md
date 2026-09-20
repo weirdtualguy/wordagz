@@ -1,0 +1,17 @@
+# liep
+
+**Language:** Middle High German (`gmh`)
+
+## Definition
+
+dear
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Lieb](../../en/ab/lieb-a42d0815.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# fente
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [fent](../../en/cc/fent-b6516849.md) — English *(derived)*

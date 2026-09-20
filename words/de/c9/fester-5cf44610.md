@@ -1,0 +1,15 @@
+# Fester
+
+**Language:** German (`de`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Fester](../../en/46/fester-977cb9a0.md) — English *(derived)*

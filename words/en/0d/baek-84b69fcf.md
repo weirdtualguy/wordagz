@@ -1,0 +1,15 @@
+# Baek
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from Korean.
+
+## Direct ancestors
+
+- [백](../../ko/d5/w-1d81413b.md) — Korean *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

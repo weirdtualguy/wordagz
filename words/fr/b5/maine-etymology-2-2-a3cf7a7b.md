@@ -1,0 +1,15 @@
+# Maine\#Etymology\_2\_2
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Maine](../../en/32/maine-8bcc133e.md) — English *(borrowed)*

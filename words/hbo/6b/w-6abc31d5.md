@@ -1,0 +1,15 @@
+# עֲמֹרָה
+
+**Language:** hbo (`hbo`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Gomorrah](../../en/71/gomorrah-2168e4e5.md) — English *(derived)*

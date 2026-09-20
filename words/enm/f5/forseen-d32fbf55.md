@@ -1,0 +1,15 @@
+# forseen
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [forsee](../../en/38/forsee-815f1e85.md) — English *(inherited)*

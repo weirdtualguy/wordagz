@@ -1,0 +1,15 @@
+# Grece
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Greece](../../en/e5/greece-29d8a09f.md) — English *(derived)*

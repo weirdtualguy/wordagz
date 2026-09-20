@@ -1,0 +1,17 @@
+# 買
+
+**Language:** yue (`yue`)
+
+## Definition
+
+buy
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Mai](../../en/6a/mai-abe792c7.md) — English *(derived)*

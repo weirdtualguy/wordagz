@@ -1,0 +1,16 @@
+# schovele
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [shool](../../en/f7/shool-38525eaa.md) — English *(inherited)*
+- [shovel](../../en/f0/shovel-82479402.md) — English *(inherited)*

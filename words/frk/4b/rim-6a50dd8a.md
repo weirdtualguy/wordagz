@@ -1,0 +1,17 @@
+# \*rīm
+
+**Language:** frk (`frk`)
+
+## Definition
+
+number, order, sequence, series, row of identical things
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [rhyme](../../en/4a/rhyme-93717a4f.md) — English *(derived)*

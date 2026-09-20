@@ -1,0 +1,15 @@
+# balgha
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [balgha](../../en/c1/balgha-d94f23f7.md) — English *(borrowed)*

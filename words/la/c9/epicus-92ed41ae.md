@@ -1,0 +1,15 @@
+# epicus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [epic](../../en/b6/epic-8dbcc4da.md) — English *(derived)*

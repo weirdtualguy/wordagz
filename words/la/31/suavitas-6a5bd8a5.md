@@ -1,0 +1,15 @@
+# suāvitās
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [suavity](../../en/fc/suavity-ccf966bd.md) — English *(derived)*

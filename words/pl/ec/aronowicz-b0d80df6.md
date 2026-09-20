@@ -1,0 +1,17 @@
+# Aronowicz
+
+**Language:** Polish (`pl`)
+
+## Definition
+
+Aaron’s son, son of Aaron
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Aronowitz](../../en/88/aronowitz-fab7c84f.md) — English *(derived)*

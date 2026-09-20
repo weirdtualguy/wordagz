@@ -1,0 +1,15 @@
+# X̌əndыt
+
+**Language:** wbl (`wbl`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Khandud](../../en/ad/khandud-c399978b.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# \*þeubaz
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [thief](../../en/1e/thief-ecc81ab1.md) — English *(inherited)*

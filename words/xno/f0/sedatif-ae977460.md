@@ -1,0 +1,15 @@
+# sedatif
+
+**Language:** Anglo-Norman (`xno`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sedative](../../en/0d/sedative-65e13396.md) — English *(derived)*

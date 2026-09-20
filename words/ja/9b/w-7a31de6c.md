@@ -1,0 +1,15 @@
+# 川合
+
+**Language:** Japanese (`ja`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Kawai](../../en/60/kawai-b9d39192.md) — English *(derived)*

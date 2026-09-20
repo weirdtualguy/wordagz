@@ -1,0 +1,15 @@
+# chiromantie
+
+**Language:** Middle French (`frm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [chiromancy](../../en/24/chiromancy-e24dfda8.md) — English *(derived)*

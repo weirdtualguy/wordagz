@@ -1,0 +1,22 @@
+# xng (`xng`)
+
+18 pages. Showing the 18 best-connected.
+
+- [ᠨᠥᠬᠦᠷ](../words/xng/40/w-5cd92731.md)
+- [ᠪᠠᠭᠠᠷᠢᠨ](../words/xng/2f/w-13e5197c.md)
+- [ᠪᠠᠭᠯᠠᠭ᠎ᠠ](../words/xng/c7/w-a2c66477.md)
+- [ᠫᠠᠶᠢᠵᠠ](../words/xng/82/w-e1a749c1.md)
+- [ᠬᠠᠨᠪᠠᠯᠢᠺ](../words/xng/2c/w-d5943902.md)
+- [ᠬᠠᠭᠠᠨ](../words/xng/63/w-41225404.md)
+- [ᠭᠤᠳᠤᠮ](../words/xng/ab/w-d216d7b1.md)
+- [ᠮᠣᠩᠬᠣᠯ](../words/xng/16/w-6b6ef5f3.md)
+- [ᠮᠣᠩᠭᠣᠯ](../words/xng/a9/w-9b591d53.md)
+- [ᠲᠡᠮᠦᠵᠢᠨ](../words/xng/49/w-abbea946.md)
+- [ᠳᠠᠷᠤᠬ᠎ᠠ](../words/xng/82/w-3bebb7be.md)
+- [ᠴᠠᠭᠠᠲᠠᠶ](../words/xng/76/w-5d6212c1.md)
+- [ᠴᠢᠩᠭᠢᠰ](../words/xng/17/w-a1d11662.md)
+- [ᠴᠢᠩᠭᠢᠰ᠋ ᠬᠠᠭ᠍ᠠᠨ,ᠴᠢᠩᠭᠢᠰ᠋ ᠬᠠᠨ](../words/xng/79/w-f977c0d0.md)
+- [ᠵᠠᠰᠠᠭ](../words/xng/50/w-f31828c6.md)
+- [ᠵᠷᠯᠭ᠋](../words/xng/fa/w-2cdcafbc.md)
+- [札撒丌勒](../words/xng/42/w-da8da6f5.md)
+- [豁儿臣](../words/xng/59/w-5f903861.md)

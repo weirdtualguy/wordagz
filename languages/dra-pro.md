@@ -1,0 +1,21 @@
+# dra-pro (`dra-pro`)
+
+17 pages. Showing the 17 best-connected.
+
+- [\*akka](../words/dra-pro/f3/akka-2d3feef6.md)
+- [\*aṭ-ay-kkāy](../words/dra-pro/0a/at-ay-kkay-89edbb47.md)
+- [\*kañci](../words/dra-pro/d7/kanci-9b533e8d.md)
+- [\*kaṇṭu](../words/dra-pro/13/kantu-1f9a4e7c.md)
+- [\*kōṭ-](../words/dra-pro/8d/kot-21aae959.md)
+- [\*kōṭṭay](../words/dra-pro/f5/kottay-cda2b016.md)
+- [\*mayVr](../words/dra-pro/38/mayvr-e348742c.md)
+- [\*mentti](../words/dra-pro/64/mentti-aa97b105.md)
+- [\*mical](../words/dra-pro/e0/mical-6ed1e3b5.md)
+- [\*mokaray-](../words/dra-pro/66/mokaray-c88bc943.md)
+- [\*mūnkūc-](../words/dra-pro/0b/munkuc-e8e233ba.md)
+- [\*nek-V-ḷ-](../words/dra-pro/dc/nek-v-l-560bda63.md)
+- [\*nīr](../words/dra-pro/29/nir-270db45e.md)
+- [\*puḍala](../words/dra-pro/77/pudala-8822260b.md)
+- [\*tanḍal-](../words/dra-pro/fb/tandal-2405d0c1.md)
+- [\*uẓuntu](../words/dra-pro/82/uzuntu-53da06fa.md)
+- [\*waẓVtV](../words/dra-pro/a6/wazvtv-f5e64c82.md)

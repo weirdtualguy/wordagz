@@ -1,0 +1,15 @@
+# ᠴᠠᠶᡅᠰᠠᡊ
+
+**Language:** xwo (`xwo`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [zaisan](../../en/a7/zaisan-a56bf429.md) — English *(derived)*

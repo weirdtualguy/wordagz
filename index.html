@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Wordagz</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="Interconnected etymology wiki built from Wiktionary data">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/pure.css">
+  <style>
+    :root { --sidebar-width: 15rem; }
+    .markdown-section { max-width: 46rem; }
+    .markdown-section blockquote,
+    .markdown-section p.warn,
+    .markdown-section p.important { border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <div id="app">Loading Wordagz...</div>
+  <script>
+    window.$docsify = {
+      name: 'Wordagz',
+      homepage: 'README.md',
+      loadSidebar: true,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      subMaxLevel: 0,
+      maxLevel: 3,
+      auto2top: true,
+      relativePath: true,
+      search: {
+        paths: 'auto',
+        depth: 2,
+        maxAge: 86400000,
+        placeholder: 'Search Wordagz...',
+        noData: 'No results found.',
+        hideOtherSidebarContent: false
+      }
+    };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+</body>
+</html>

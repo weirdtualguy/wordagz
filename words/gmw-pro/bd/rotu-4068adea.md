@@ -1,0 +1,15 @@
+# \*þrotu
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [throat](../../en/b1/throat-73175660.md) — English *(inherited)*

@@ -1,0 +1,17 @@
+# wippen
+
+**Language:** gml (`gml`)
+
+## Definition
+
+to move quickly
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [whip](../../en/d1/whip-6be5421c.md) — English *(derived)*

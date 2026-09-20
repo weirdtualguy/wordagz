@@ -1,0 +1,17 @@
+# \*erpaz
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+light brown
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Earp](../../en/85/earp-c1a1196c.md) — English *(derived)*

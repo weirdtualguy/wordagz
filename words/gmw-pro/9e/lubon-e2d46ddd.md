@@ -1,0 +1,17 @@
+# \*lubōn
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+to love
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [love](../../en/af/love-6d5cf540.md) — English *(inherited)*

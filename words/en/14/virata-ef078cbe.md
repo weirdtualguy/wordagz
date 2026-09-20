@@ -1,0 +1,15 @@
+# Virata
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A king of the Matsya kingdom in the Mahabharata, in whose court the Pandavas spent their year of exile in disguise.
+
+## Direct ancestors
+
+- [विराट](../../sa/4b/w-751c955b.md) — Sanskrit *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

@@ -1,0 +1,15 @@
+# خاصكی
+
+**Language:** ota (`ota`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [haseki](../../en/72/haseki-7c17282d.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# \*dʰh₁-m-eló-
+
+**Language:** Proto-Indo-European (`ine-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [familial](../../en/5c/familial-2e03d9dd.md) — English *(derived)*

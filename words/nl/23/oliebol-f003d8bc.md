@@ -1,0 +1,17 @@
+# oliebol
+
+**Language:** Dutch (`nl`)
+
+## Definition
+
+oliebol
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [oliebol](../../en/7c/oliebol-ec529e76.md) — English *(borrowed)*

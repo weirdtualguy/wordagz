@@ -1,0 +1,15 @@
+# השם
+
+**Language:** yi (`yi`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Hashem](../../en/5e/hashem-005df9b9.md) — English *(derived)*

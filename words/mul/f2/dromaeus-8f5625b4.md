@@ -1,0 +1,17 @@
+# Dromaeus
+
+**Language:** Translingual (`mul`)
+
+## Definition
+
+Dromaius
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [dromaeognathous](../../en/4c/dromaeognathous-931da24c.md) — English *(derived)*

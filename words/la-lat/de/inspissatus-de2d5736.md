@@ -1,0 +1,17 @@
+# inspissātus
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+thickened, having been made thick or thicker
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [inspissate](../../en/ea/inspissate-8d25f378.md) — English *(borrowed)*

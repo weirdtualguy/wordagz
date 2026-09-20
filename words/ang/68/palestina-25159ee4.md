@@ -1,0 +1,15 @@
+# Palestina
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Palestine](../../en/4a/palestine-014ac972.md) — English *(inherited)*

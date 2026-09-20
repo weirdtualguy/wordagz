@@ -1,0 +1,18 @@
+# funko
+
+**Language:** Old High German (`goh`)
+
+## Definition
+
+spark
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Finkel](../../en/bb/finkel-9e61745e.md) — English *(derived)*
+- [Finkelstein](../../en/93/finkelstein-8222a3df.md) — English *(derived)*

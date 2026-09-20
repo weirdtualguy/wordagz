@@ -1,0 +1,17 @@
+# plündern
+
+**Language:** German (`de`)
+
+## Definition
+
+to loot
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [plunder](../../en/04/plunder-ae26c882.md) — English *(borrowed)*

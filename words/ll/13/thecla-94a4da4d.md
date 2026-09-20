@@ -1,0 +1,15 @@
+# Thecla
+
+**Language:** Late Latin (`LL.`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Thecla](../../en/2f/thecla-e72f17b2.md) — English *(borrowed)*

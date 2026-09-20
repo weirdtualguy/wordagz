@@ -1,0 +1,15 @@
+# 浮山
+
+**Language:** Mandarin (`cmn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Fushan](../../en/8c/fushan-e247ce29.md) — English *(borrowed)*

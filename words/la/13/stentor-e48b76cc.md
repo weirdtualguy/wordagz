@@ -1,0 +1,16 @@
+# Stentōr
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Stentor](../../en/18/stentor-e2addc37.md) — English *(derived)*
+- [stentor](../../en/81/stentor-705e5d0c.md) — English *(borrowed)*

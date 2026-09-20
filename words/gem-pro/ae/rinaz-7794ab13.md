@@ -1,0 +1,15 @@
+# \*Rīnaz
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Rhine](../../en/76/rhine-492c9efe.md) — English *(derived)*

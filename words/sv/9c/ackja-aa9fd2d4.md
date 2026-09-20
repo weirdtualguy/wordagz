@@ -1,0 +1,15 @@
+# ackja
+
+**Language:** Swedish (`sv`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [akja](../../en/4e/akja-9dd88773.md) — English *(borrowed)*

@@ -1,0 +1,17 @@
+# duodecas
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+twelve
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [duodecade](../../en/a1/duodecade-889aed11.md) — English *(borrowed)*

@@ -1,0 +1,17 @@
+# \*trappjā
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+trap, snare
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [trap](../../en/68/trap-305d6846.md) — English *(inherited)*

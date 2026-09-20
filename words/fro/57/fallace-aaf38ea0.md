@@ -1,0 +1,15 @@
+# fallace
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [fallacy](../../en/ac/fallacy-69eed28f.md) — English *(derived)*

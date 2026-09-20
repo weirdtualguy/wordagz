@@ -1,0 +1,18 @@
+# chitōn
+
+**Language:** Latin (`la`)
+
+## Definition
+
+mollusk
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [chitin](../../en/6d/chitin-e783c88c.md) — English *(derived)*
+- [chito-](../../en/f3/chito-fe9ab338.md) — English *(derived)*

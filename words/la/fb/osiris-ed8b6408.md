@@ -1,0 +1,15 @@
+# Osīris
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Osiris](../../en/54/osiris-76b48f0a.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# Anacreonticus
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [anacreontic](../../en/98/anacreontic-15be0b04.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# rꜥ-ms-sw
+
+**Language:** egy (`egy`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Ramesses](../../en/8c/ramesses-22baefeb.md) — English *(derived)*

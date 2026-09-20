@@ -1,0 +1,15 @@
+# \*threc
+
+**Language:** Old High German (`goh`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [dreck](../../en/98/dreck-888d723d.md) — English *(derived)*

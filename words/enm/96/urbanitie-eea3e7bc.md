@@ -1,0 +1,15 @@
+# urbanitie
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [urbanity](../../en/a3/urbanity-4276a6bb.md) — English *(inherited)*

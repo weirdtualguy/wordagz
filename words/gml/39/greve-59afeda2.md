@@ -1,0 +1,15 @@
+# grēve
+
+**Language:** gml (`gml`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [grieve](../../en/61/grieve-1cf4a8d6.md) — English *(derived)*

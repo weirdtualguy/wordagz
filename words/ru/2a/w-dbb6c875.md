@@ -1,0 +1,15 @@
+# во́лости
+
+**Language:** Russian (`ru`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [volosti](../../en/35/volosti-2578610d.md) — English *(borrowed)*

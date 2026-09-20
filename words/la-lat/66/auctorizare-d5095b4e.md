@@ -1,0 +1,15 @@
+# auctōrizāre
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [octroi](../../en/48/octroi-39ce50e5.md) — English *(derived)*

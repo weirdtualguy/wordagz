@@ -1,0 +1,15 @@
+# \*farukōn
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [firk](../../en/0c/firk-a6f54512.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# thost
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [thost](../../en/02/thost-bb0a7105.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# Sophia
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Sophia](../../en/43/sophia-9a37c529.md) — English *(borrowed)*

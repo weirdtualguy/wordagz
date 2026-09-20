@@ -1,0 +1,15 @@
+# Phaëthūsa
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Phaethusa](../../en/d6/phaethusa-1b8e80ef.md) — English *(borrowed)*

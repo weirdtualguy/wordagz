@@ -1,0 +1,15 @@
+# Matuła
+
+**Language:** Polish (`pl`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Matula](../../en/11/matula-20deb615.md) — English *(borrowed)*

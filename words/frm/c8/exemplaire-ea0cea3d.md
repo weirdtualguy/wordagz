@@ -1,0 +1,15 @@
+# exemplaire
+
+**Language:** Middle French (`frm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [exemplar](../../en/dc/exemplar-10840622.md) — English *(derived)*

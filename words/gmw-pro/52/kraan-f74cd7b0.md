@@ -1,0 +1,15 @@
+# \*krāan
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [crow](../../en/7c/crow-605aa0f5.md) — English *(inherited)*

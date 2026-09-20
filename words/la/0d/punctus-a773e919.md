@@ -1,0 +1,15 @@
+# punctus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [bung](../../en/be/bung-89c5235b.md) — English *(derived)*

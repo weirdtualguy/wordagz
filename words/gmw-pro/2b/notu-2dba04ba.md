@@ -1,0 +1,16 @@
+# \*notu
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [note](../../en/4d/note-c5549945.md) — English *(inherited)*
+- [noteful](../../en/8a/noteful-d93ee3aa.md) — English *(inherited)*

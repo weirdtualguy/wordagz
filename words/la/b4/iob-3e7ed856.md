@@ -1,0 +1,15 @@
+# Iob
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Job](../../en/3c/job-87c2183c.md) — English *(derived)*

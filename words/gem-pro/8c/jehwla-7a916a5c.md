@@ -1,0 +1,15 @@
+# \*jehwlą
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Yule](../../en/15/yule-0d798930.md) — English *(inherited)*

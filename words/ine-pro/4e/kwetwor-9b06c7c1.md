@@ -1,0 +1,15 @@
+# \*kʷetwṓr
+
+**Language:** Proto-Indo-European (`ine-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [four](../../en/d7/four-76e7df7b.md) — English *(inherited)*

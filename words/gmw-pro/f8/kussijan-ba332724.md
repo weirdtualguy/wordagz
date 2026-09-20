@@ -1,0 +1,15 @@
+# \*kussijan
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [kiss](../../en/54/kiss-4edd2a1e.md) — English *(inherited)*

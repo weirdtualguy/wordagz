@@ -1,0 +1,15 @@
+# gnoe
+
+**Language:** Dutch (`nl`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [gnu](../../en/f0/gnu-10a4e898.md) — English *(derived)*

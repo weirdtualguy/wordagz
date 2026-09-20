@@ -1,0 +1,15 @@
+# Aqyar
+
+**Language:** crh (`crh`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Aqyar](../../en/63/aqyar-985df586.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# Fisi
+
+**Language:** to (`to`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Fiji](../../en/96/fiji-ba5ccb94.md) — English *(borrowed)*

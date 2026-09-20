@@ -1,0 +1,17 @@
+# \*wārulogō
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+liar
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [warlock](../../en/1d/warlock-0a455e3c.md) — English *(inherited)*

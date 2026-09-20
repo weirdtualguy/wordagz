@@ -1,0 +1,16 @@
+# -idēs
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [-id](../../en/bb/id-15202cab.md) — English *(derived)*
+- [-ide](../../en/da/ide-781781a2.md) — English *(derived)*

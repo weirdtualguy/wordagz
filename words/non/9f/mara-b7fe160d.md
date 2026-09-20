@@ -1,0 +1,15 @@
+# mara
+
+**Language:** Old Norse (`non`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [mara](../../en/b1/mara-7c0b50e5.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# sago
+
+**Language:** Dutch (`nl`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sago](../../en/4a/sago-9476be04.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# doghte
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [dought](../../en/68/dought-33879a4f.md) — English *(inherited)*

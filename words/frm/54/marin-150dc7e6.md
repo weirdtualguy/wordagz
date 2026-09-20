@@ -1,0 +1,15 @@
+# marin
+
+**Language:** Middle French (`frm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [marine](../../en/1a/marine-1ce1eba5.md) — English *(derived)*

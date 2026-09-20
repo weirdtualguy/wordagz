@@ -1,0 +1,15 @@
+# evangelizare
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [evangelize](../../en/4a/evangelize-51549dd1.md) — English *(derived)*

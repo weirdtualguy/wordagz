@@ -1,0 +1,17 @@
+# vrouwe
+
+**Language:** Middle Dutch (`dum`)
+
+## Definition
+
+lady
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [frow](../../en/d0/frow-d409f667.md) — English *(derived)*

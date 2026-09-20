@@ -1,0 +1,17 @@
+# testoon
+
+**Language:** English (`en`) · **Part of speech:** noun
+
+## Definition
+
+An old Italian silver coin.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [testone](../../it/d7/testone-091fae9e.md) ("big head").
+
+## Direct ancestors
+
+- [testone](../../it/d7/testone-091fae9e.md) — Italian *(derived)*
+
+## Direct descendants
+
+_None recorded._

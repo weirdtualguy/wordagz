@@ -1,0 +1,15 @@
+# 小田
+
+**Language:** Japanese (`ja`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Oda](../../en/f9/oda-1bc098e2.md) — English *(borrowed)*

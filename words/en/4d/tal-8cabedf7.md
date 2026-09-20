@@ -1,0 +1,17 @@
+# tal-
+
+**Language:** English (`en`) · **Part of speech:** prefix
+
+## Definition
+
+Alternative form of talo-
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [tālus](../../la/51/talus-ca422c79.md) ("ankle").
+
+## Direct ancestors
+
+- [tālus](../../la/51/talus-ca422c79.md) — Latin *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

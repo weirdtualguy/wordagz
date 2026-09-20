@@ -1,0 +1,16 @@
+# -eth
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [-eth](../../en/40/eth-8b9b0ee7.md) — English *(inherited)*
+- [-th](../../en/1a/th-10c9f6ad.md) — English *(inherited)*

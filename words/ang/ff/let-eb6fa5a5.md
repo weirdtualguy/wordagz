@@ -1,0 +1,15 @@
+# lēt
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [leet](../../en/08/leet-5b4301cc.md) — English *(derived)*

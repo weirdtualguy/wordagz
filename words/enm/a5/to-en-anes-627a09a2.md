@@ -1,0 +1,15 @@
+# to þen anes
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [nonce](../../en/f6/nonce-17255f4a.md) — English *(derived)*

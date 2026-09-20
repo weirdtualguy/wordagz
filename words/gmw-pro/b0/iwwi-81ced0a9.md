@@ -1,0 +1,17 @@
+# \*iwwi
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+you
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [you](../../en/68/you-81d38393.md) — English *(inherited)*

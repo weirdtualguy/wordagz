@@ -1,0 +1,15 @@
+# Newlun
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from Swedish.
+
+## Direct ancestors
+
+- [Nylund](../../sv/7d/nylund-5e765bf6.md) — Swedish *(derived)*
+
+## Direct descendants
+
+_None recorded._

@@ -1,0 +1,15 @@
+# \*chīdi
+
+**Language:** Old High German (`goh`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Kitt](../../en/6a/kitt-32b78956.md) — English *(derived)*

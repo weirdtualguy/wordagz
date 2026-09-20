@@ -1,0 +1,15 @@
+# dunbulî
+
+**Language:** kmr (`kmr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Donboli](../../en/f6/donboli-f29722c6.md) — English *(derived)*

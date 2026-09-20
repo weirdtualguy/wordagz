@@ -1,0 +1,15 @@
+# Uston
+
+**Language:** oc (`oc`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Ustou](../../en/89/ustou-be634a04.md) — English *(derived)*

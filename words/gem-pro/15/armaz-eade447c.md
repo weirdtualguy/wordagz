@@ -1,0 +1,17 @@
+# \*armaz
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+arm
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [arm](../../en/d3/arm-3bcb14ca.md) — English *(inherited)*

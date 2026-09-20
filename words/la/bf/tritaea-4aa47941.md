@@ -1,0 +1,15 @@
+# Tritaea
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Tritaea](../../en/a8/tritaea-9e0ad620.md) — English *(borrowed)*

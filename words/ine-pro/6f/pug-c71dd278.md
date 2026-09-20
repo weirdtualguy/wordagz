@@ -1,0 +1,17 @@
+# \*pug-
+
+**Language:** Proto-Indo-European (`ine-pro`)
+
+## Definition
+
+billow, bulge, drift
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [fog](../../en/3d/fog-79788f27.md) — English *(derived)*

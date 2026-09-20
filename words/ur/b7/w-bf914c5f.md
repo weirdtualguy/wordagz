@@ -1,0 +1,15 @@
+# کرتا
+
+**Language:** ur (`ur`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [kurta](../../en/e0/kurta-518532a0.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# orang
+
+**Language:** ms (`ms`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [orang-pendek](../../en/7a/orang-pendek-ec734b1d.md) — English *(derived)*

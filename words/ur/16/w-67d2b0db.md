@@ -1,0 +1,15 @@
+# اَدْرَکِی
+
+**Language:** ur (`ur`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [adraki](../../en/d4/adraki-f2002fc0.md) — English *(borrowed)*

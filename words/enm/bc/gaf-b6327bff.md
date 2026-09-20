@@ -1,0 +1,15 @@
+# gaf
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [gave](../../en/53/gave-641d64f6.md) — English *(inherited)*

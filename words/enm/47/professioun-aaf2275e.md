@@ -1,0 +1,15 @@
+# professioun
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [profession](../../en/69/profession-843b465f.md) — English *(inherited)*

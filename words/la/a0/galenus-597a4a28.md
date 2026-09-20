@@ -1,0 +1,15 @@
+# Galēnus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Galen](../../en/6d/galen-9dd839b0.md) — English *(derived)*

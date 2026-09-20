@@ -1,0 +1,15 @@
+# satisfactoire
+
+**Language:** Middle French (`frm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [satisfactory](../../en/ee/satisfactory-4ce3036e.md) — English *(borrowed)*

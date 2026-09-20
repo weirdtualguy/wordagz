@@ -1,0 +1,15 @@
+# Kolár
+
+**Language:** sk (`sk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Kolar](../../en/c1/kolar-62f59ed0.md) — English *(derived)*

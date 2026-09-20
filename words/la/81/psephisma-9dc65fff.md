@@ -1,0 +1,15 @@
+# psēphisma
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [psephisma](../../en/5c/psephisma-53cb10b2.md) — English *(derived)*

@@ -1,0 +1,17 @@
+# rhingyll
+
+**Language:** Welsh (`cy`)
+
+## Definition
+
+sergeant
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [rhingyll](../../en/54/rhingyll-d37f0079.md) — English *(borrowed)*

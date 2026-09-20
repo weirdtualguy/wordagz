@@ -1,0 +1,15 @@
+# banana
+
+**Language:** Portuguese (`pt`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [banana](../../en/70/banana-4e06580f.md) — English *(borrowed)*

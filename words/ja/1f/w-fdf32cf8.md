@@ -1,0 +1,17 @@
+# 茶でも
+
+**Language:** Japanese (`ja`)
+
+## Definition
+
+Tea?
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [CHAdeMO](../../en/61/chademo-691bda10.md) — English *(borrowed)*

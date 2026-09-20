@@ -1,0 +1,15 @@
+# Վան
+
+**Language:** axm (`axm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Van](../../en/04/van-de48f31f.md) — English *(derived)*

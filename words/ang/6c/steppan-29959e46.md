@@ -1,0 +1,17 @@
+# steppan
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+to step, go, proceed, advance
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [step](../../en/f1/step-ff96d91f.md) — English *(inherited)*

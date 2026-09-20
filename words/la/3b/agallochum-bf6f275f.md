@@ -1,0 +1,15 @@
+# agallochum
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [agallochum](../../en/75/agallochum-4e16b897.md) — English *(borrowed)*

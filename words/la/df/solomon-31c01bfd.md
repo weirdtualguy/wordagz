@@ -1,0 +1,15 @@
+# Solomōn
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Solomon](../../en/e1/solomon-160b4e96.md) — English *(borrowed)*

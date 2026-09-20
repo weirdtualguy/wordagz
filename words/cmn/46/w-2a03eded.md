@@ -1,0 +1,15 @@
+# 韓城
+
+**Language:** Mandarin (`cmn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Hancheng](../../en/b3/hancheng-80786910.md) — English *(borrowed)*

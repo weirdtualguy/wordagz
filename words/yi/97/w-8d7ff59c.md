@@ -1,0 +1,15 @@
+# מפֿטיר
+
+**Language:** yi (`yi`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [maftir](../../en/16/maftir-c2400b20.md) — English *(derived)*

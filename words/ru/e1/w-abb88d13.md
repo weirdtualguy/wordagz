@@ -1,0 +1,15 @@
+# окунь
+
+**Language:** Russian (`ru`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Okun](../../en/3c/okun-9bce1146.md) — English *(borrowed)*

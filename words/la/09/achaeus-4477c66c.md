@@ -1,0 +1,15 @@
+# achaeus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Achaean](../../en/89/achaean-f436ff54.md) — English *(borrowed)*

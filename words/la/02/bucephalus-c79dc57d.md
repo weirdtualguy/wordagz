@@ -1,0 +1,15 @@
+# Būcephalus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Bucephalus](../../en/24/bucephalus-fbfcc3a9.md) — English *(borrowed)*

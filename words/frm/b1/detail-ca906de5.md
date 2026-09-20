@@ -1,0 +1,15 @@
+# détail
+
+**Language:** Middle French (`frm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [detail](../../en/29/detail-a7941d2e.md) — English *(borrowed)*

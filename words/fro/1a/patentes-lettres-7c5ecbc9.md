@@ -1,0 +1,17 @@
+# patentes lettres
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+document granting an office, privilege, right, etc., or making a decree
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [patent](../../en/69/patent-a8049f4a.md) — English *(derived)*

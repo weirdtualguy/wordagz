@@ -1,0 +1,17 @@
+# maselen
+
+**Language:** gml (`gml`)
+
+## Definition
+
+red blemishes, measels
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [measles](../../en/db/measles-5f749fb8.md) — English *(derived)*

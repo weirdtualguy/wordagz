@@ -1,0 +1,15 @@
+# Nicander
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Nicander](../../en/9d/nicander-5ecf636e.md) — English *(borrowed)*

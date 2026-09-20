@@ -1,0 +1,15 @@
+# \*Māwortis
+
+**Language:** Proto-Italic (`itc-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Mark](../../en/ca/mark-5aaf9c22.md) — English *(derived)*

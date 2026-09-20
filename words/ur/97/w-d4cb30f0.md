@@ -1,0 +1,15 @@
+# خَبَر
+
+**Language:** ur (`ur`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [kubber](../../en/1c/kubber-047ed888.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# smocc
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [smock](../../en/d4/smock-f47e9c04.md) — English *(inherited)*

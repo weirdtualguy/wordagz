@@ -1,0 +1,15 @@
+# \*in(d)ber
+
+**Language:** Old Irish (`sga`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Inver-](../../en/67/inver-2fc15254.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# \*freusan
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [freeze](../../en/d1/freeze-6a4c5057.md) — English *(inherited)*

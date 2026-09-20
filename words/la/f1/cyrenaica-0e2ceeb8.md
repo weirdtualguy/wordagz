@@ -1,0 +1,15 @@
+# Cȳrenaica
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Cyrenaica](../../en/dc/cyrenaica-2e5b795b.md) — English *(borrowed)*

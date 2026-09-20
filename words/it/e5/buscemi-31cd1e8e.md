@@ -1,0 +1,15 @@
+# Buscemi
+
+**Language:** Italian (`it`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Buscemi](../../en/6b/buscemi-05b48337.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# Turcia
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Türkiye](../../en/45/turkiye-95f3cb1a.md) — English *(derived)*

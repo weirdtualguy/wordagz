@@ -1,0 +1,15 @@
+# taghairm
+
+**Language:** Scottish Gaelic (`gd`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [taghairm](../../en/27/taghairm-61c90678.md) — English *(borrowed)*

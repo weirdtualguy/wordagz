@@ -1,0 +1,15 @@
+# Byun
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from Korean.
+
+## Direct ancestors
+
+- [변](../../ko/00/w-346a255f.md) — Korean *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

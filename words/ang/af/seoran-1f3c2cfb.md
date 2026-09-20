@@ -1,0 +1,17 @@
+# seorþan
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+to violate, rape
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sard](../../en/95/sard-1e64988f.md) — English *(inherited)*

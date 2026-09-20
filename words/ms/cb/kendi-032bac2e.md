@@ -1,0 +1,15 @@
+# kendi
+
+**Language:** ms (`ms`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [kendi](../../en/e9/kendi-821d8226.md) — English *(borrowed)*

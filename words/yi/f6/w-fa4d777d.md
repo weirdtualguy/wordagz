@@ -1,0 +1,15 @@
+# פּאות
+
+**Language:** yi (`yi`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [peot](../../en/46/peot-5389e858.md) — English *(borrowed)*

@@ -1,0 +1,17 @@
+# ܪܙܩܐ
+
+**Language:** syc (`syc`)
+
+## Definition
+
+daily ration
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [risk](../../en/37/risk-b97d2b48.md) — English *(derived)*

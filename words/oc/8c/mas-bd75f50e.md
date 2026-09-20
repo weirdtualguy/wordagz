@@ -1,0 +1,15 @@
+# mas
+
+**Language:** oc (`oc`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [mas](../../en/2c/mas-7c8adf42.md) — English *(derived)*

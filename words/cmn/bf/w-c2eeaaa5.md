@@ -1,0 +1,15 @@
+# 大瀝
+
+**Language:** Mandarin (`cmn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Dali](../../en/aa/dali-a3f9f5d8.md) — English *(borrowed)*

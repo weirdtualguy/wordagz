@@ -1,0 +1,15 @@
+# ġelīc
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [-like](../../en/20/like-f61db092.md) — English *(derived)*

@@ -1,0 +1,17 @@
+# ǣrra
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+earlier, former, preceding
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [erer](../../en/0e/erer-35e6fe9e.md) — English *(inherited)*

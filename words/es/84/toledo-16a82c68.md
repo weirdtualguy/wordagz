@@ -1,0 +1,15 @@
+# Toledo
+
+**Language:** Spanish (`es`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Toledo](../../en/d8/toledo-940c4612.md) — English *(borrowed)*

@@ -1,0 +1,17 @@
+# garbeler
+
+**Language:** Anglo-Norman (`xno`)
+
+## Definition
+
+to sift
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [garble](../../en/1e/garble-e35a9979.md) — English *(derived)*

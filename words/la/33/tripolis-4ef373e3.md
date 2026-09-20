@@ -1,0 +1,16 @@
+# Tripolis
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Tripoli](../../en/cf/tripoli-1c625a0f.md) — English *(derived)*
+- [Tripolis](../../en/23/tripolis-b3b9c9ca.md) — English *(borrowed)*

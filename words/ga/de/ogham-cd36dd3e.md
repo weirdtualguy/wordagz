@@ -1,0 +1,15 @@
+# ogham
+
+**Language:** Irish (`ga`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Ogham](../../en/43/ogham-3213da6d.md) — English *(borrowed)*

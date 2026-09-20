@@ -1,0 +1,15 @@
+# فَلُوكَة
+
+**Language:** Arabic (`ar`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [felucca](../../en/c7/felucca-fdaa6da4.md) — English *(derived)*

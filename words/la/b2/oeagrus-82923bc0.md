@@ -1,0 +1,15 @@
+# Oeagrus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Oeagrus](../../en/74/oeagrus-9290dfee.md) — English *(borrowed)*

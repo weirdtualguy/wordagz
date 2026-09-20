@@ -1,0 +1,15 @@
+# Львів
+
+**Language:** Ukrainian (`uk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Lviv](../../en/52/lviv-c7bd05be.md) — English *(borrowed)*

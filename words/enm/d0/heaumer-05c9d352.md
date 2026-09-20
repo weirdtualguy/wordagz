@@ -1,0 +1,15 @@
+# heaumer
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [heaumer](../../en/5a/heaumer-fd0f5beb.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# \*taru
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tare](../../en/3c/tare-7e0b8ec3.md) — English *(inherited)*

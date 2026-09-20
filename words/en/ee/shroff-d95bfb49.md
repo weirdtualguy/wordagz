@@ -1,0 +1,20 @@
+# Shroff
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from Hindi, Urdu, Persian, or Arabic, of Indian usage.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [صَرَّاف](../../ur/93/w-8357da5d.md) ("monet charger").
+
+## Direct ancestors
+
+- [صَرَّاف](../../ar/b0/w-eba9335b.md) — Arabic *(derived)*
+- [صَرَّاف](../../fa-cls/3f/w-9f9c4885.md) — fa-cls *(derived)*
+- [صَرَّاف](../../ur/93/w-8357da5d.md) — ur *(borrowed)*
+- [सर्राफ़](../../hi/8e/w-3dccb9dd.md) — Hindi *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

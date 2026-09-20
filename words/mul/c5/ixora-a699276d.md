@@ -1,0 +1,15 @@
+# Ixora
+
+**Language:** Translingual (`mul`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [ixora](../../en/d2/ixora-7a6b8867.md) — English *(borrowed)*

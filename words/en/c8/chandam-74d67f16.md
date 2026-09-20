@@ -1,0 +1,15 @@
+# Chandam
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A Meitei surname from Manipuri
+
+## Direct ancestors
+
+- [ꯆꯥꯟꯗꯝ](../../mni/9d/w-b3543c92.md) — mni *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

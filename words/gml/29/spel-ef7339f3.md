@@ -1,0 +1,15 @@
+# spel
+
+**Language:** gml (`gml`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [spiel](../../en/ba/spiel-9a758fb2.md) — English *(derived)*

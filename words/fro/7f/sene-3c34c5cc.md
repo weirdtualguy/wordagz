@@ -1,0 +1,15 @@
+# sene
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sene](../../en/a5/sene-8eb96bad.md) — English *(derived)*

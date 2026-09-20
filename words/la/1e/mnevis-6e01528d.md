@@ -1,0 +1,15 @@
+# Mnēvis
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Mnevis](../../en/4e/mnevis-412b3ab8.md) — English *(borrowed)*

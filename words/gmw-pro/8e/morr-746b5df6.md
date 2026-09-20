@@ -1,0 +1,15 @@
+# \*morþr
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [murder](../../en/d6/murder-093f2853.md) — English *(inherited)*

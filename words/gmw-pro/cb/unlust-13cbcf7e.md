@@ -1,0 +1,15 @@
+# \*unlust
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [unlust](../../en/24/unlust-39702c4f.md) — English *(inherited)*

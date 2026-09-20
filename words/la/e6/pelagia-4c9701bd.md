@@ -1,0 +1,16 @@
+# Pelagia
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Pelagia](../../en/63/pelagia-59b7c0e7.md) — English *(borrowed)*
+- [Pelagie](../../en/82/pelagie-076a0c2d.md) — English *(derived)*

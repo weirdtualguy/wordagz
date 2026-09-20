@@ -1,0 +1,17 @@
+# \*brasnaz
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+brazen
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [brass](../../en/a7/brass-06a17671.md) — English *(inherited)*

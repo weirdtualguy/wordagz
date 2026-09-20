@@ -1,0 +1,15 @@
+# Станіслав
+
+**Language:** Ukrainian (`uk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Stanislav](../../en/96/stanislav-42ac6bd7.md) — English *(borrowed)*

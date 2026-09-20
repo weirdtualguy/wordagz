@@ -1,0 +1,15 @@
+# \*wéǵʰeti
+
+**Language:** Proto-Indo-European (`ine-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [weigh](../../en/be/weigh-d3c975e6.md) — English *(inherited)*

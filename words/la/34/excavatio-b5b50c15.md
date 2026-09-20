@@ -1,0 +1,17 @@
+# excavātiō
+
+**Language:** Latin (`la`)
+
+## Definition
+
+a hollowing out
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [excavation](../../en/cb/excavation-62336017.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# Vienne
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Vienne](../../en/08/vienne-57b174f4.md) — English *(borrowed)*

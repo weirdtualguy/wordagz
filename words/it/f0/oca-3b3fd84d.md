@@ -1,0 +1,15 @@
+# oca
+
+**Language:** Italian (`it`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [oka](../../en/2a/oka-1f4acfaf.md) — English *(borrowed)*

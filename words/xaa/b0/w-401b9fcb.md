@@ -1,0 +1,15 @@
+# زَنَاتِي
+
+**Language:** xaa (`xaa`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [jennet](../../en/d7/jennet-49afa016.md) — English *(derived)*

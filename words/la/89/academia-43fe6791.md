@@ -1,0 +1,15 @@
+# academia
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [academic](../../en/39/academic-6ffe3637.md) — English *(derived)*

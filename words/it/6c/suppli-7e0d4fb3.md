@@ -1,0 +1,15 @@
+# supplì
+
+**Language:** Italian (`it`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [suppli](../../en/5d/suppli-28af048e.md) — English *(borrowed)*

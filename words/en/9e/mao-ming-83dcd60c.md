@@ -1,0 +1,15 @@
+# Mao-ming
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+Alternative form of Maoming.
+
+## Direct ancestors
+
+- [茂名](../../cmn/12/w-d8d38188.md) — Mandarin *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

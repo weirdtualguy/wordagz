@@ -1,0 +1,15 @@
+# Hecatē
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Hecate](../../en/80/hecate-94791056.md) — English *(borrowed)*

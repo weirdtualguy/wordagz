@@ -1,0 +1,15 @@
+# ابادي
+
+**Language:** Arabic (`ar`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Abadi](../../en/a3/abadi-bd053c1a.md) — English *(borrowed)*

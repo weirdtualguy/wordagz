@@ -1,0 +1,15 @@
+# Gorgō
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [gorgon](../../en/65/gorgon-4f12f27d.md) — English *(derived)*

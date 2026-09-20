@@ -1,0 +1,15 @@
+# drūgaþ
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [drought](../../en/4e/drought-9a4c666f.md) — English *(inherited)*

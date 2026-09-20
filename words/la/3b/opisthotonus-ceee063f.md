@@ -1,0 +1,15 @@
+# opisthotonus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [opisthotonos](../../en/fa/opisthotonos-60bc6284.md) — English *(derived)*

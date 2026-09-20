@@ -1,0 +1,15 @@
+# Heu
+
+**Language:** German (`de`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [hoy](../../en/ef/hoy-6c42e33f.md) — English *(borrowed)*

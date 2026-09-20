@@ -1,0 +1,15 @@
+# Pültz
+
+**Language:** German (`de`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Pultz](../../en/24/pultz-460c3215.md) — English *(borrowed)*

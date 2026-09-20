@@ -1,0 +1,17 @@
+# Horst
+
+**Language:** German (`de`)
+
+## Definition
+
+heap
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [horst](../../en/aa/horst-381ae56a.md) — English *(borrowed)*

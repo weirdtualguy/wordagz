@@ -1,0 +1,15 @@
+# vinteno
+
+**Language:** Portuguese (`pt`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [vintem](../../en/2c/vintem-cc21a37f.md) — English *(derived)*

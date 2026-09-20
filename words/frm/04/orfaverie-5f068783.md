@@ -1,0 +1,15 @@
+# orfaverie
+
+**Language:** Middle French (`frm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [orfevrerie](../../en/1f/orfevrerie-f8aefade.md) — English *(derived)*

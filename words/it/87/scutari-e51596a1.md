@@ -1,0 +1,15 @@
+# Scutari
+
+**Language:** Italian (`it`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Scutari](../../en/21/scutari-25f03442.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# rhabdomantīa
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [rhabdomancy](../../en/7f/rhabdomancy-b26d5206.md) — English *(borrowed)*

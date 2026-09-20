@@ -1,0 +1,15 @@
+# iacēre
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [gist](../../en/7e/gist-cb775b50.md) — English *(derived)*

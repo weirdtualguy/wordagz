@@ -1,0 +1,15 @@
+# gargarisma
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [gargarism](../../en/8d/gargarism-9d7c1a83.md) — English *(derived)*

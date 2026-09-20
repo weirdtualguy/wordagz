@@ -1,0 +1,17 @@
+# cara
+
+**Language:** Italian (`it`)
+
+## Definition
+
+dear
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Cara](../../en/25/cara-bccc3af1.md) — English *(derived)*

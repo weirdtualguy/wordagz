@@ -1,0 +1,15 @@
+# sife
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sieve](../../en/5b/sieve-c2b1305d.md) — English *(inherited)*

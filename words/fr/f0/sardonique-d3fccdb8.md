@@ -1,0 +1,15 @@
+# sardonique
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sardonic](../../en/60/sardonic-18485cb7.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# siwian
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sew](../../en/9d/sew-b19a3363.md) — English *(inherited)*

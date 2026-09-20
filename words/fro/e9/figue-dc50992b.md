@@ -1,0 +1,15 @@
+# figue
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [fig](../../en/77/fig-cb3d4312.md) — English *(derived)*

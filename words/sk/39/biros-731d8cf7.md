@@ -1,0 +1,15 @@
+# Biroš
+
+**Language:** sk (`sk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Biros](../../en/77/biros-788202b2.md) — English *(borrowed)*

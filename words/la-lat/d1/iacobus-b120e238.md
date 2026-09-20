@@ -1,0 +1,15 @@
+# Iācōbus
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Jacob](../../en/28/jacob-9d09959e.md) — English *(derived)*

@@ -1,0 +1,17 @@
+# हंस
+
+**Language:** Sanskrit (`sa`)
+
+## Definition
+
+swan
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [paramahamsa](../../en/98/paramahamsa-59a1dd78.md) — English *(derived)*

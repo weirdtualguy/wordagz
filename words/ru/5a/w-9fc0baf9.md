@@ -1,0 +1,19 @@
+# воробей
+
+**Language:** Russian (`ru`)
+
+## Definition
+
+sparrow
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Vorobei](../../en/48/vorobei-3b37be65.md) — English *(derived)*
+- [Vorobej](../../en/e8/vorobej-0960a838.md) — English *(derived)*
+- [Worobey](../../en/7b/worobey-a469890e.md) — English *(derived)*

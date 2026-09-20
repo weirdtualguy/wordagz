@@ -1,0 +1,15 @@
+# -asta
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [-ast](../../en/94/ast-011a7842.md) — English *(borrowed)*

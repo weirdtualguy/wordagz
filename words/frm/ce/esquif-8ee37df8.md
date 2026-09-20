@@ -1,0 +1,15 @@
+# esquif
+
+**Language:** Middle French (`frm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [skiff](../../en/0e/skiff-f1286d28.md) — English *(derived)*

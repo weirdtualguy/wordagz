@@ -1,0 +1,15 @@
+# 𐀀𐀯𐀹𐀊
+
+**Language:** gmy (`gmy`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Asia](../../en/1e/asia-1a6fe6d3.md) — English *(derived)*

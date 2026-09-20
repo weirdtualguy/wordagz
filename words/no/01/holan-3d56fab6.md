@@ -1,0 +1,15 @@
+# Holan
+
+**Language:** Norwegian (`no`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Holan](../../en/b8/holan-de4fe373.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# κᾰθ’,κᾰτᾰ́
+
+**Language:** Ancient Greek (`grc`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [cath](../../en/97/cath-60331398.md) — English *(derived)*

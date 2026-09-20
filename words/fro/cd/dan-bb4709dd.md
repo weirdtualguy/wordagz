@@ -1,0 +1,15 @@
+# dan
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [dan](../../en/88/dan-d65e67fe.md) — English *(derived)*

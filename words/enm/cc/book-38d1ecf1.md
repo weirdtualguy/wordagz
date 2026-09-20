@@ -1,0 +1,15 @@
+# book
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [book](../../en/06/book-a6399113.md) — English *(inherited)*

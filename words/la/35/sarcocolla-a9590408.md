@@ -1,0 +1,16 @@
+# sarcocolla
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sarcocol](../../en/4c/sarcocol-eb44968f.md) — English *(derived)*
+- [sarcocolla](../../en/83/sarcocolla-c1387ad4.md) — English *(derived)*

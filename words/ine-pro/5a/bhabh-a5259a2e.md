@@ -1,0 +1,17 @@
+# \*bʰabʰ-
+
+**Language:** Proto-Indo-European (`ine-pro`)
+
+## Definition
+
+bean
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [bean](../../en/43/bean-09de4f0b.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# poēma
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [poem](../../en/f1/poem-99eff33d.md) — English *(derived)*

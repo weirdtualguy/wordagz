@@ -1,0 +1,17 @@
+# τελειωτής
+
+**Language:** grc-koi (`grc-koi`)
+
+## Definition
+
+accomplisher, finisher
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [teleiotic](../../en/57/teleiotic-92c17188.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# Митник
+
+**Language:** Ukrainian (`uk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Mitnick](../../en/6e/mitnick-7ad13f3a.md) — English *(derived)*

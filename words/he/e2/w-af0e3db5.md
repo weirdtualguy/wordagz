@@ -1,0 +1,15 @@
+# חברותא
+
+**Language:** Hebrew (`he`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [chavrusa](../../en/e0/chavrusa-56344871.md) — English *(borrowed)*

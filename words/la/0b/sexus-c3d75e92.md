@@ -1,0 +1,17 @@
+# sexus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+gender; gender traits; males or females; genitals
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sex](../../en/d5/sex-8763f26c.md) — English *(derived)*

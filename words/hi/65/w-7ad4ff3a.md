@@ -1,0 +1,15 @@
+# राना
+
+**Language:** Hindi (`hi`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Rana](../../en/94/rana-732cacd4.md) — English *(borrowed)*

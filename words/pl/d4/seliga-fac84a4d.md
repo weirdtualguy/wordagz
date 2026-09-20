@@ -1,0 +1,15 @@
+# Seliga
+
+**Language:** Polish (`pl`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Seliga](../../en/68/seliga-0e6a0d83.md) — English *(borrowed)*

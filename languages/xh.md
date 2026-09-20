@@ -1,0 +1,22 @@
+# xh (`xh`)
+
+18 pages. Showing the 18 best-connected.
+
+- [amaXhosa](../words/xh/e6/amaxhosa-1c9266a1.md)
+- [abakwetha](../words/xh/f3/abakwetha-62ecce5f.md)
+- [-phakathi](../words/xh/83/phakathi-1d41a0e3.md)
+- [ama-](../words/xh/cf/ama-26a61357.md)
+- [amaMbo](../words/xh/b9/amambo-0431cb4a.md)
+- [bansela](../words/xh/39/bansela-20abd05b.md)
+- [idobo](../words/xh/42/idobo-59147f67.md)
+- [igqirha](../words/xh/cd/igqirha-a6ff3a63.md)
+- [iimbongi](../words/xh/32/iimbongi-9979f996.md)
+- [imali](../words/xh/1f/imali-6e1ccecc.md)
+- [imbongi](../words/xh/b5/imbongi-62824b9c.md)
+- [impumalanga](../words/xh/e1/impumalanga-78c5f70d.md)
+- [kwedini](../words/xh/20/kwedini-da401dbd.md)
+- [Mandela](../words/xh/9d/mandela-ef1501ca.md)
+- [ubuntu](../words/xh/22/ubuntu-63aae0d6.md)
+- [umama](../words/xh/00/umama-e1623e7a.md)
+- [umzantsi](../words/xh/9c/umzantsi-9c4dcd80.md)
+- [ísíXhosa](../words/xh/e4/isixhosa-29a15a37.md)

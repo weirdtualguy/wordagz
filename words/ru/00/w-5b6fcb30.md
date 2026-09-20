@@ -1,0 +1,15 @@
+# Итуру́п
+
+**Language:** Russian (`ru`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Iturup](../../en/5e/iturup-b7de903c.md) — English *(borrowed)*

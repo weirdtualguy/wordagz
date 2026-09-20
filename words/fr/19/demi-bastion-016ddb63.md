@@ -1,0 +1,15 @@
+# demi-bastion
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [demibastion](../../en/16/demibastion-fe88fdb7.md) — English *(borrowed)*

@@ -1,0 +1,17 @@
+# indicum
+
+**Language:** Latin (`la`)
+
+## Definition
+
+indigo
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [indigo](../../en/9c/indigo-bddea658.md) — English *(derived)*

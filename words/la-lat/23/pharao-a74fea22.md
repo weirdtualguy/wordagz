@@ -1,0 +1,15 @@
+# Pharaō
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [pharaoh](../../en/0a/pharaoh-b72fafb3.md) — English *(derived)*

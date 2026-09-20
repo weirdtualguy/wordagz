@@ -1,0 +1,15 @@
+# бубир
+
+**Language:** Ukrainian (`uk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Bubyr](../../en/22/bubyr-984713e1.md) — English *(derived)*

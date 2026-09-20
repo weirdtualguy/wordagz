@@ -1,0 +1,15 @@
+# hexagōnum
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [hexagon](../../en/7d/hexagon-a206a076.md) — English *(derived)*

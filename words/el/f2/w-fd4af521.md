@@ -1,0 +1,15 @@
+# Αθήνα
+
+**Language:** Greek (`el`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Athina](../../en/52/athina-927d9f74.md) — English *(borrowed)*

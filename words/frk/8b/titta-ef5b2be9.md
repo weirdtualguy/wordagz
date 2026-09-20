@@ -1,0 +1,15 @@
+# \*tittā
+
+**Language:** frk (`frk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [teat](../../en/58/teat-f95fc4cf.md) — English *(derived)*

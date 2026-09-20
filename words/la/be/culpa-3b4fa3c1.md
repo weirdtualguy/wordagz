@@ -1,0 +1,15 @@
+# culpa
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [culpe](../../en/ef/culpe-2d3b4e7a.md) — English *(derived)*

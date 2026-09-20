@@ -1,0 +1,17 @@
+# \*baþą
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+bath
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [bath](../../en/07/bath-4eaf2092.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# Gjøahavn
+
+**Language:** Norwegian (`no`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Gjoa Haven](../../en/6b/gjoa-haven-f700788b.md) — English *(derived)*

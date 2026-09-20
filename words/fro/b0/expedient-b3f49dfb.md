@@ -1,0 +1,15 @@
+# expedient
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [expedient](../../en/e5/expedient-5fbd00b6.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# Daphnis
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Daphnis](../../en/67/daphnis-ab751498.md) — English *(borrowed)*

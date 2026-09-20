@@ -1,0 +1,17 @@
+# part
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+part
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [part](../../en/bc/part-40749af9.md) — English *(derived)*

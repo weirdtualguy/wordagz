@@ -1,0 +1,15 @@
+# hygiène
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [hygiene](../../en/ef/hygiene-749ff87a.md) — English *(derived)*

@@ -1,0 +1,17 @@
+# Letcher
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname originating as an occupation.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [leche](../../enm/20/leche-e048da55.md) ("blood-sucking worm").
+
+## Direct ancestors
+
+- [leche](../../enm/20/leche-e048da55.md) — Middle English *(derived)*
+
+## Direct descendants
+
+_None recorded._

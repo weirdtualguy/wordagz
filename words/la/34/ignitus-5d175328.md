@@ -1,0 +1,15 @@
+# ignītus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [ignite](../../en/7c/ignite-9209f51b.md) — English *(borrowed)*

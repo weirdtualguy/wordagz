@@ -1,0 +1,15 @@
+# mildenesse
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [mildness](../../en/91/mildness-2439ac70.md) — English *(inherited)*

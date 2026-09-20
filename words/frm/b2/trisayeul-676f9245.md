@@ -1,0 +1,15 @@
+# trisayeul
+
+**Language:** Middle French (`frm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tresayle](../../en/a2/tresayle-c3a33447.md) — English *(borrowed)*

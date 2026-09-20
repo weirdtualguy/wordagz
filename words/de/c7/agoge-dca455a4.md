@@ -1,0 +1,17 @@
+# Agoge
+
+**Language:** German (`de`)
+
+## Definition
+
+tempo
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [agogic](../../en/e5/agogic-c397dd3d.md) — English *(derived)*

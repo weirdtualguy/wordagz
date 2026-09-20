@@ -1,0 +1,17 @@
+# purs
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+purse
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [purse](../../en/91/purse-c4d90245.md) — English *(inherited)*

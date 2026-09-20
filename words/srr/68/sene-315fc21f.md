@@ -1,0 +1,15 @@
+# Sène
+
+**Language:** srr (`srr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Sene](../../en/c3/sene-ba046fcf.md) — English *(borrowed)*

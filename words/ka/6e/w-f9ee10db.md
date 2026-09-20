@@ -1,0 +1,15 @@
+# ჭაჭა
+
+**Language:** ka (`ka`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [chacha](../../en/70/chacha-76004042.md) — English *(borrowed)*

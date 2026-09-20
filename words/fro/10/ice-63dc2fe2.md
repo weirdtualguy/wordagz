@@ -1,0 +1,15 @@
+# -ice
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [-ice](../../en/e4/ice-9b452f5a.md) — English *(borrowed)*

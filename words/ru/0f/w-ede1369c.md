@@ -1,0 +1,15 @@
+# Польский
+
+**Language:** Russian (`ru`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Polsky](../../en/30/polsky-e2bba194.md) — English *(borrowed)*

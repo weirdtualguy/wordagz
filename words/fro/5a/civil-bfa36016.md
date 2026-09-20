@@ -1,0 +1,15 @@
+# civil
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [civil](../../en/77/civil-79251927.md) — English *(derived)*

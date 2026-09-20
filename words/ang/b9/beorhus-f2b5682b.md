@@ -1,0 +1,15 @@
+# \*bēorhūs
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [beerhouse](../../en/9e/beerhouse-c07066ff.md) — English *(inherited)*

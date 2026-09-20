@@ -1,0 +1,15 @@
+# σκάζων
+
+**Language:** Ancient Greek (`grc`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [scazon](../../en/50/scazon-d2a2c416.md) — English *(derived)*

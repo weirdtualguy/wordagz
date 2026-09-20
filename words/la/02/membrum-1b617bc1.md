@@ -1,0 +1,17 @@
+# membrum
+
+**Language:** Latin (`la`)
+
+## Definition
+
+limb, body part
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [member](../../en/0b/member-0e8527f2.md) — English *(derived)*

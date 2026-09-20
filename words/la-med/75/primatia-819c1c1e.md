@@ -1,0 +1,17 @@
+# primatia
+
+**Language:** Medieval Latin (`la-med`)
+
+## Definition
+
+office of a church primate
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [primacy](../../en/cb/primacy-bf7a8ff6.md) — English *(derived)*

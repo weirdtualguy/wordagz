@@ -1,0 +1,15 @@
+# Ceryneia
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Ceryneia](../../en/1c/ceryneia-5ffac44a.md) — English *(borrowed)*

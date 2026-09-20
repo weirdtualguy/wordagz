@@ -1,0 +1,15 @@
+# 枝城
+
+**Language:** Mandarin (`cmn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Zhicheng](../../en/d8/zhicheng-c9fd1b28.md) — English *(borrowed)*

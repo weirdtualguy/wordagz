@@ -1,0 +1,17 @@
+# ḥwt
+
+**Language:** egy (`egy`)
+
+## Definition
+
+enclosure, mansion
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Hawara](../../en/f2/hawara-a0199c52.md) — English *(derived)*

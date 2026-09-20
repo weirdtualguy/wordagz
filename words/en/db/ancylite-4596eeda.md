@@ -1,0 +1,17 @@
+# ancylite
+
+**Language:** English (`en`) · **Part of speech:** noun
+
+## Definition
+
+A basic carbonate mineral of strontium and rare earth elements.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [ἀγκύλος](../../grc/b5/w-fcf91646.md) ("crooked").
+
+## Direct ancestors
+
+- [ἀγκύλος](../../grc/b5/w-fcf91646.md) — Ancient Greek *(derived)*
+
+## Direct descendants
+
+_None recorded._

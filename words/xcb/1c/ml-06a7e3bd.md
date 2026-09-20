@@ -1,0 +1,17 @@
+# \*mɛ̄l
+
+**Language:** xcb (`xcb`)
+
+## Definition
+
+bald
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Mallerstang](../../en/ad/mallerstang-cb3dc7c4.md) — English *(derived)*

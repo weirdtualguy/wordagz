@@ -1,0 +1,17 @@
+# \*humpaz
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+hip, height
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [hump](../../en/56/hump-233d46e4.md) — English *(derived)*

@@ -1,0 +1,18 @@
+# 𐤐𐤌𐤉𐤉𐤕𐤍
+
+**Language:** phn (`phn`)
+
+## Definition
+
+Pumay has given
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Pygmalion](../../en/40/pygmalion-5cdf85ca.md) — English *(derived)*
+- [pygmalion](../../en/49/pygmalion-04c2acb1.md) — English *(derived)*

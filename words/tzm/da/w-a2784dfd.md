@@ -1,0 +1,15 @@
+# ⴱⴰⵜⵏⴰ
+
+**Language:** tzm (`tzm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Batna](../../en/33/batna-6fcaf4a0.md) — English *(derived)*

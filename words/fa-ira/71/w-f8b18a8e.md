@@ -1,0 +1,15 @@
+# محیالدین
+
+**Language:** fa-ira (`fa-ira`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Mohyeddin](../../en/33/mohyeddin-90596626.md) — English *(borrowed)*

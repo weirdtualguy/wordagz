@@ -1,0 +1,17 @@
+# cuy
+
+**Language:** es-PE (`es-PE`)
+
+## Definition
+
+guinea pig
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [cuy](../../en/5c/cuy-2daad44a.md) — English *(borrowed)*

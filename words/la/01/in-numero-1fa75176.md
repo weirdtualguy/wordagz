@@ -1,0 +1,17 @@
+# (in) numerō
+
+**Language:** Latin (`la`)
+
+## Definition
+
+in number, to the number of
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [no](../../en/0f/no-7f848574.md) — English *(borrowed)*

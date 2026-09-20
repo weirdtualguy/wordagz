@@ -1,0 +1,15 @@
+# þēofian
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [thieve](../../en/30/thieve-6de24686.md) — English *(inherited)*

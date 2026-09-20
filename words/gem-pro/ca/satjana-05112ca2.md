@@ -1,0 +1,15 @@
+# \*satjaną
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [set](../../en/c5/set-9e837be0.md) — English *(inherited)*

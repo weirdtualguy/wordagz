@@ -1,0 +1,15 @@
+# تماشا
+
+**Language:** Persian (`fa`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tamashbeen](../../en/7c/tamashbeen-9960f019.md) — English *(derived)*

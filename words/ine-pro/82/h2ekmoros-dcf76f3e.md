@@ -1,0 +1,15 @@
+# \*h₂eḱmoros
+
+**Language:** Proto-Indo-European (`ine-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [hammer](../../en/ae/hammer-2d4e1e90.md) — English *(inherited)*

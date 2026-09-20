@@ -1,0 +1,17 @@
+# storm
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+tempest, storm; attack; storm of arrows; disquiet, disturbance, tumult, uproar; onrush, rush
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [storm](../../en/3a/storm-5ee63a52.md) — English *(derived)*

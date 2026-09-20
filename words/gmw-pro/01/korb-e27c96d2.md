@@ -1,0 +1,15 @@
+# \*korb
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [corf](../../en/90/corf-36328d29.md) — English *(derived)*

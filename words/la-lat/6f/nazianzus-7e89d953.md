@@ -1,0 +1,15 @@
+# Nazianzus
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Nazianzus](../../en/8f/nazianzus-97dd4b43.md) — English *(borrowed)*

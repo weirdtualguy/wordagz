@@ -1,0 +1,17 @@
+# lyġe
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+lie
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [lie](../../en/88/lie-3783ff8a.md) — English *(inherited)*

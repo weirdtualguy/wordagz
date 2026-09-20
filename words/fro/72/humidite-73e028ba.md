@@ -1,0 +1,15 @@
+# humidité
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [humidity](../../en/12/humidity-4cfd6b3d.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# toparchia
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [toparchy](../../en/fb/toparchy-8dc87eba.md) — English *(derived)*

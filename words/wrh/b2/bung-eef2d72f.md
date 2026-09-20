@@ -1,0 +1,17 @@
+# bung
+
+**Language:** wrh (`wrh`)
+
+## Definition
+
+dead
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [billabong](../../en/5a/billabong-f2e42362.md) — English *(borrowed)*

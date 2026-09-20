@@ -1,0 +1,15 @@
+# Ēlīġ
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Ely](../../en/27/ely-dd252b01.md) — English *(inherited)*

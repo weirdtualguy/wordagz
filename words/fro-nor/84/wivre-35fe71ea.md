@@ -1,0 +1,18 @@
+# wivre
+
+**Language:** fro-nor (`fro-nor`)
+
+## Definition
+
+serpent
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [weever](../../en/94/weever-c019f7f2.md) — English *(derived)*
+- [wyvern](../../en/1e/wyvern-bab5aefa.md) — English *(derived)*

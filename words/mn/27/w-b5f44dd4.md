@@ -1,0 +1,15 @@
+# хөөмий
+
+**Language:** mn (`mn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [khoomei](../../en/76/khoomei-9a491484.md) — English *(borrowed)*

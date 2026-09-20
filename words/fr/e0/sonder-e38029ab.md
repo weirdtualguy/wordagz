@@ -1,0 +1,18 @@
+# sonder
+
+**Language:** French (`fr`)
+
+## Definition
+
+to probe
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sonder](../../en/6d/sonder-c328c9db.md) — English *(derived)*
+- [sounder](../../en/45/sounder-8c00c7d9.md) — English *(derived)*

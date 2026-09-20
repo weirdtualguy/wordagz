@@ -1,0 +1,15 @@
+# \*walēō
+
+**Language:** Proto-Italic (`itc-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [value](../../en/c2/value-ad93aa5f.md) — English *(derived)*

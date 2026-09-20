@@ -1,0 +1,16 @@
+# kōsa
+
+**Language:** Old High German (`goh`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [cosie](../../en/45/cosie-870623b2.md) — English *(derived)*
+- [cosy](../../en/ff/cosy-3407ca8d.md) — English *(derived)*

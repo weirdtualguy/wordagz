@@ -1,0 +1,15 @@
+# \*tōward
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [toward](../../en/48/toward-e0030fd6.md) — English *(inherited)*

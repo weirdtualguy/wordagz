@@ -1,0 +1,17 @@
+# napolitain
+
+**Language:** French (`fr`)
+
+## Definition
+
+Neapolitan
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [naporitan](../../en/0f/naporitan-7d70f768.md) — English *(derived)*

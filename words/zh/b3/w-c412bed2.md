@@ -1,0 +1,15 @@
+# 牌子
+
+**Language:** Chinese (`zh`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [paiza](../../en/d6/paiza-fc306186.md) — English *(derived)*

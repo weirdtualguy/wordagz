@@ -1,0 +1,15 @@
+# સૌરાષ્ટ્ર
+
+**Language:** gu (`gu`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Saurashtra](../../en/65/saurashtra-99ca427f.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# yconomie
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [economy](../../en/b2/economy-15d3ee09.md) — English *(derived)*

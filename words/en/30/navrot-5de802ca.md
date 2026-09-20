@@ -1,0 +1,15 @@
+# Navrot
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from Polish.
+
+## Direct ancestors
+
+- [Nawrot](../../pl/7e/nawrot-b84b0cfd.md) — Polish *(derived)*
+
+## Direct descendants
+
+_None recorded._

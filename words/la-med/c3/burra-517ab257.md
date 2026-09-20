@@ -1,0 +1,17 @@
+# burra
+
+**Language:** Medieval Latin (`la-med`)
+
+## Definition
+
+flock of wool, coarse hair
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [burl](../../en/bf/burl-a6ba9d9b.md) — English *(derived)*

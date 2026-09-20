@@ -1,0 +1,18 @@
+# Insula Șerpilor
+
+**Language:** Romanian (`ro`)
+
+## Definition
+
+Serpent Island
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Snake Island](../../en/da/snake-island-7d98b0ad.md) — English *(derived)*
+- [Zmiinyi Island](../../en/97/zmiinyi-island-a73b9239.md) — English *(derived)*

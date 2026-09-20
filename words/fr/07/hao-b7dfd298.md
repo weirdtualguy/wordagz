@@ -1,0 +1,15 @@
+# Hao
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Hao](../../en/59/hao-99b8493c.md) — English *(borrowed)*

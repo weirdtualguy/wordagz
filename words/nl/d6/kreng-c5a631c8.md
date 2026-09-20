@@ -1,0 +1,17 @@
+# kreng
+
+**Language:** Dutch (`nl`)
+
+## Definition
+
+a carcass
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [krang](../../en/20/krang-2c614862.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# \*sparaz
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [spare](../../en/3f/spare-a6d51924.md) — English *(inherited)*

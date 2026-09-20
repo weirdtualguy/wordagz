@@ -1,0 +1,17 @@
+# ensorceler
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+to cast a spell, enchant; to captivate
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [ensorcell](../../en/9c/ensorcell-76750b40.md) — English *(derived)*

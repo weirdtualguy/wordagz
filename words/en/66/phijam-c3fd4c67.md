@@ -1,0 +1,15 @@
+# Phijam
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A Meitei surname from Manipuri
+
+## Direct ancestors
+
+- [ꯐꯤꯖꯝ](../../mni/c7/w-b05efe2a.md) — mni *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

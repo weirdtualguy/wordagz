@@ -1,0 +1,15 @@
+# Kožuch
+
+**Language:** sk (`sk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Kozuch](../../en/d2/kozuch-97b9cb24.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# \*skāp
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sheep](../../en/a3/sheep-7e8016ff.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# ꜣst
+
+**Language:** egy (`egy`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Isis](../../en/0d/isis-8385126c.md) — English *(derived)*

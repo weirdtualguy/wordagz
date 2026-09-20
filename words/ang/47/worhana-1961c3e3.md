@@ -1,0 +1,15 @@
+# wōrhana
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [pheasant](../../en/b2/pheasant-4e7be5d8.md) — English *(derived)*

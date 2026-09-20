@@ -1,0 +1,15 @@
+# solénoïde
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [solenoid](../../en/df/solenoid-3f9b0fc6.md) — English *(borrowed)*

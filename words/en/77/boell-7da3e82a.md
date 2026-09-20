@@ -1,0 +1,16 @@
+# Boell
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from Danish.
+
+## Direct ancestors
+
+- [Böll](../../de/c1/boll-7d54b09b.md) — German *(borrowed)*
+- [Bøll](../../da/23/bll-659ae146.md) — Danish *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

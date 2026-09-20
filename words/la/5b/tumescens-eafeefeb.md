@@ -1,0 +1,17 @@
+# tumescēns
+
+**Language:** Latin (`la`)
+
+## Definition
+
+swelling
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tumescence](../../en/1c/tumescence-025f01eb.md) — English *(derived)*

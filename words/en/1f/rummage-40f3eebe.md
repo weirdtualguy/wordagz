@@ -1,0 +1,15 @@
+# Rummage
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from German.
+
+## Direct ancestors
+
+- [Rometsch](../../de/ec/rometsch-5ebce81c.md) — German *(derived)*
+
+## Direct descendants
+
+_None recorded._

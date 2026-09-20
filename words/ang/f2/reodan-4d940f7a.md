@@ -1,0 +1,18 @@
+# rēodan
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+to clear out
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Reed](../../en/7a/reed-35646ee1.md) — English *(derived)*
+- [Rider](../../en/00/rider-cd86ccdc.md) — English *(derived)*

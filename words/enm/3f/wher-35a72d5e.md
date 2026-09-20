@@ -1,0 +1,15 @@
+# wher
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [where](../../en/48/where-22fb71de.md) — English *(inherited)*

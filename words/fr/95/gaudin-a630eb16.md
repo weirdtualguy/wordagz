@@ -1,0 +1,15 @@
+# Gaudin
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Gaudin](../../en/41/gaudin-1ab4fa88.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# Berat
+
+**Language:** sq (`sq`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Berat](../../en/10/berat-4c36a19d.md) — English *(borrowed)*

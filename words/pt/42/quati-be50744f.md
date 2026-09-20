@@ -1,0 +1,15 @@
+# quati
+
+**Language:** Portuguese (`pt`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [coati](../../en/5c/coati-6b214f08.md) — English *(derived)*

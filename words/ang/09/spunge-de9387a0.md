@@ -1,0 +1,15 @@
+# spunge
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sponge](../../en/eb/sponge-37f70c6c.md) — English *(inherited)*

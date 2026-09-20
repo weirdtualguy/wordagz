@@ -1,0 +1,15 @@
+# \*hlaidrijō
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [ladder](../../en/74/ladder-08f7e5e4.md) — English *(derived)*

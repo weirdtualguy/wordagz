@@ -1,0 +1,17 @@
+# baza
+
+**Language:** English (`en`) · **Part of speech:** noun
+
+## Definition
+
+Any of three species of small, crested hawks in the genus Aviceda.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [बाज़](../../hi/fa/w-fedebaa9.md) ("goshawk").
+
+## Direct ancestors
+
+- [बाज़](../../hi/fa/w-fedebaa9.md) — Hindi *(derived)*
+
+## Direct descendants
+
+_None recorded._

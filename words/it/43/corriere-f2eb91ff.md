@@ -1,0 +1,15 @@
+# corriere
+
+**Language:** Italian (`it`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [courier](../../en/66/courier-1dbd4b2e.md) — English *(derived)*

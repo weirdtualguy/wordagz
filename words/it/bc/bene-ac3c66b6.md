@@ -1,0 +1,16 @@
+# bene
+
+**Language:** Italian (`it`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [ben](../../en/eb/ben-560ca726.md) — English *(derived)*
+- [bene](../../en/f8/bene-2476c9bd.md) — English *(derived)*

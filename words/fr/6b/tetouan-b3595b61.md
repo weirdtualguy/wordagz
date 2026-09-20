@@ -1,0 +1,16 @@
+# Tétouan
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Tetouan](../../en/d4/tetouan-f557416a.md) — English *(borrowed)*
+- [Tétouan](../../en/29/tetouan-39c0f514.md) — English *(borrowed)*

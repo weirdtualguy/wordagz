@@ -1,0 +1,15 @@
+# Halkin
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Halkin](../../en/fb/halkin-9405e4f2.md) — English *(inherited)*

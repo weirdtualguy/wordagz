@@ -1,0 +1,15 @@
+# Markwood
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from German.
+
+## Direct ancestors
+
+- [Markwald](../../de/7c/markwald-e619d960.md) — German *(derived)*
+
+## Direct descendants
+
+_None recorded._

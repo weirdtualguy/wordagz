@@ -1,0 +1,15 @@
+# आँचल
+
+**Language:** Hindi (`hi`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [aanchal](../../en/36/aanchal-554d3a70.md) — English *(borrowed)*

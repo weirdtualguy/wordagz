@@ -1,0 +1,17 @@
+# 登州
+
+**Language:** Mandarin (`cmn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Dengzhou](../../en/fd/dengzhou-a47eeb13.md) — English *(borrowed)*
+- [Teng-chou](../../en/69/teng-chou-2e8c1a0f.md) — English *(borrowed)*
+- [Tengchow](../../en/86/tengchow-40ef10c7.md) — English *(borrowed)*

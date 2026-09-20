@@ -1,0 +1,15 @@
+# \*alkǭ
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [auk](../../en/2d/auk-3f23c324.md) — English *(derived)*

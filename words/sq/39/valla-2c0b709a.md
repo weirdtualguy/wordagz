@@ -1,0 +1,15 @@
+# Valla
+
+**Language:** sq (`sq`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Valla](../../en/0d/valla-088e2f8a.md) — English *(borrowed)*

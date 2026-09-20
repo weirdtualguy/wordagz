@@ -1,0 +1,22 @@
+# grk-pro (`grk-pro`)
+
+18 pages. Showing the 18 best-connected.
+
+- [\*kʷoinā́](../words/grk-pro/82/kwoina-34cc5e6d.md)
+- [\*pétalos](../words/grk-pro/97/petalos-9ab2845c.md)
+- [\*(h)méros](../words/grk-pro/54/h-meros-3e7cd2d2.md)
+- [\*brəkʰús](../words/grk-pro/e4/brkhus-68684845.md)
+- [\*dzéus](../words/grk-pro/3c/dzeus-e9e073a2.md)
+- [\*elaíwā](../words/grk-pro/72/elaiwa-b8a80d29.md)
+- [\*iherós](../words/grk-pro/b5/iheros-7a8bb322.md)
+- [\*klépťō](../words/grk-pro/97/klepto-25f9a66b.md)
+- [\*kūmə](../words/grk-pro/cd/kum-028a6916.md)
+- [\*lúnks](../words/grk-pro/a7/lunks-1200f76d.md)
+- [\*newos](../words/grk-pro/6b/newos-e31564ea.md)
+- [\*opʰrū́s](../words/grk-pro/47/ophrus-cbfc1da8.md)
+- [\*penkʷēkontstós](../words/grk-pro/10/penkwekontstos-e0343933.md)
+- [\*pʰā́mā](../words/grk-pro/38/phama-23ded966.md)
+- [\*skʰíďďō](../words/grk-pro/0f/skhiddo-993ba06b.md)
+- [\*trḗmə](../words/grk-pro/6c/trem-2e1a90d5.md)
+- [\*Tʰēgʷā](../words/grk-pro/ba/thegwa-f39a21d4.md)
+- [\*áľľos](../words/grk-pro/0e/allos-4b03ead2.md)

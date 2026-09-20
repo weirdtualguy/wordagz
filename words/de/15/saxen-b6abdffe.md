@@ -1,0 +1,15 @@
+# Saxen
+
+**Language:** German (`de`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Saxe](../../en/cc/saxe-2b65fe0c.md) — English *(derived)*

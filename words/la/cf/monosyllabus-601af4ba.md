@@ -1,0 +1,15 @@
+# monosyllabus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [monosyllabic](../../en/63/monosyllabic-d23450ba.md) — English *(derived)*

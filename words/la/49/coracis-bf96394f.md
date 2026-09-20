@@ -1,0 +1,15 @@
+# coracis
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [coraco-](../../en/d3/coraco-a33303b3.md) — English *(derived)*

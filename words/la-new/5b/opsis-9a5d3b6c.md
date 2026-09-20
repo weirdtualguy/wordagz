@@ -1,0 +1,17 @@
+# -opsis
+
+**Language:** New Latin (`la-new`)
+
+## Definition
+
+resembling in appearance
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [coreopsis](../../en/5b/coreopsis-3961bce0.md) — English *(derived)*

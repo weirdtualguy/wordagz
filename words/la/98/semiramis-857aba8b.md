@@ -1,0 +1,15 @@
+# Semīramis
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Semiramis](../../en/57/semiramis-bf63f64b.md) — English *(derived)*

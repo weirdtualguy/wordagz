@@ -1,0 +1,15 @@
+# healp
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [holp](../../en/2e/holp-91f20a44.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# улу́с
+
+**Language:** Russian (`ru`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [ulus](../../en/72/ulus-947d363e.md) — English *(borrowed)*

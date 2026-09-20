@@ -1,0 +1,15 @@
+# rancour
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [rancor](../../en/70/rancor-4e0b4ae2.md) — English *(inherited)*

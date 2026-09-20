@@ -1,0 +1,15 @@
+# \*h₂yuHn̥ḱós
+
+**Language:** Proto-Indo-European (`ine-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [young](../../en/82/young-d77fe190.md) — English *(inherited)*

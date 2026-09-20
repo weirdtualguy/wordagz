@@ -1,0 +1,15 @@
+# Devos
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from Dutch.
+
+## Direct ancestors
+
+- [de Vos](../../nl/2c/de-vos-97ad7175.md) — Dutch *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

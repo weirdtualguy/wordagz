@@ -1,0 +1,17 @@
+# edapho-
+
+**Language:** English (`en`) · **Part of speech:** prefix
+
+## Definition
+
+Alternative form of edaph-.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [ἔδαφος](../../grc/66/w-da3baf9d.md) ("ground").
+
+## Direct ancestors
+
+- [ἔδαφος](../../grc/66/w-da3baf9d.md) — Ancient Greek *(derived)*
+
+## Direct descendants
+
+_None recorded._

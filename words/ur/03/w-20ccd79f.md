@@ -1,0 +1,15 @@
+# کلونجی
+
+**Language:** ur (`ur`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [kalonji](../../en/9d/kalonji-6e96824f.md) — English *(borrowed)*

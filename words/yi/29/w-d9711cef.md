@@ -1,0 +1,15 @@
+# פּסול
+
+**Language:** yi (`yi`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [possul](../../en/d7/possul-620e9f5b.md) — English *(borrowed)*

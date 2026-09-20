@@ -1,0 +1,17 @@
+# languor
+
+**Language:** Latin (`la`)
+
+## Definition
+
+faintness, feebleness; languor; apathy
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [languor](../../en/7e/languor-e34642ea.md) — English *(derived)*

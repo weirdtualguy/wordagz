@@ -1,0 +1,15 @@
+# physicus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [physic](../../en/fc/physic-254a293e.md) — English *(derived)*

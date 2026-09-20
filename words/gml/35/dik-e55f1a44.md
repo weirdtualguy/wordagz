@@ -1,0 +1,18 @@
+# dīk
+
+**Language:** gml (`gml`)
+
+## Definition
+
+dam
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [dike](../../en/05/dike-54dda728.md) — English *(derived)*
+- [dyke](../../en/f6/dyke-62f1c32a.md) — English *(derived)*

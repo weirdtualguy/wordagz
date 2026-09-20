@@ -1,0 +1,15 @@
+# Copacabana
+
+**Language:** Spanish (`es`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Copacabana](../../en/c4/copacabana-1f522bbd.md) — English *(borrowed)*

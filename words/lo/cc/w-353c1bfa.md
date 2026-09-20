@@ -1,0 +1,15 @@
+# ກີບ
+
+**Language:** lo (`lo`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [kip](../../en/3f/kip-d2c7996b.md) — English *(borrowed)*

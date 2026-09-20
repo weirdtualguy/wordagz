@@ -1,0 +1,15 @@
+# socke
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sock](../../en/80/sock-f7647781.md) — English *(inherited)*

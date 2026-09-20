@@ -1,0 +1,15 @@
+# \*burōną
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [bore](../../en/54/bore-9579bf42.md) — English *(inherited)*

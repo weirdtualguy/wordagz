@@ -1,0 +1,15 @@
+# Lycōreus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Lycoreus](../../en/6a/lycoreus-b5bdf5da.md) — English *(borrowed)*

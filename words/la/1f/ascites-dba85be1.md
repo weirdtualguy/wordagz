@@ -1,0 +1,15 @@
+# ascītēs
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [ascites](../../en/e5/ascites-59552ef1.md) — English *(borrowed)*

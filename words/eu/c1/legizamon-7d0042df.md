@@ -1,0 +1,15 @@
+# Legizamon
+
+**Language:** eu (`eu`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Leguizamo](../../en/a5/leguizamo-81499ec9.md) — English *(derived)*

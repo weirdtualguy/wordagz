@@ -1,0 +1,15 @@
+# Mander
+
+**Language:** German (`de`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Mander](../../en/88/mander-bf611a71.md) — English *(borrowed)*

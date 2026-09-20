@@ -1,0 +1,15 @@
+# Lug
+
+**Language:** Old Irish (`sga`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Lugh](../../en/16/lugh-f4f328c1.md) — English *(derived)*

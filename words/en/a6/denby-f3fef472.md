@@ -1,0 +1,18 @@
+# Denby
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A village and civil parish in Amber Valley district, Derbyshire, England (OS grid ref SK3946).
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [Dene](../../ang/87/dene-afb55dc5.md) ("Dane, Norseman").
+
+## Direct ancestors
+
+- [býr](../../non/0c/byr-6de1fe54.md) — Old Norse *(derived)*
+- [Dene](../../ang/87/dene-afb55dc5.md) — Old English *(derived)*
+
+## Direct descendants
+
+_None recorded._

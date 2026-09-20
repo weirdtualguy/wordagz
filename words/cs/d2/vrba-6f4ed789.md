@@ -1,0 +1,16 @@
+# Vrba
+
+**Language:** Czech (`cs`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Verba](../../en/91/verba-25ac1385.md) — English *(borrowed)*
+- [Vrba](../../en/8b/vrba-c5826846.md) — English *(borrowed)*

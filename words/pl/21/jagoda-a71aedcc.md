@@ -1,0 +1,15 @@
+# Jagoda
+
+**Language:** Polish (`pl`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Jagoda](../../en/bd/jagoda-8c3814ea.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# seraph
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [seraphim](../../en/01/seraphim-4a1334e9.md) — English *(derived)*

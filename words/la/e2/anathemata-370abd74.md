@@ -1,0 +1,15 @@
+# anathemata
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [anathemata](../../en/6a/anathemata-a10def54.md) — English *(borrowed)*

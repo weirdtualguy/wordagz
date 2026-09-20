@@ -1,0 +1,15 @@
+# Kanṑ
+
+**Language:** ha (`ha`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Kano](../../en/46/kano-eaa2dddb.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# \*-lausaz
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [-less](../../en/8e/less-769b8845.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# \*fūlēn
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [foul](../../en/d2/foul-0a246859.md) — English *(inherited)*

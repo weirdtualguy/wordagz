@@ -1,0 +1,15 @@
+# Aiara
+
+**Language:** eu (`eu`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Ayala](../../en/48/ayala-18f71874.md) — English *(derived)*

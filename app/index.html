@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Wordagz</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0f172a">
+<meta name="description" content="Instant word origins and descendants">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon-192.png">
+<style>
+:root{--bg:#0f172a;--panel:#1e293b;--line:#334155;--text:#e2e8f0;--dim:#94a3b8;--accent:#facc15;--link:#7dd3fc}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html,body{margin:0;background:var(--bg);color:var(--text);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:var(--link);text-decoration:none}
+a:hover{text-decoration:underline}
+header{position:sticky;top:0;z-index:5;display:flex;align-items:center;gap:.75rem;padding:.6rem .9rem;padding-top:calc(.6rem + env(safe-area-inset-top,0px));background:var(--bg);border-bottom:1px solid var(--line)}
+.brand{color:var(--accent);font-weight:800;font-size:1.15rem;letter-spacing:.02em}
+.brand:hover{text-decoration:none}
+#q{flex:1;min-width:0;padding:.65rem 1rem;border-radius:999px;border:1px solid var(--line);background:var(--panel);color:var(--text);font-size:1rem}
+#q:focus{outline:2px solid var(--accent);outline-offset:0}
+#results{position:fixed;left:.9rem;right:.9rem;top:calc(4rem + env(safe-area-inset-top,0px));z-index:6;margin:0 auto;max-width:42rem;padding:.3rem;list-style:none;background:var(--panel);border:1px solid var(--line);border-radius:14px;max-height:60vh;overflow:auto;box-shadow:0 14px 34px rgba(0,0,0,.55)}
+#results a{display:flex;justify-content:space-between;gap:.75rem;padding:.7rem .8rem;color:var(--text);border-radius:10px}
+#results a:hover{background:var(--line);text-decoration:none}
+#results .empty{padding:.7rem .8rem;color:var(--dim)}
+main{max-width:44rem;margin:0 auto;padding:1rem .9rem calc(4rem + env(safe-area-inset-bottom,0px))}
+.dim{color:var(--dim)}
+.small{font-size:.85rem}
+.hero{font-size:1.9rem;line-height:1.2;margin:.5rem 0 1rem}
+.hero span{color:var(--accent)}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:1rem;margin:1rem 0}
+.label{text-transform:uppercase;letter-spacing:.08em;font-size:.75rem;color:var(--dim);margin-bottom:.6rem}
+.word{font-size:2.2rem;line-height:1.15;margin:.4rem 0;word-break:break-word}
+.big{font-size:1.6rem;font-weight:700}
+.def{font-size:1.1rem;margin:.3rem 0}
+.drift{color:var(--accent);margin:.5rem 0}
+.chips{display:flex;flex-wrap:wrap;gap:.4rem;align-items:center}
+.chip{display:inline-block;padding:.2rem .65rem;border-radius:999px;background:var(--line);color:var(--text);font-size:.85rem}
+.chip.link{color:var(--link)}
+.chip.dim{color:var(--dim);background:transparent;border:1px solid var(--line)}
+.chain{display:flex;flex-wrap:wrap;gap:.4rem;align-items:center;margin-bottom:1rem}
+.arrow{color:var(--dim)}
+.timeline{border-left:2px solid var(--line);margin-left:.5rem;padding-left:1rem}
+.step{position:relative;padding:.2rem 0 1rem}
+.step::before{content:"";position:absolute;left:-1.43rem;top:.55rem;width:.7rem;height:.7rem;border-radius:50%;background:var(--accent)}
+.step .from{font-size:.85rem;color:var(--dim)}
+.step .w{font-size:1.25rem;font-weight:600;word-break:break-word}
+.btn{margin-top:.6rem;margin-right:.4rem;padding:.6rem 1rem;border:1px solid var(--line);border-radius:999px;background:var(--panel);color:var(--text);font-size:.95rem;cursor:pointer}
+.btn:active{background:var(--line)}
+.tree,.list{list-style:none;margin:0;padding:0}
+.row{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;padding:.25rem 0}
+.sub{margin:.2rem 0 .4rem .95rem;padding-left:.75rem;border-left:1px solid var(--line)}
+.tog{flex:none;width:1.9rem;height:1.9rem;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--accent);font-size:1.1rem;line-height:1;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;padding:0}
+.tog.leaf{border-color:transparent;color:var(--dim);cursor:default}
+.list li{padding:.5rem 0;border-bottom:1px solid var(--line)}
+.toast{position:fixed;left:50%;bottom:calc(1.5rem + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--accent);color:#0f172a;padding:.5rem 1rem;border-radius:999px;font-weight:600;z-index:10}
+</style>
+</head>
+<body>
+<header>
+  <a class="brand" href="#/">Wordagz</a>
+  <input id="q" type="search" placeholder="Search a word..." autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search">
+</header>
+<ul id="results" hidden></ul>
+<main id="view"></main>
+<script>
+"use strict";
+
+const KIND = { i: "inherited", b: "borrowed", d: "derived" };
+const KIND_FROM = { i: "inherited from", b: "borrowed from", d: "derived from" };
+const view = document.getElementById("view");
+const input = document.getElementById("q");
+const resultsEl = document.getElementById("results");
+let meta = null;
+let featured = { pool: [], wild: [] };
+let routeToken = 0;
+let searchToken = 0;
+
+// ---------- helpers ----------
+function h(tag, attrs, ...kids) {
+  const el = document.createElement(tag);
+  for (const [key, value] of Object.entries(attrs || {})) {
+    if (key === "class") el.className = value;
+    else if (key.startsWith("on")) el.addEventListener(key.slice(2), value);
+    else el.setAttribute(key, value);
+  }
+  for (const kid of kids.flat()) {
+    if (kid == null || kid === false) continue;
+    el.append(kid instanceof Node ? kid : document.createTextNode(String(kid)));
+  }
+  return el;
+}
+
+const langOf = (id) => id.slice(0, id.indexOf(":"));
+const wordOf = (id) => id.slice(id.indexOf(":") + 1);
+const langName = (code) => (meta && meta.langs[code]) || code;
+const wordHref = (id) => "#/w/" + encodeURIComponent(id);
+
+// Must match export_json.py
+const norm = (s) => s.toLowerCase().normalize("NFKD").replace(/\p{M}/gu, "");
+
+function fnv1a(str) {
+  let hash = 0x811c9dc5;
+  for (const byte of new TextEncoder().encode(str)) {
+    hash ^= byte;
+    hash = Math.imul(hash, 0x01000193);
+  }
+  return hash >>> 0;
+}
+
+function searchKey(nq) {
+  const tokens = Array.from(nq).slice(0, 2).map((ch) =>
+    /[a-z0-9]/.test(ch) ? ch : "u" + ch.codePointAt(0).toString(16));
+  return tokens.join("-") || "_";
+}
+
+function toast(message) {
+  const el = h("div", { class: "toast" }, message);
+  document.body.append(el);
+  setTimeout(() => el.remove(), 1800);
+}
+
+// ---------- data access ----------
+async function fetchJson(path) {
+  try {
+    const res = await fetch(path);
+    return res.ok ? await res.json() : null;
+  } catch (err) {
+    return null;
+  }
+}
+
+const shardCache = new Map();
+async function getNode(id) {
+  const index = fnv1a(id) % meta.shards;
+  let pending = shardCache.get(index);
+  if (!pending) {
+    pending = fetchJson(`../data/n/${index}.json`);
+    shardCache.set(index, pending);
+  }
+  const shard = await pending;
+  if (!shard) {
+    shardCache.delete(index);
+    return null;
+  }
+  return shard[id] || null;
+}
+
+const bucketCache = new Map();
+async function loadBucket(key) {
+  let pending = bucketCache.get(key);
+  if (!pending) {
+    pending = fetchJson(`../data/s/${key}.json`).then((ids) => {
+      if (!ids) bucketCache.delete(key);
+      ids = ids || [];
+      return { ids, norms: ids.map((id) => norm(wordOf(id))) };
+    });
+    bucketCache.set(key, pending);
+  }
+  return pending;
+}
+
+// ---------- search ----------
+async function runSearch(raw) {
+  const token = ++searchToken;
+  const nq = norm(raw.trim());
+  if (!nq) {
+    resultsEl.hidden = true;
+    return;
+  }
+  const bucket = await loadBucket(searchKey(nq));
+  if (token !== searchToken) return;
+  const exact = [];
+  const starts = [];
+  for (let i = 0; i < bucket.ids.length; i++) {
+    const w = bucket.norms[i];
+    if (w === nq) exact.push(bucket.ids[i]);
+    else if (w.startsWith(nq)) starts.push(bucket.ids[i]);
+  }
+  showResults(exact.concat(starts).slice(0, 12));
+}
+
+function showResults(ids) {
+  resultsEl.replaceChildren();
+  if (!ids.length) resultsEl.append(h("li", { class: "empty" }, "No matches"));
+  for (const id of ids) {
+    resultsEl.append(h("li", {}, h("a", { href: wordHref(id) },
+      h("span", {}, wordOf(id)),
+      h("span", { class: "dim" }, langName(langOf(id))))));
+  }
+  resultsEl.hidden = false;
+}
+
+// ---------- descendants tree ----------
+function childList(rec) {
+  const ul = h("ul", { class: "tree" });
+  for (const entry of rec.c || []) ul.append(childRow(entry));
+  const extra = (rec.n || 0) - (rec.c || []).length;
+  if (extra > 0) ul.append(h("li", { class: "dim small" }, `...and ${extra.toLocaleString()} more not shown`));
+  return ul;
+}
+
+function childRow([id, kind, count]) {
+  const li = h("li", {});
+  const toggle = count > 0
+    ? h("button", { class: "tog", "aria-label": "Show descendants" }, "+")
+    : h("span", { class: "tog leaf" }, "\u00b7");
+  const info = langName(langOf(id)) + " \u00b7 " + KIND[kind] +
+    (count ? " \u00b7 " + count.toLocaleString() + " below" : "");
+  li.append(h("div", { class: "row" }, toggle,
+    h("a", { href: wordHref(id) }, wordOf(id)),
+    h("span", { class: "dim small" }, info)));
+  if (count > 0) {
+    let panel = null;
+    toggle.addEventListener("click", async () => {
+      if (panel) {
+        panel.hidden = !panel.hidden;
+        toggle.textContent = panel.hidden ? "+" : "\u2212";
+        return;
+      }
+      toggle.textContent = "\u2212";
+      panel = h("div", { class: "sub" }, h("span", { class: "dim small" }, "Loading..."));
+      li.append(panel);
+      const rec = await getNode(id);
+      panel.replaceChildren(rec && (rec.c || []).length
+        ? childList(rec)
+        : h("span", { class: "dim small" }, "No further descendants."));
+    });
+  }
+  return li;
+}
+
+// ---------- origin journey ----------
+function stepEl(id, rec, kind) {
+  return h("div", { class: "step" },
+    h("div", { class: "from" }, KIND_FROM[kind] + " \u00b7 " + langName(langOf(id))),
+    h("a", { class: "w", href: wordHref(id) }, wordOf(id)),
+    rec && rec.d ? h("div", { class: "dim" }, rec.d) : null);
+}
+
+function updateSummary(el, path) {
+  const parts = [];
+  path.forEach((pid, i) => {
+    if (i) parts.push(h("span", { class: "arrow" }, "\u2190"));
+    parts.push(h("a", { class: "chip link", href: wordHref(pid) }, wordOf(pid)));
+  });
+  el.replaceChildren(...parts);
+}
+
+function showCousins(box, ancestorId, sibs) {
+  box.hidden = false;
+  box.replaceChildren(
+    h("div", { class: "label" }, "Word cousins"),
+    h("p", { class: "dim small" }, "Also descended from ",
+      h("a", { href: wordHref(ancestorId) }, wordOf(ancestorId)),
+      " (" + langName(langOf(ancestorId)) + ")"),
+    h("div", { class: "chips" }, sibs.slice(0, 30).map(([sid]) =>
+      h("a", { class: "chip link", href: wordHref(sid) },
+        wordOf(sid) + " \u00b7 " + langName(langOf(sid))))));
+}
+
+async function walkOrigin(id, rec, token, ui) {
+  const path = [id];
+  const seen = new Set(path);
+  let prevId = id;
+  let prevRec = rec;
+  let cousinsDone = false;
+  while (path.length < 16) {
+    const link = (prevRec.p || [])[0];
+    if (!link || seen.has(link[0])) break;
+    const [pid, kind] = link;
+    seen.add(pid);
+    const prec = await getNode(pid);
+    if (token !== routeToken) return;
+    path.push(pid);
+    ui.timeline.append(stepEl(pid, prec, kind));
+    updateSummary(ui.summary, path);
+    if (!prec) break;
+    if (!cousinsDone) {
+      const sibs = (prec.c || []).filter((c) => c[0] !== prevId);
+      if (sibs.length >= 4) {
+        cousinsDone = true;
+        showCousins(ui.cousins, pid, sibs);
+      }
+    }
+    prevId = pid;
+    prevRec = prec;
+  }
+  if (path.length === 1) {
+    ui.timeline.append(h("p", { class: "dim" }, "No recorded ancestors. This is as far back as the data goes."));
+  }
+}
+
+async function shareWord(id) {
+  const url = location.href;
+  try {
+    if (navigator.share) {
+      await navigator.share({ title: wordOf(id) + " \u2014 origin and descendants", url });
+    } else {
+      await navigator.clipboard.writeText(url);
+      toast("Link copied");
+    }
+  } catch (err) { /* user cancelled */ }
+}
+
+// ---------- views ----------
+async function showWord(id, token) {
+  view.replaceChildren(h("p", { class: "dim" }, "Loading..."));
+  const rec = await getNode(id);
+  if (token !== routeToken) return;
+  if (!rec) {
+    view.replaceChildren(h("p", {}, "Word not found."), h("a", { href: "#/" }, "Back to search"));
+    return;
+  }
+  document.title = wordOf(id) + " \u00b7 Wordagz";
+  const parents = rec.p || [];
+  const summary = h("div", { class: "chain" });
+  const timeline = h("div", { class: "timeline" });
+  const cousins = h("section", { class: "card", hidden: "" });
+  const also = parents.slice(1).flatMap(([pid, k], i) => [
+    i ? ", " : "",
+    h("a", { href: wordHref(pid) }, wordOf(pid)),
+    " (" + langName(langOf(pid)) + ", " + KIND[k] + ")",
+  ]);
+
+  view.replaceChildren(
+    h("section", { class: "head" },
+      h("div", { class: "chips" },
+        h("span", { class: "chip" }, langName(langOf(id))),
+        rec.t ? h("span", { class: "chip" }, rec.t) : null,
+        rec.s ? h("span", { class: "chip dim" }, "ancestor form") : null),
+      h("h1", { class: "word" }, wordOf(id)),
+      rec.d ? h("p", { class: "def" }, rec.d) : h("p", { class: "dim" }, "No definition recorded."),
+      rec.x ? h("p", { class: "drift" }, "\u26a0 Meaning has drifted far from ",
+        h("a", { href: wordHref(rec.x) }, wordOf(rec.x)), ".") : null,
+      h("button", { class: "btn", onclick: () => shareWord(id) }, "Share")),
+    h("section", { class: "card" },
+      h("div", { class: "label" }, "Origin"),
+      summary,
+      timeline,
+      parents.length > 1 ? h("p", { class: "dim small" }, "Also traced to: ", also) : null),
+    h("section", { class: "card" },
+      h("div", { class: "label" }, "Descendants"),
+      (rec.c || []).length ? childList(rec) : h("p", { class: "dim" }, "No recorded descendants.")),
+    cousins);
+
+  updateSummary(summary, [id]);
+  await walkOrigin(id, rec, token, { summary, timeline, cousins });
+}
+
+async function showHome(token) {
+  document.title = "Wordagz";
+  const pool = featured.pool;
+  const wotdId = pool.length ? pool[Math.floor(Date.now() / 864e5) % pool.length] : null;
+  const wotd = h("section", { class: "card" }, h("div", { class: "label" }, "Word of the day"));
+  const examples = ["nice", "salary", "muscle", "quarantine", "bank"];
+  const wild = featured.wild.slice().sort(() => Math.random() - 0.5).slice(0, 8);
+
+  view.replaceChildren(
+    h("h1", { class: "hero" }, "Where words come from,", h("br"), h("span", {}, "and where they went.")),
+    h("div", { class: "chips" }, examples.map((w) =>
+      h("a", { class: "chip link", href: wordHref("en:" + w) }, w))),
+    h("button", {
+      class: "btn",
+      onclick: () => {
+        if (pool.length) location.hash = wordHref(pool[Math.floor(Math.random() * pool.length)]);
+      },
+    }, "\ud83c\udfb2 Random word"),
+    wotd,
+    wild.length ? h("section", { class: "card" },
+      h("div", { class: "label" }, "Words that travelled far"),
+      h("p", { class: "dim small" }, "Definitions that share nothing with their oldest known ancestor."),
+      h("ul", { class: "list" }, wild.map(([leaf, root]) =>
+        h("li", {},
+          h("a", { href: wordHref(leaf) }, wordOf(leaf)),
+          h("span", { class: "arrow" }, " \u2190 "),
+          h("a", { href: wordHref(root) }, wordOf(root)),
+          h("span", { class: "dim small" }, " (" + langName(langOf(root)) + ")"))))) : null,
+    h("p", { class: "dim small" },
+      `${meta.nodes.toLocaleString()} words \u00b7 ${meta.edges.toLocaleString()} links \u00b7 built ${meta.built} \u00b7 `,
+      h("a", { href: "../" }, "Browse the wiki")));
+
+  if (wotdId) {
+    const rec = await getNode(wotdId);
+    if (token !== routeToken) return;
+    wotd.append(
+      h("a", { class: "big", href: wordHref(wotdId) }, wordOf(wotdId)),
+      h("div", { class: "dim small" }, langName(langOf(wotdId)) + (rec && rec.t ? " \u00b7 " + rec.t : "")),
+      rec && rec.d ? h("p", {}, rec.d) : null);
+  }
+}
+
+async function route() {
+  const token = ++routeToken;
+  resultsEl.hidden = true;
+  input.blur();
+  window.scrollTo(0, 0);
+  const match = location.hash.match(/^#\/w\/(.+)$/);
+  let id = null;
+  if (match) {
+    try { id = decodeURIComponent(match[1]); } catch (err) { id = null; }
+  }
+  if (id) await showWord(id, token);
+  else await showHome(token);
+}
+
+// ---------- boot ----------
+async function boot() {
+  meta = await fetchJson("../data/meta.json");
+  if (!meta) {
+    view.replaceChildren(h("p", { class: "dim" }, "Data not available yet. Run the build workflow, then reload."));
+    return;
+  }
+  featured = (await fetchJson("../data/featured.json")) || featured;
+  input.addEventListener("input", () => runSearch(input.value));
+  input.addEventListener("keydown", (event) => {
+    if (event.key !== "Enter") return;
+    const first = resultsEl.querySelector("a");
+    if (first) location.hash = first.getAttribute("href");
+  });
+  document.addEventListener("click", (event) => {
+    if (event.target !== input && !resultsEl.contains(event.target)) resultsEl.hidden = true;
+  });
+  window.addEventListener("hashchange", route);
+  route();
+}
+
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");
+boot();
+</script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+# Bogotá
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+The capital city of Colombia.
+
+## Direct ancestors
+
+- [Bogotá](../../es/c7/bogota-133ffb23.md) — Spanish *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

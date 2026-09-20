@@ -1,0 +1,15 @@
+# कंबोज
+
+**Language:** Hindi (`hi`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Kamboj](../../en/82/kamboj-8d6b13ae.md) — English *(borrowed)*

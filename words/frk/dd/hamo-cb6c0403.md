@@ -1,0 +1,15 @@
+# \*hamō
+
+**Language:** frk (`frk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [hame](../../en/b5/hame-8dc2aec6.md) — English *(derived)*

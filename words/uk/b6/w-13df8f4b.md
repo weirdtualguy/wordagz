@@ -1,0 +1,15 @@
+# Осте́р
+
+**Language:** Ukrainian (`uk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Oster](../../en/8b/oster-cfe83e1c.md) — English *(derived)*

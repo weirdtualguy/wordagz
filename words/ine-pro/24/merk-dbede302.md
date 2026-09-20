@@ -1,0 +1,17 @@
+# \*merk-
+
+**Language:** Proto-Indo-European (`ine-pro`)
+
+## Definition
+
+edible herb, tuber
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [more](../../en/95/more-9ee29d40.md) — English *(derived)*

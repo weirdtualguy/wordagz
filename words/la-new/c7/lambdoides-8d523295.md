@@ -1,0 +1,15 @@
+# lambdoīdēs
+
+**Language:** New Latin (`la-new`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [lambdoid](../../en/e1/lambdoid-7593d736.md) — English *(derived)*

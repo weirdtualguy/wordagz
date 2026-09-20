@@ -1,0 +1,15 @@
+# wrien
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [wry](../../en/b8/wry-24394d7c.md) — English *(inherited)*

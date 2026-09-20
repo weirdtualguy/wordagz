@@ -1,0 +1,15 @@
+# Sheetʼká
+
+**Language:** tli (`tli`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Sitka](../../en/65/sitka-01a6fe9a.md) — English *(derived)*

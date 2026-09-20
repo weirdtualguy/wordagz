@@ -1,0 +1,15 @@
+# Scheherazade
+
+**Language:** German (`de`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Scheherazade](../../en/f9/scheherazade-072e14f9.md) — English *(borrowed)*

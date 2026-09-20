@@ -1,0 +1,16 @@
+# discordāre
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [discord](../../en/33/discord-689e95d8.md) — English *(derived)*
+- [discordant](../../en/af/discordant-cc04a767.md) — English *(derived)*

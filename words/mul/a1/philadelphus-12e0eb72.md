@@ -1,0 +1,15 @@
+# Philadelphus
+
+**Language:** Translingual (`mul`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [philadelphus](../../en/0b/philadelphus-4af9f8ba.md) — English *(borrowed)*

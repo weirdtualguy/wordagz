@@ -1,0 +1,15 @@
+# paça çorbası
+
+**Language:** Turkish (`tr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [p'tcha](../../en/4f/p-tcha-2c040104.md) — English *(derived)*

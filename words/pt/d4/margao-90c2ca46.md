@@ -1,0 +1,15 @@
+# Margão
+
+**Language:** Portuguese (`pt`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Margao](../../en/03/margao-b72dc449.md) — English *(borrowed)*

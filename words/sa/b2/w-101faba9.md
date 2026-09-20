@@ -1,0 +1,15 @@
+# वेङ्कट
+
+**Language:** Sanskrit (`sa`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Venkat](../../en/5d/venkat-b553fd5c.md) — English *(derived)*

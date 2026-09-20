@@ -1,0 +1,15 @@
+# Bosch
+
+**Language:** Dutch (`nl`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Boschee](../../en/01/boschee-0728f036.md) — English *(derived)*

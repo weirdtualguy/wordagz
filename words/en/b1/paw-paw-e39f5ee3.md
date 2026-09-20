@@ -1,0 +1,16 @@
+# paw-paw
+
+**Language:** English (`en`) · **Part of speech:** noun
+
+## Definition
+
+Alternative form of pawpaw.
+
+## Direct ancestors
+
+- [papaya](../../es/8b/papaya-450a17fa.md) — Spanish *(derived)*
+- [papáia](../../arw/b5/papaia-60db51ac.md) — arw *(derived)*
+
+## Direct descendants
+
+_None recorded._

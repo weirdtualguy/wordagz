@@ -1,0 +1,15 @@
+# Uele or Uélé
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Uele](../../en/2e/uele-c4fe95e7.md) — English *(borrowed)*

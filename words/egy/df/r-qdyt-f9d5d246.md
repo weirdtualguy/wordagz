@@ -1,0 +1,17 @@
+# rꜥ-qdyt
+
+**Language:** egy (`egy`)
+
+## Definition
+
+Alexandria
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Rhacotis](../../en/37/rhacotis-b51ca9a6.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# Šaran
+
+**Language:** sh (`sh`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Saran](../../en/45/saran-64757fe4.md) — English *(borrowed)*

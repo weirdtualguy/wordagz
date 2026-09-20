@@ -1,0 +1,15 @@
+# Haluza
+
+**Language:** Czech (`cs`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Haluza](../../en/07/haluza-ca42ed5b.md) — English *(borrowed)*

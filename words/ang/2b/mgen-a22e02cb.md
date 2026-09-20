@@ -1,0 +1,18 @@
+# mæġen
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+strong, main, principal
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [amain](../../en/c0/amain-c4533d81.md) — English *(inherited)*
+- [main](../../en/1d/main-26139682.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# dúan
+
+**Language:** mga (`mga`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [duan](../../en/42/duan-04f29fb6.md) — English *(derived)*

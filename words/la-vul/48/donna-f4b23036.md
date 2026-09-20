@@ -1,0 +1,15 @@
+# donna
+
+**Language:** la-vul (`la-vul`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [duenna](../../en/0b/duenna-f800e9f3.md) — English *(derived)*

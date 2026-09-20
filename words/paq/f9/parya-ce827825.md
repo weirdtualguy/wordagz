@@ -1,0 +1,15 @@
+# Parya
+
+**Language:** paq (`paq`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Parya](../../en/4f/parya-bd82a515.md) — English *(borrowed)*

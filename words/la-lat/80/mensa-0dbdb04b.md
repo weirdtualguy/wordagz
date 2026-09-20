@@ -1,0 +1,18 @@
+# mēnsa
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+table; meal
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [mese](../../en/a7/mese-2c02fd96.md) — English *(derived)*
+- [mess](../../en/20/mess-91a01eeb.md) — English *(derived)*

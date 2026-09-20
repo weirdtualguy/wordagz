@@ -1,0 +1,15 @@
+# angarie
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [angary](../../en/53/angary-b11e5746.md) — English *(borrowed)*

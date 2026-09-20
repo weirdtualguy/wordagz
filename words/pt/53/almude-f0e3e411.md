@@ -1,0 +1,16 @@
+# almude
+
+**Language:** Portuguese (`pt`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [almud](../../en/8a/almud-ffb77f8e.md) — English *(borrowed)*
+- [almude](../../en/05/almude-d4fa72d4.md) — English *(borrowed)*

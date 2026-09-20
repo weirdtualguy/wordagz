@@ -1,0 +1,16 @@
+# galingal
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [galangal](../../en/26/galangal-d2e7710c.md) — English *(derived)*
+- [galingale](../../en/f2/galingale-5710fb9c.md) — English *(derived)*

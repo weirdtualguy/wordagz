@@ -1,0 +1,15 @@
+# \*fnuzô
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [snore](../../en/d9/snore-870e9086.md) — English *(derived)*

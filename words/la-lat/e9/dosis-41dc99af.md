@@ -1,0 +1,15 @@
+# dosis
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [dose](../../en/39/dose-645379c9.md) — English *(derived)*

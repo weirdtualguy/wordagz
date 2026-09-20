@@ -1,0 +1,15 @@
+# lys
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [lice](../../en/ad/lice-0f4a3030.md) — English *(inherited)*

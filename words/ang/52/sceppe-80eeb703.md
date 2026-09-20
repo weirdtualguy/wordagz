@@ -1,0 +1,16 @@
+# sceppe
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [skep](../../en/23/skep-e36d7601.md) — English *(inherited)*
+- [skip](../../en/af/skip-e8b29450.md) — English *(inherited)*

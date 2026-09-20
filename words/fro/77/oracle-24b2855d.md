@@ -1,0 +1,15 @@
+# oracle
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [oracle](../../en/96/oracle-09614ce4.md) — English *(derived)*

@@ -1,0 +1,17 @@
+# coërcitiō
+
+**Language:** Latin (`la`)
+
+## Definition
+
+magisterial coercion
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [coercion](../../en/5f/coercion-b618a564.md) — English *(derived)*

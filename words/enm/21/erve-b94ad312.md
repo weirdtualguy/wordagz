@@ -1,0 +1,15 @@
+# erve
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [erf](../../en/5f/erf-0c9bbf79.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# Eccles
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Eccles](../../en/87/eccles-6e4a0693.md) — English *(inherited)*

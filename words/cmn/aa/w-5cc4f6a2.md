@@ -1,0 +1,15 @@
+# 田
+
+**Language:** Mandarin (`cmn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Tien](../../en/74/tien-29ce81c8.md) — English *(borrowed)*

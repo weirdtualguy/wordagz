@@ -1,0 +1,17 @@
+# digamia
+
+**Language:** Latin (`la`)
+
+## Definition
+
+twice married
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [digamy](../../en/5e/digamy-d49f7dda.md) — English *(borrowed)*

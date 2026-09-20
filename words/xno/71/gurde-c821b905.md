@@ -1,0 +1,15 @@
+# gurde
+
+**Language:** Anglo-Norman (`xno`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [gourd](../../en/27/gourd-beb27491.md) — English *(derived)*

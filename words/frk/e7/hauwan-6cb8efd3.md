@@ -1,0 +1,17 @@
+# \*hauwan
+
+**Language:** frk (`frk`)
+
+## Definition
+
+to hew
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [hoe](../../en/44/hoe-3cafeda6.md) — English *(derived)*

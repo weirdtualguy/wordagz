@@ -1,0 +1,15 @@
+# affīdāre
+
+**Language:** Medieval Latin (`la-med`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [affiance](../../en/ce/affiance-bd871e48.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# kolar
+
+**Language:** sl (`sl`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Kollar](../../en/01/kollar-694390a3.md) — English *(derived)*

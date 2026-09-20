@@ -1,0 +1,17 @@
+# zaranda
+
+**Language:** Spanish (`es`)
+
+## Definition
+
+sieve
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [ciranda](../../en/89/ciranda-aae5bdc4.md) — English *(derived)*

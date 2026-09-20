@@ -1,0 +1,15 @@
+# जामा
+
+**Language:** Hindi (`hi`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [jam](../../en/04/jam-5b0d56a3.md) — English *(borrowed)*

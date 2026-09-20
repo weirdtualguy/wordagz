@@ -1,0 +1,15 @@
+# Kombi
+
+**Language:** German (`de`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [kombi](../../en/b8/kombi-335c1bce.md) — English *(borrowed)*

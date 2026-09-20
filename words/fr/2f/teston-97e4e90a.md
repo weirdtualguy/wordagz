@@ -1,0 +1,15 @@
+# teston
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tester](../../en/d6/tester-15de3f4e.md) — English *(derived)*

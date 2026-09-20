@@ -1,0 +1,15 @@
+# statue
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [statue](../../en/d9/statue-e417b55c.md) — English *(derived)*

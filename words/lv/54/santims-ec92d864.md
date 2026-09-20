@@ -1,0 +1,15 @@
+# santīms
+
+**Language:** lv (`lv`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [santim](../../en/18/santim-45c698f9.md) — English *(derived)*

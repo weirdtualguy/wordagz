@@ -1,0 +1,17 @@
+# gaudin
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+of the woods
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Gaudin](../../en/41/gaudin-1ab4fa88.md) — English *(derived)*

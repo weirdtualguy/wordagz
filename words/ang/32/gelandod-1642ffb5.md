@@ -1,0 +1,15 @@
+# ġelandod
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [landed](../../en/f2/landed-747f97ab.md) — English *(inherited)*

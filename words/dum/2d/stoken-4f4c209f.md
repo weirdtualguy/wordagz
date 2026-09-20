@@ -1,0 +1,18 @@
+# stoken
+
+**Language:** Middle Dutch (`dum`)
+
+## Definition
+
+to poke, thrust
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [stoke](../../en/6c/stoke-bcb85dfc.md) — English *(derived)*
+- [stoker](../../en/cf/stoker-c6d24f9e.md) — English *(derived)*

@@ -1,0 +1,17 @@
+# лоза
+
+**Language:** Russian (`ru`)
+
+## Definition
+
+vine
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Loza](../../en/a5/loza-fe7053ea.md) — English *(derived)*

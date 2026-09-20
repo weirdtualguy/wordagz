@@ -1,0 +1,15 @@
+# κῡφωνισμός
+
+**Language:** Ancient Greek (`grc`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [cyphonism](../../en/7a/cyphonism-455fb942.md) — English *(derived)*

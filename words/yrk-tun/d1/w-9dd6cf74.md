@@ -1,0 +1,15 @@
+# парка
+
+**Language:** yrk-tun (`yrk-tun`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [parka](../../en/a1/parka-667445a5.md) — English *(derived)*

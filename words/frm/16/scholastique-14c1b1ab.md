@@ -1,0 +1,15 @@
+# scholastique
+
+**Language:** Middle French (`frm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [scholastic](../../en/aa/scholastic-3ea07a3a.md) — English *(borrowed)*

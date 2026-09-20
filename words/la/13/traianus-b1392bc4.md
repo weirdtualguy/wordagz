@@ -1,0 +1,15 @@
+# Trāiānus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Trajan](../../en/e3/trajan-8e9ec636.md) — English *(borrowed)*

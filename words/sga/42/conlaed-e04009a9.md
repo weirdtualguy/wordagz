@@ -1,0 +1,15 @@
+# Conláed
+
+**Language:** Old Irish (`sga`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Conleth](../../en/69/conleth-f6f1d4a5.md) — English *(derived)*

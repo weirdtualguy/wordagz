@@ -1,0 +1,17 @@
+# Wyandott
+
+**Language:** English (`en`) · **Part of speech:** noun
+
+## Definition
+
+Alternative spelling of Wyandot.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [Wendat](../../wya/27/wendat-7aaeeaa0.md) ("islander").
+
+## Direct ancestors
+
+- [Wendat](../../wya/27/wendat-7aaeeaa0.md) — wya *(derived)*
+
+## Direct descendants
+
+_None recorded._

@@ -1,0 +1,17 @@
+# adynaton
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+impossibility; adynaton
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [adynaton](../../en/44/adynaton-e92d31b3.md) — English *(borrowed)*

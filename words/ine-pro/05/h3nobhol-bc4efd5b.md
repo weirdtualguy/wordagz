@@ -1,0 +1,17 @@
+# \*h₃nóbʰōl
+
+**Language:** Proto-Indo-European (`ine-pro`)
+
+## Definition
+
+navel
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [navel](../../en/7e/navel-d927a009.md) — English *(inherited)*

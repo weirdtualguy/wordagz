@@ -1,0 +1,17 @@
+# hrēowlīċ
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+grievous, pitiful, sad, wretched, cruel
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [ruly](../../en/d0/ruly-3053c807.md) — English *(inherited)*

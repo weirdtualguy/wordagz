@@ -1,0 +1,15 @@
+# مُصَقَّعَة
+
+**Language:** Arabic (`ar`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [moussaka](../../en/71/moussaka-8ed47265.md) — English *(derived)*

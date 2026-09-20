@@ -1,0 +1,15 @@
+# તળાવ
+
+**Language:** gu (`gu`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [talav](../../en/b1/talav-77983a41.md) — English *(borrowed)*

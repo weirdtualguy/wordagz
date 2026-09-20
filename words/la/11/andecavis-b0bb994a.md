@@ -1,0 +1,15 @@
+# Andecāvis
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Angers](../../en/9f/angers-9d83e7a9.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# fryth
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [fry](../../en/81/fry-ddf13bd9.md) — English *(inherited)*

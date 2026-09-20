@@ -1,0 +1,15 @@
+# Gola
+
+**Language:** Italian (`it`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Gola](../../en/62/gola-00e59844.md) — English *(borrowed)*

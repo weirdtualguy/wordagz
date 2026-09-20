@@ -1,0 +1,17 @@
+# قضا
+
+**Language:** ota (`ota`)
+
+## Definition
+
+division of a sanjak
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [kaza](../../en/52/kaza-c8cdcf51.md) — English *(borrowed)*

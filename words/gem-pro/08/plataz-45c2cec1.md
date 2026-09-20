@@ -1,0 +1,15 @@
+# \*plataz
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [plot](../../en/0c/plot-1a19bb2d.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# 상
+
+**Language:** Korean (`ko`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Sang](../../en/b1/sang-27550bdb.md) — English *(borrowed)*

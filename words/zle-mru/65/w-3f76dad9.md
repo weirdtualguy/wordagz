@@ -1,0 +1,15 @@
+# полыньѧ
+
+**Language:** zle-mru (`zle-mru`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [polynya](../../en/c4/polynya-6a3fad4e.md) — English *(derived)*

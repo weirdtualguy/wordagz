@@ -1,0 +1,18 @@
+# Judicael
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [cael](../../obt/8f/cael-7719043f.md) ("generous, noble").
+
+## Direct ancestors
+
+- [cael](../../obt/8f/cael-7719043f.md) — obt *(derived)*
+- [iudd](../../obt/7e/iudd-96a0516e.md) — obt *(derived)*
+
+## Direct descendants
+
+_None recorded._

@@ -1,0 +1,17 @@
+# Maius
+
+**Language:** Latin (`la`)
+
+## Definition
+
+Maia's month
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [May](../../en/30/may-25b673c9.md) — English *(derived)*

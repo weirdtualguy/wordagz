@@ -1,0 +1,15 @@
+# 突き倒し
+
+**Language:** Japanese (`ja`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tsukitaoshi](../../en/5e/tsukitaoshi-b47986ef.md) — English *(borrowed)*

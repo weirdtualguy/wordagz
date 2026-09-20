@@ -1,0 +1,15 @@
+# 白城
+
+**Language:** Mandarin (`cmn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Baicheng](../../en/d7/baicheng-59bf0ac2.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# tayt
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Tait](../../en/76/tait-4faa4da6.md) — English *(derived)*

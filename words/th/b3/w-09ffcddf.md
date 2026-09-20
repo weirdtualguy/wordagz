@@ -1,0 +1,15 @@
+# กะเทย
+
+**Language:** th (`th`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [kathoey](../../en/01/kathoey-784c7f53.md) — English *(borrowed)*

@@ -1,0 +1,17 @@
+# Kiebitz
+
+**Language:** German (`de`)
+
+## Definition
+
+lapwing
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [kibitz](../../en/ec/kibitz-0f9cc007.md) — English *(derived)*

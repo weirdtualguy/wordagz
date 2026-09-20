@@ -1,0 +1,15 @@
+# 青陽
+
+**Language:** Mandarin (`cmn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Qingyang](../../en/b9/qingyang-d1790b47.md) — English *(borrowed)*

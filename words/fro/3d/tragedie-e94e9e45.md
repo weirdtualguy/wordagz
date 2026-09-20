@@ -1,0 +1,15 @@
+# tragedie
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tragedy](../../en/49/tragedy-13bc6a80.md) — English *(derived)*

@@ -1,0 +1,17 @@
+# ele
+
+**Language:** Anglo-Norman (`xno`)
+
+## Definition
+
+wing
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [aisle](../../en/f5/aisle-763efd86.md) — English *(derived)*

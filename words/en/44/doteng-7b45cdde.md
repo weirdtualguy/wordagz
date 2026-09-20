@@ -1,0 +1,15 @@
+# Doteng
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A gewog of Paro District, Bhutan.
+
+## Direct ancestors
+
+- [རྡོ་སྟེང་](../../dz/a5/w-f83aad17.md) — dz *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

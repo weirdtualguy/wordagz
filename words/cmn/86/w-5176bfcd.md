@@ -1,0 +1,15 @@
+# 寬城
+
+**Language:** Mandarin (`cmn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Kuancheng](../../en/4b/kuancheng-9ab20e3e.md) — English *(borrowed)*

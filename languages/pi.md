@@ -1,0 +1,23 @@
+# pi (`pi`)
+
+19 pages. Showing the 19 best-connected.
+
+- [anattan](../words/pi/fd/anattan-65d9f05e.md)
+- [arahant](../words/pi/9f/arahant-704a5756.md)
+- [bahujana](../words/pi/69/bahujana-527aaa83.md)
+- [bhava](../words/pi/13/bhava-ffe2dad1.md)
+- [cetiya](../words/pi/bf/cetiya-bd56a1d0.md)
+- [gārava](../words/pi/98/garava-a3faa8c1.md)
+- [niggahīta](../words/pi/46/niggahita-f44e0b21.md)
+- [pāda](../words/pi/0f/pada-2e2ec6bf.md)
+- [rūpiya](../words/pi/00/rupiya-647e195b.md)
+- [sakkharā](../words/pi/53/sakkhara-f6e73d8e.md)
+- [samaṇa](../words/pi/d5/samana-c2045986.md)
+- [sobhaṇa](../words/pi/01/sobhana-05722de5.md)
+- [sutta](../words/pi/64/sutta-1658f38a.md)
+- [sāvaka](../words/pi/f6/savaka-cff85da1.md)
+- [sīhaḷa](../words/pi/e2/sihala-01660f57.md)
+- [theravāda](../words/pi/21/theravada-cb0ed631.md)
+- [uposatha](../words/pi/fb/uposatha-74e039bf.md)
+- [veḷuriya](../words/pi/9e/veluriya-7520be52.md)
+- [yakkha](../words/pi/ae/yakkha-16510525.md)

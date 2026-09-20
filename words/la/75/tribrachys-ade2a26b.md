@@ -1,0 +1,15 @@
+# tribrachys
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tribrach](../../en/fa/tribrach-3cae791e.md) — English *(derived)*

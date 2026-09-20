@@ -1,0 +1,15 @@
+# ewer
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [ewer](../../en/52/ewer-8d21b5cf.md) — English *(inherited)*

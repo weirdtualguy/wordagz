@@ -1,0 +1,17 @@
+# \*-buda
+
+**Language:** alv-pro (`alv-pro`)
+
+## Definition
+
+rain, rain cloud
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [pula](../../en/00/pula-1b5c1ecb.md) — English *(derived)*

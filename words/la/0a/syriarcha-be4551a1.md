@@ -1,0 +1,15 @@
+# Syriarcha
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Syriarch](../../en/00/syriarch-8cbe7844.md) — English *(derived)*

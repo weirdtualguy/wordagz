@@ -1,0 +1,15 @@
+# spanen
+
+**Language:** Middle Dutch (`dum`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [spane](../../en/76/spane-6ba3c472.md) — English *(derived)*

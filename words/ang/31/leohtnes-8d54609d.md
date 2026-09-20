@@ -1,0 +1,17 @@
+# \*lēohtnes
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+lightness
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [lightness](../../en/92/lightness-99f3795f.md) — English *(inherited)*

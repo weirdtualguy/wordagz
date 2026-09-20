@@ -1,0 +1,15 @@
+# trān
+
+**Language:** Old Dutch (`odt`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [train](../../en/0a/train-a161c41d.md) — English *(derived)*

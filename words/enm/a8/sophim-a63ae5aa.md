@@ -1,0 +1,15 @@
+# sophim
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sophism](../../en/20/sophism-5b744af5.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# \*full
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [full](../../en/3a/full-02446b68.md) — English *(inherited)*

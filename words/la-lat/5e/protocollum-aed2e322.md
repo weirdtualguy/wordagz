@@ -1,0 +1,17 @@
+# protocollum
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+the first sheet of a volume (on which contents and errata were written)
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [protocol](../../en/cc/protocol-dbab004b.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# Мазин
+
+**Language:** Russian (`ru`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Mazin](../../en/a8/mazin-389cf7fe.md) — English *(borrowed)*

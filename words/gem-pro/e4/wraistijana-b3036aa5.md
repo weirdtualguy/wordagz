@@ -1,0 +1,18 @@
+# \*wraistijaną
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+to turn; to twist, wrest
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [wrest](../../en/27/wrest-35c9e2d6.md) — English *(inherited)*
+- [wrestle](../../en/bb/wrestle-0b10a3d4.md) — English *(inherited)*

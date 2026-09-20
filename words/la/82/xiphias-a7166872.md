@@ -1,0 +1,17 @@
+# xiphiās
+
+**Language:** Latin (`la`)
+
+## Definition
+
+swordfish
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [xiphias](../../en/7e/xiphias-466ce3f7.md) — English *(borrowed)*

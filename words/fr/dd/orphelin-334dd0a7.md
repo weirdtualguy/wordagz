@@ -1,0 +1,15 @@
+# orphelin
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [orpheline](../../en/57/orpheline-b438d977.md) — English *(borrowed)*

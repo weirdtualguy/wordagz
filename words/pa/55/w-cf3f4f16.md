@@ -1,0 +1,15 @@
+# ਤੱਖਰ
+
+**Language:** pa (`pa`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Takhar](../../en/3f/takhar-67442743.md) — English *(borrowed)*

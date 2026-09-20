@@ -1,0 +1,15 @@
+# plasme
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [plasm](../../en/eb/plasm-d54bc111.md) — English *(derived)*

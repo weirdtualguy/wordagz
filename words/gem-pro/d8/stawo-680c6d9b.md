@@ -1,0 +1,15 @@
+# \*staþwō
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [staith](../../en/fd/staith-5c606f63.md) — English *(derived)*

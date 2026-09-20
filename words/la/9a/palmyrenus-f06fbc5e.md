@@ -1,0 +1,15 @@
+# Palmȳrēnus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Palmyrene](../../en/0c/palmyrene-591d2fcd.md) — English *(borrowed)*

@@ -1,0 +1,16 @@
+# qdt
+
+**Language:** egy (`egy`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [kite](../../en/86/kite-031dfd0a.md) — English *(derived)*
+- [qite](../../en/a9/qite-7e0cba0e.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# nodden
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [nod](../../en/2b/nod-0f7f8ed0.md) — English *(inherited)*

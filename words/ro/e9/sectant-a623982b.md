@@ -1,0 +1,15 @@
+# sectant
+
+**Language:** Romanian (`ro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sectant](../../en/e6/sectant-61a53008.md) — English *(borrowed)*

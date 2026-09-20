@@ -1,0 +1,15 @@
+# Lycia
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Lycia](../../en/e2/lycia-b81a2b89.md) — English *(borrowed)*

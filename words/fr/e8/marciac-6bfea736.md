@@ -1,0 +1,15 @@
+# Marciac
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Marciac](../../en/bf/marciac-00d8ce33.md) — English *(borrowed)*

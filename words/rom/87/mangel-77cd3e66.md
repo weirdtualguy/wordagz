@@ -1,0 +1,17 @@
+# mangel
+
+**Language:** rom (`rom`)
+
+## Definition
+
+to want, beg
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [mang](../../en/5b/mang-f6efc82b.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# Otrēra
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Otrera](../../en/67/otrera-be932270.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# chis
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [chism](../../en/17/chism-fe8d907c.md) — English *(inherited)*

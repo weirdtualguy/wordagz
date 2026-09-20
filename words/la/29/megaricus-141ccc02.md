@@ -1,0 +1,15 @@
+# megaricus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Megaric](../../en/21/megaric-67653beb.md) — English *(derived)*

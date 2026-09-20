@@ -1,0 +1,17 @@
+# \*jūz
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+ye
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [ye](../../en/4d/ye-7fe165bf.md) — English *(inherited)*

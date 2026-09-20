@@ -1,0 +1,17 @@
+# ecraser
+
+**Language:** Middle French (`frm`)
+
+## Definition
+
+to squash
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [acraze](../../en/1f/acraze-28afa162.md) — English *(derived)*

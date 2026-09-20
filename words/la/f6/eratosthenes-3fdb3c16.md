@@ -1,0 +1,15 @@
+# Eratosthenēs
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Eratosthenes](../../en/03/eratosthenes-7b406f6c.md) — English *(borrowed)*

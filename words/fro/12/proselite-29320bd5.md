@@ -1,0 +1,15 @@
+# proselite
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [proselyte](../../en/4e/proselyte-7c92f657.md) — English *(derived)*

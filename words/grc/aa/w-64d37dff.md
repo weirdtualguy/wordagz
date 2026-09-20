@@ -1,0 +1,15 @@
+# Ρίθυμνα
+
+**Language:** Ancient Greek (`grc`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Rethymno](../../en/41/rethymno-b2d5ebe2.md) — English *(derived)*

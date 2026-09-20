@@ -1,0 +1,15 @@
+# analogique
+
+**Language:** Middle French (`frm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [analogic](../../en/45/analogic-93438e58.md) — English *(borrowed)*

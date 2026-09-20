@@ -1,0 +1,15 @@
+# Elne
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Elne](../../en/e9/elne-31186597.md) — English *(borrowed)*

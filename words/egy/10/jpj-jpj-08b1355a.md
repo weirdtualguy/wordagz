@@ -1,0 +1,15 @@
+# jpj-jpj
+
+**Language:** egy (`egy`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Epeiph](../../en/3c/epeiph-f8756c67.md) — English *(derived)*

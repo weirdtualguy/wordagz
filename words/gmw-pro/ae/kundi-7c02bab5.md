@@ -1,0 +1,15 @@
+# \*kundi
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [kind](../../en/01/kind-0a6200bc.md) — English *(inherited)*

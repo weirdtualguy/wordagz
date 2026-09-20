@@ -1,0 +1,15 @@
+# Gessner
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from German.
+
+## Direct ancestors
+
+- [Gessner](../../de/ee/gessner-06f63f8f.md) — German *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

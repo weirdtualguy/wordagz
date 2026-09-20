@@ -1,0 +1,17 @@
+# cailín
+
+**Language:** Irish (`ga`)
+
+## Definition
+
+girl
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Colleen](../../en/f8/colleen-77bdd16e.md) — English *(derived)*

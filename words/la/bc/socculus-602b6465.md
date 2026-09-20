@@ -1,0 +1,15 @@
+# socculus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [socle](../../en/6c/socle-590dfc43.md) — English *(derived)*

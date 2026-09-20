@@ -1,0 +1,15 @@
+# jooj
+
+**Language:** English (`en`) · **Part of speech:** verb
+
+## Definition
+
+Alternative spelling of zhoosh.
+
+## Direct ancestors
+
+- [zhoosh](../../pld/3a/zhoosh-fbf2835e.md) — pld *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

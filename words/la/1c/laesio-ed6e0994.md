@@ -1,0 +1,17 @@
+# laesiō
+
+**Language:** Latin (`la`)
+
+## Definition
+
+hurt, harm, injury
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [lesion](../../en/1b/lesion-0f637d89.md) — English *(derived)*

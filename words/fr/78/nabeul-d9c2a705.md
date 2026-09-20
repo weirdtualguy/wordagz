@@ -1,0 +1,15 @@
+# Nabeul
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Nabeul](../../en/85/nabeul-0e266974.md) — English *(borrowed)*

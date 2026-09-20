@@ -1,0 +1,15 @@
+# 襄州
+
+**Language:** Mandarin (`cmn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Xiangzhou](../../en/a4/xiangzhou-1fb15f4f.md) — English *(borrowed)*

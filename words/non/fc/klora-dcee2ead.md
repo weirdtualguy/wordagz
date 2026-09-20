@@ -1,0 +1,17 @@
+# klóra
+
+**Language:** Old Norse (`non`)
+
+## Definition
+
+to scrawl, scratch
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [cloor](../../en/c5/cloor-e5ebb850.md) — English *(derived)*

@@ -1,0 +1,22 @@
+# kmb (`kmb`)
+
+18 pages. Showing the 18 best-connected.
+
+- [falofa](../words/kmb/39/falofa-79afa592.md)
+- [funji](../words/kmb/62/funji-60c73185.md)
+- [ingombo](../words/kmb/de/ingombo-295736c9.md)
+- [kandombe](../words/kmb/ad/kandombe-20f09aae.md)
+- [kilombo](../words/kmb/0c/kilombo-6d3cd72f.md)
+- [kizomba](../words/kmb/6a/kizomba-fc004ccc.md)
+- [makôba](../words/kmb/60/makoba-ebc441d4.md)
+- [marimbondo](../words/kmb/14/marimbondo-37a9df63.md)
+- [mbanza](../words/kmb/8c/mbanza-901c6188.md)
+- [mbirimbau](../words/kmb/12/mbirimbau-02b98c4a.md)
+- [mukuta](../words/kmb/10/mukuta-78cf14f8.md)
+- [musanga](../words/kmb/3c/musanga-1dcd9470.md)
+- [nganza](../words/kmb/02/nganza-2303002f.md)
+- [ngola](../words/kmb/80/ngola-490050dd.md)
+- [njilu](../words/kmb/d7/njilu-9ea8e7ec.md)
+- [nzumbi](../words/kmb/04/nzumbi-72404226.md)
+- [semba](../words/kmb/9c/semba-dc38798a.md)
+- [tanga](../words/kmb/17/tanga-8f847e65.md)

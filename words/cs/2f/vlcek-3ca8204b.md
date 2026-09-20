@@ -1,0 +1,15 @@
+# vlček
+
+**Language:** Czech (`cs`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Vlcek](../../en/e1/vlcek-5f4b0e1e.md) — English *(derived)*

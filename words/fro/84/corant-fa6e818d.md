@@ -1,0 +1,15 @@
+# corant
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [current](../../en/2a/current-b8d055bd.md) — English *(derived)*

@@ -1,0 +1,17 @@
+# πολῠ́γλωσσος
+
+**Language:** Ancient Greek (`grc`)
+
+## Definition
+
+speaking many languages, multilingual
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [polyglot](../../en/a3/polyglot-24c0733d.md) — English *(derived)*

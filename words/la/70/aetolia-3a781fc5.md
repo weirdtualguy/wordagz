@@ -1,0 +1,15 @@
+# Aetōlia
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Aetolia](../../en/24/aetolia-96aae815.md) — English *(borrowed)*

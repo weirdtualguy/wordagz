@@ -1,0 +1,17 @@
+# ditare
+
+**Language:** Latin (`la`)
+
+## Definition
+
+to enrich
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [ditation](../../en/91/ditation-ae05ecf6.md) — English *(derived)*

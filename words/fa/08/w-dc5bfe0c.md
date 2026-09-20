@@ -1,0 +1,15 @@
+# براهویی
+
+**Language:** Persian (`fa`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Brahui](../../en/59/brahui-884694f8.md) — English *(borrowed)*

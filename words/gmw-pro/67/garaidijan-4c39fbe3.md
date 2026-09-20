@@ -1,0 +1,15 @@
+# \*garaidijan
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [redd](../../en/df/redd-f06d8590.md) — English *(inherited)*

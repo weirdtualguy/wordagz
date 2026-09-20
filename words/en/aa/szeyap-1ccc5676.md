@@ -1,0 +1,15 @@
+# Szeyap
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+Synonym of Siyi.
+
+## Direct ancestors
+
+- [四邑](../../yue/bc/w-d75b40b0.md) — yue *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

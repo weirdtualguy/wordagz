@@ -1,0 +1,15 @@
+# Bebryx
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Bebryx](../../en/d2/bebryx-e7410382.md) — English *(borrowed)*

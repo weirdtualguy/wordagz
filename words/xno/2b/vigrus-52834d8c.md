@@ -1,0 +1,15 @@
+# vigrus
+
+**Language:** Anglo-Norman (`xno`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Vigrass](../../en/df/vigrass-64171bad.md) — English *(derived)*

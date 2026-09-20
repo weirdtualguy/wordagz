@@ -1,0 +1,15 @@
+# habil
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [habile](../../en/9c/habile-053fc52e.md) — English *(inherited)*

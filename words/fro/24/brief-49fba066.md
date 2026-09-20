@@ -1,0 +1,15 @@
+# brief
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [brief](../../en/0b/brief-86421d1f.md) — English *(derived)*

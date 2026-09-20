@@ -1,0 +1,15 @@
+# repositōrium
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [repository](../../en/5a/repository-229b1923.md) — English *(derived)*

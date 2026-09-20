@@ -1,0 +1,15 @@
+# hémistiche
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [hemistich](../../en/4f/hemistich-f4b008c4.md) — English *(borrowed)*

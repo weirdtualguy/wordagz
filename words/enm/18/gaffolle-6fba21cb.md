@@ -1,0 +1,15 @@
+# gaffolle
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [gaffle](../../en/70/gaffle-ba74da4a.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# शाबाश
+
+**Language:** Hindi (`hi`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [shabash](../../en/f7/shabash-027b25c9.md) — English *(borrowed)*

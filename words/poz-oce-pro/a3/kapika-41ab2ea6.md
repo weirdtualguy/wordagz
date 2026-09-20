@@ -1,0 +1,16 @@
+# \*kapika
+
+**Language:** poz-oce-pro (`poz-oce-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [kahika](../../en/f5/kahika-7d283069.md) — English *(derived)*
+- [kavika](../../en/2c/kavika-6172a382.md) — English *(derived)*

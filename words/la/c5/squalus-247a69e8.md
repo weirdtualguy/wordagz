@@ -1,0 +1,17 @@
+# squalus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+shark
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [crow shark](../../en/5c/crow-shark-654a40fe.md) — English *(derived)*

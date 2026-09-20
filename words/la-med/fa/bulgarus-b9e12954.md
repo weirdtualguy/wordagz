@@ -1,0 +1,18 @@
+# Bulgarus
+
+**Language:** Medieval Latin (`la-med`)
+
+## Definition
+
+Bulgar
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [bugger](../../en/01/bugger-d1e67585.md) — English *(derived)*
+- [Bulgar](../../en/20/bulgar-6e038ba0.md) — English *(borrowed)*

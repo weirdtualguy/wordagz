@@ -1,0 +1,15 @@
+# Eloise
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+Alternative form of Heloise, A female given name from French.
+
+## Direct ancestors
+
+- [Éloïse](../../fr/03/eloise-c22037aa.md) — French *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

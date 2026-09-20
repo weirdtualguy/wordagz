@@ -1,0 +1,15 @@
+# eam
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [am](../../en/5c/am-f4c59bc9.md) — English *(inherited)*

@@ -1,0 +1,16 @@
+# Syrte
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Sirte](../../en/e6/sirte-e53c7ae9.md) — English *(derived)*
+- [Syrte](../../en/04/syrte-1d07278d.md) — English *(borrowed)*

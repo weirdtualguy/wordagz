@@ -1,0 +1,15 @@
+# court
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [court](../../en/9e/court-df1b4afa.md) — English *(inherited)*

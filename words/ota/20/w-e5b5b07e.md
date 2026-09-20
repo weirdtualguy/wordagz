@@ -1,0 +1,15 @@
+# تیرهبولی
+
+**Language:** ota (`ota`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Tirebolu](../../en/68/tirebolu-36d3360a.md) — English *(borrowed)*

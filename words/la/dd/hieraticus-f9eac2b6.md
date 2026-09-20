@@ -1,0 +1,15 @@
+# hieraticus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [hieratic](../../en/4a/hieratic-795fe46e.md) — English *(borrowed)*

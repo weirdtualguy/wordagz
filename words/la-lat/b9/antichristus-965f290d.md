@@ -1,0 +1,15 @@
+# antichrīstus
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Antichrist](../../en/62/antichrist-347ff0d1.md) — English *(derived)*

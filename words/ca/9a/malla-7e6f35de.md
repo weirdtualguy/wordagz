@@ -1,0 +1,15 @@
+# Malla
+
+**Language:** Catalan (`ca`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Malla](../../en/e2/malla-24e2f60d.md) — English *(borrowed)*

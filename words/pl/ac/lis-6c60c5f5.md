@@ -1,0 +1,17 @@
+# lis
+
+**Language:** Polish (`pl`)
+
+## Definition
+
+fox
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Liss](../../en/9a/liss-c4f39a5a.md) — English *(derived)*

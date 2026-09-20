@@ -1,0 +1,15 @@
+# rejoindre
+
+**Language:** Middle French (`frm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [rejoinder](../../en/c8/rejoinder-1794ed68.md) — English *(derived)*

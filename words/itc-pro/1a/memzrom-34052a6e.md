@@ -1,0 +1,15 @@
+# \*memzrom
+
+**Language:** Proto-Italic (`itc-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [member](../../en/0b/member-0e8527f2.md) — English *(derived)*

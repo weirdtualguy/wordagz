@@ -1,0 +1,15 @@
+# idole
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [idol](../../en/d7/idol-64a1d47d.md) — English *(derived)*

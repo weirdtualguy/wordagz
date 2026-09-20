@@ -1,0 +1,15 @@
+# \*snagilaz
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [snail](../../en/e5/snail-0ae4085f.md) — English *(inherited)*

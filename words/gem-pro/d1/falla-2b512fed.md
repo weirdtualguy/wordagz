@@ -1,0 +1,16 @@
+# \*fallą
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [fall](../../en/97/fall-556273c1.md) — English *(inherited)*
+- [pitfall](../../en/c4/pitfall-1335f50c.md) — English *(inherited)*

@@ -1,0 +1,17 @@
+# hire
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+her
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [her](../../en/54/her-ad4b361e.md) — English *(inherited)*

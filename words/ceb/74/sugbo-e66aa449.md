@@ -1,0 +1,15 @@
+# Sugbo
+
+**Language:** ceb (`ceb`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Cebu](../../en/c1/cebu-d2358cef.md) — English *(derived)*

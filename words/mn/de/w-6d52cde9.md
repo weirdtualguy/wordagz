@@ -1,0 +1,15 @@
+# Дэлхий
+
+**Language:** mn (`mn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Delhi](../../en/21/delhi-9af641f8.md) — English *(borrowed)*

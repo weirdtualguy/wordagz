@@ -1,0 +1,16 @@
+# borgh
+
+**Language:** gmq-osw (`gmq-osw`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Viborg](../../en/6d/viborg-f14b2cb3.md) — English *(derived)*
+- [Vyborg](../../en/44/vyborg-217e6d3e.md) — English *(derived)*

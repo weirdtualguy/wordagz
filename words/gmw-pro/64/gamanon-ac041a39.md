@@ -1,0 +1,15 @@
+# \*gamanōn
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [gammon](../../en/f5/gammon-7cd1c7f5.md) — English *(inherited)*

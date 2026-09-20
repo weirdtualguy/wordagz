@@ -1,0 +1,15 @@
+# Martha
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Martha](../../en/09/martha-513706ba.md) — English *(derived)*

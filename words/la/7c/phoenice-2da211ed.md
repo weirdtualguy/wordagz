@@ -1,0 +1,15 @@
+# Phoenice
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Phoenicia](../../en/df/phoenicia-2ebc8fe4.md) — English *(borrowed)*

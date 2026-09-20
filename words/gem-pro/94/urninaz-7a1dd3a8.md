@@ -1,0 +1,17 @@
+# \*þurnīnaz
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+of thorns
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [thornen](../../en/3b/thornen-0d9639f0.md) — English *(inherited)*

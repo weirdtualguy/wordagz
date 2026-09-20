@@ -1,0 +1,16 @@
+# gossoon
+
+**Language:** English (`en`) · **Part of speech:** noun
+
+## Definition
+
+A young boy, a servant boy; a lackey.
+
+## Direct ancestors
+
+- [garsún](../../ga/2c/garsun-dceaa459.md) — Irish *(borrowed)*
+- [garçun](../../fro/f3/garcun-fc094a99.md) — Old French *(derived)*
+
+## Direct descendants
+
+_None recorded._

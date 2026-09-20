@@ -1,0 +1,15 @@
+# Abdias
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Abdias](../../en/56/abdias-55d7f947.md) — English *(derived)*

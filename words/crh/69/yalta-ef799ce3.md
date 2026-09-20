@@ -1,0 +1,15 @@
+# Yalta
+
+**Language:** crh (`crh`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Yalta](../../en/1a/yalta-cbad0f60.md) — English *(derived)*

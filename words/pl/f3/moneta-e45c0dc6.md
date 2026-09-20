@@ -1,0 +1,15 @@
+# moneta
+
+**Language:** Polish (`pl`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [manat](../../en/2d/manat-9438f9f0.md) — English *(derived)*

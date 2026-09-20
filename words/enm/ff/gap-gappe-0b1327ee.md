@@ -1,0 +1,15 @@
+# gap//gappe
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [gap](../../en/60/gap-93f3b8f9.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# Pontón
+
+**Language:** Spanish (`es`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Ponton](../../en/c1/ponton-a3538a80.md) — English *(borrowed)*

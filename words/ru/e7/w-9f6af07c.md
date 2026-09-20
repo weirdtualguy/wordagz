@@ -1,0 +1,15 @@
+# тачанка
+
+**Language:** Russian (`ru`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tachanka](../../en/e4/tachanka-d25ca64c.md) — English *(borrowed)*

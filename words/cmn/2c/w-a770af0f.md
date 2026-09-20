@@ -1,0 +1,15 @@
+# 瀘西
+
+**Language:** Mandarin (`cmn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Luxi](../../en/21/luxi-f7f2d239.md) — English *(borrowed)*

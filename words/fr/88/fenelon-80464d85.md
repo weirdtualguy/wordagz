@@ -1,0 +1,15 @@
+# Fénelon
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Fenelon](../../en/ff/fenelon-f08af022.md) — English *(borrowed)*

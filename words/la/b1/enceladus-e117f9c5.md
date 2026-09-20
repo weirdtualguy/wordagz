@@ -1,0 +1,15 @@
+# Enceladus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Enceladus](../../en/81/enceladus-32ee8562.md) — English *(borrowed)*

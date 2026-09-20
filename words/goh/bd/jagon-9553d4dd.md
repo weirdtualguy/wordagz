@@ -1,0 +1,15 @@
+# jagōn
+
+**Language:** Old High German (`goh`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Jagr](../../en/46/jagr-06ffe1ba.md) — English *(derived)*

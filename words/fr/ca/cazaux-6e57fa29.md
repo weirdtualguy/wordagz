@@ -1,0 +1,15 @@
+# Cazaux
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Cazaux](../../en/f2/cazaux-93ec8814.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# maiestas
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [majesty](../../en/38/majesty-be111e58.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# 永漋
+
+**Language:** Mandarin (`cmn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Yonglong](../../en/1c/yonglong-8b2a38cb.md) — English *(borrowed)*

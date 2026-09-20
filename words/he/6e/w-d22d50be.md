@@ -1,0 +1,15 @@
+# ר
+
+**Language:** Hebrew (`he`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [resh cicada](../../en/56/resh-cicada-68d5239f.md) — English *(derived)*

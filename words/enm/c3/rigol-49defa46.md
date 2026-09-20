@@ -1,0 +1,15 @@
+# rigol
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [rigol](../../en/b4/rigol-c5c058cc.md) — English *(inherited)*

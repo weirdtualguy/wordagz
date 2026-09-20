@@ -1,0 +1,15 @@
+# smeriglio
+
+**Language:** Italian (`it`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [emery](../../en/72/emery-65244307.md) — English *(derived)*

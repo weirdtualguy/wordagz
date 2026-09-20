@@ -1,0 +1,17 @@
+# monna
+
+**Language:** Italian (`it`)
+
+## Definition
+
+monkey
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [monkey](../../en/c3/monkey-65ce3f48.md) — English *(derived)*

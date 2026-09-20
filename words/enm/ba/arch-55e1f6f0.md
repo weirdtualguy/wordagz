@@ -1,0 +1,15 @@
+# arch-
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [arch-](../../en/10/arch-8f0829fc.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# Eudocia
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Eudocia](../../en/86/eudocia-31326415.md) — English *(borrowed)*

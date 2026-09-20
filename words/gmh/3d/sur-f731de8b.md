@@ -1,0 +1,17 @@
+# sur
+
+**Language:** Middle High German (`gmh`)
+
+## Definition
+
+sour
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Sauer](../../en/68/sauer-087084df.md) — English *(derived)*

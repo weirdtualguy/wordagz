@@ -1,0 +1,15 @@
+# Wuchi
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+Alternative form of Wuqi.
+
+## Direct ancestors
+
+- [梧棲//](../../cmn/9a/w-20146e89.md) — Mandarin *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

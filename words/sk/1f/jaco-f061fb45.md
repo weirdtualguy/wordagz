@@ -1,0 +1,15 @@
+# Jačo
+
+**Language:** sk (`sk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Jaco](../../en/21/jaco-d80c8287.md) — English *(borrowed)*

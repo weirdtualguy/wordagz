@@ -1,0 +1,15 @@
+# بهار
+
+**Language:** arz (`arz`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [bahar](../../en/4e/bahar-70b32249.md) — English *(borrowed)*

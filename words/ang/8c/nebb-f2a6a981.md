@@ -1,0 +1,17 @@
+# nebb
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+beak, nose, face
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [neb](../../en/11/neb-92f12482.md) — English *(inherited)*

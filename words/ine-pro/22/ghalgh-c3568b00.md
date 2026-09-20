@@ -1,0 +1,16 @@
+# \*ǵʰalgʰ-
+
+**Language:** Proto-Indo-European (`ine-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [gallows](../../en/8c/gallows-1edde663.md) — English *(inherited)*
+- [gauge](../../en/54/gauge-27a8ea43.md) — English *(derived)*

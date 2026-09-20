@@ -1,0 +1,15 @@
+# Sīlās
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Silas](../../en/65/silas-4a35e49f.md) — English *(derived)*

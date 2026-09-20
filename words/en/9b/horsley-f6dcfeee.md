@@ -1,0 +1,17 @@
+# Horsley
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A village and civil parish in Amber Valley district, Derbyshire, England (OS grid ref SK380444).
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [hors](../../ang/07/hors-39e95656.md) ("horse").
+
+## Direct ancestors
+
+- [hors](../../ang/07/hors-39e95656.md) — Old English *(derived)*
+
+## Direct descendants
+
+_None recorded._

@@ -1,0 +1,15 @@
+# citharoedicus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [citharoedic](../../en/98/citharoedic-c9ea7b3a.md) — English *(derived)*

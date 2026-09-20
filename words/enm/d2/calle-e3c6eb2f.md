@@ -1,0 +1,15 @@
+# calle
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [caul](../../en/a0/caul-48f41345.md) — English *(inherited)*

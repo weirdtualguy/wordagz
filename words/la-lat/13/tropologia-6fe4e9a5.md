@@ -1,0 +1,15 @@
+# tropologia
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tropology](../../en/48/tropology-f562e07b.md) — English *(derived)*

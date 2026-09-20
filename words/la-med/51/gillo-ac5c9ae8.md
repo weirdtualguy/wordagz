@@ -1,0 +1,17 @@
+# gillo
+
+**Language:** Medieval Latin (`la-med`)
+
+## Definition
+
+earthenware jar
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [gill](../../en/85/gill-2565a342.md) — English *(derived)*

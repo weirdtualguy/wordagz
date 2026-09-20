@@ -1,0 +1,15 @@
+# \*gamnecian
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [gammock](../../en/68/gammock-03380c37.md) — English *(inherited)*

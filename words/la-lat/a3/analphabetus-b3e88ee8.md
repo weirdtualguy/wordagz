@@ -1,0 +1,17 @@
+# analphabetus
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+unable to read and write; illiterate
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [analphabet](../../en/1c/analphabet-89e4d532.md) — English *(derived)*

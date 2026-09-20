@@ -1,0 +1,15 @@
+# Paphius
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Paphian](../../en/c7/paphian-8a214af3.md) — English *(borrowed)*

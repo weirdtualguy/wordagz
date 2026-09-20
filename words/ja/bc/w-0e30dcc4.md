@@ -1,0 +1,15 @@
+# 本田
+
+**Language:** Japanese (`ja`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Honda](../../en/f6/honda-6110104c.md) — English *(borrowed)*

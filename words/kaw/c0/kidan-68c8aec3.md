@@ -1,0 +1,15 @@
+# kidaṅ
+
+**Language:** kaw (`kaw`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [kidang](../../en/9a/kidang-87d72897.md) — English *(derived)*

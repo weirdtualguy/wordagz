@@ -1,0 +1,15 @@
+# tsumatori
+
+**Language:** English (`en`) · **Part of speech:** noun
+
+## Definition
+
+a kimarite in which the attacker reaches down and picks up his opponent's foot (at the toes) and pulls back and up forcing him to fall forward
+
+## Direct ancestors
+
+- [褄取り](../../ja/85/w-011ff72b.md) — Japanese *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

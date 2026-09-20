@@ -1,0 +1,15 @@
+# cuiture
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [quittor](../../en/f7/quittor-18fd71dd.md) — English *(derived)*

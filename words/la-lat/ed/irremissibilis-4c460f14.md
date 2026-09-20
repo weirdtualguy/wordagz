@@ -1,0 +1,15 @@
+# irremissibilis
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [irremissible](../../en/4a/irremissible-d337aef2.md) — English *(derived)*

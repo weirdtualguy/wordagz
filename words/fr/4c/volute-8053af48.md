@@ -1,0 +1,15 @@
+# volute
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [volute](../../en/37/volute-2c494268.md) — English *(derived)*

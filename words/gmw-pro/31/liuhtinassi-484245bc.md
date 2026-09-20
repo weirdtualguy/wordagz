@@ -1,0 +1,15 @@
+# \*liuhtinassī
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [lightness](../../en/92/lightness-99f3795f.md) — English *(inherited)*

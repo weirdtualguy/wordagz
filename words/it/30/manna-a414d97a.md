@@ -1,0 +1,15 @@
+# Manna
+
+**Language:** Italian (`it`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Manna](../../en/cb/manna-3449cac2.md) — English *(borrowed)*

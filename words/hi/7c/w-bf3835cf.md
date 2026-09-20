@@ -1,0 +1,17 @@
+# पक्का
+
+**Language:** Hindi (`hi`)
+
+## Definition
+
+certain, sure
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [pukka](../../en/4b/pukka-6181150f.md) — English *(derived)*

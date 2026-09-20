@@ -1,0 +1,15 @@
+# Cosentino
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from Italian.
+
+## Direct ancestors
+
+- [Cosentino](../../it/ba/cosentino-b67ade72.md) — Italian *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

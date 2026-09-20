@@ -1,0 +1,15 @@
+# 隆安
+
+**Language:** Mandarin (`cmn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Long'an](../../en/78/long-an-8934e56e.md) — English *(borrowed)*

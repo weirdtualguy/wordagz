@@ -1,0 +1,16 @@
+# theo-
+
+**Language:** English (`en`) · **Part of speech:** prefix
+
+## Definition
+
+god; deity
+
+## Direct ancestors
+
+- [theo-](../../la/ad/theo-add392e2.md) — Latin *(derived)*
+- [θεο-](../../grc/e2/w-6560377c.md) — Ancient Greek *(derived)*
+
+## Direct descendants
+
+_None recorded._

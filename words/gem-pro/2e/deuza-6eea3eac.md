@@ -1,0 +1,15 @@
+# \*deuzą
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [deer](../../en/6d/deer-f779bc01.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# \*murnaną
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [mourn](../../en/96/mourn-76efaaf3.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# comédien
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [comedian](../../en/82/comedian-dd8e6b62.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# ଆଲଡା
+
+**Language:** or (`or`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Alda](../../en/87/alda-67b4437e.md) — English *(borrowed)*

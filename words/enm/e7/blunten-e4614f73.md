@@ -1,0 +1,15 @@
+# blunten
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [blunt](../../en/c6/blunt-d2c85248.md) — English *(inherited)*

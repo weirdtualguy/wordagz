@@ -1,0 +1,15 @@
+# weed
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [weed](../../en/c1/weed-1d26abb5.md) — English *(inherited)*

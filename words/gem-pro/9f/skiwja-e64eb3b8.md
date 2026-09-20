@@ -1,0 +1,17 @@
+# \*skiwją
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+cloud; sky
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sky](../../en/3d/sky-4cf9373b.md) — English *(derived)*

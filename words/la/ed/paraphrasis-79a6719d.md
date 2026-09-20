@@ -1,0 +1,16 @@
+# paraphrasis
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [paraphrase](../../en/07/paraphrase-b0b868d5.md) — English *(derived)*
+- [paraphrasis](../../en/62/paraphrasis-2dc97506.md) — English *(borrowed)*

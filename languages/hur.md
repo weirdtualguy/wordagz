@@ -1,0 +1,20 @@
+# hur (`hur`)
+
+16 pages. Showing the 16 best-connected.
+
+- [Stsʼaʼí:les](../words/hur/86/stsai-les-bc27a68d.md)
+- [yəqʷəɬteʔχ](../words/hur/47/yqwte-bb9b4c2a.md)
+- [Hul̓q̓umín̓um̓](../words/hur/16/hulquminum-519b9fa0.md)
+- [Kwʼikwʼiyá:la](../words/hur/4b/kwikwiya-la-4e068caf.md)
+- [kʷikʷəƛ̓əm](../words/hur/6f/kwikwm-ba350191.md)
+- [Quw'utsun](../words/hur/cc/quw-utsun-db88028b.md)
+- [q̓íc̓əy̓](../words/hur/46/qicy-20c9e4b9.md)
+- [q̓ʷa:n̓ƛ̓ən̓](../words/hur/c6/qwa-nn-4eb8eab3.md)
+- [scəw̓aθən](../words/hur/63/scwan-6593462b.md)
+- [Semá:th](../words/hur/6a/sema-th-bd842a16.md)
+- [Snuneymuxw](../words/hur/2b/snuneymuxw-e00baee0.md)
+- [Stó:lō](../words/hur/8c/sto-lo-b9347b01.md)
+- [sásq’ets](../words/hur/30/sasqets-cb85a7ea.md)
+- [səlilwətaɬ](../words/hur/d8/slilwta-57bb1b5c.md)
+- [sθəqəy̓](../words/hur/36/sqy-13206776.md)
+- [xʷməθkʷəy̓əm](../words/hur/11/xwmkwym-d5cadde4.md)

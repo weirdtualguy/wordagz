@@ -1,0 +1,15 @@
+# berme
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [berm](../../en/f9/berm-405d2015.md) — English *(borrowed)*

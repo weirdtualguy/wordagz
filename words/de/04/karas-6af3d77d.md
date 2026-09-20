@@ -1,0 +1,15 @@
+# Karas
+
+**Language:** German (`de`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Caris](../../en/60/caris-8b9be218.md) — English *(derived)*

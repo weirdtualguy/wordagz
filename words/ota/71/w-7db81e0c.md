@@ -1,0 +1,17 @@
+# آلاشهر
+
+**Language:** ota (`ota`)
+
+## Definition
+
+Multicolored or Spotted City
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Alaşehir](../../en/ca/alasehir-3355b54b.md) — English *(borrowed)*

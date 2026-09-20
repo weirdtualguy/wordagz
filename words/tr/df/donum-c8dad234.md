@@ -1,0 +1,15 @@
+# dönüm
+
+**Language:** Turkish (`tr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [dunam](../../en/f2/dunam-0518542f.md) — English *(derived)*

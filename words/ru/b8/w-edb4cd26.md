@@ -1,0 +1,15 @@
+# Попо́в
+
+**Language:** Russian (`ru`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Popoff](../../en/c1/popoff-651477da.md) — English *(derived)*

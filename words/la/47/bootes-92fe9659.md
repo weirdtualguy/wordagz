@@ -1,0 +1,15 @@
+# Boōtēs
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Boötes](../../en/76/bootes-3af4752a.md) — English *(borrowed)*

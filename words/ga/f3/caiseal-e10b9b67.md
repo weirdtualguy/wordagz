@@ -1,0 +1,15 @@
+# caiseal
+
+**Language:** Irish (`ga`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [cashel](../../en/76/cashel-8b2951ca.md) — English *(borrowed)*

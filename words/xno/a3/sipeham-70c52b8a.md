@@ -1,0 +1,15 @@
+# Sipeham
+
+**Language:** Anglo-Norman (`xno`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Shipham](../../en/71/shipham-db5972bf.md) — English *(derived)*

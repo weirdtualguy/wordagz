@@ -1,0 +1,15 @@
+# Sarmatia
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Sarmatia](../../en/5e/sarmatia-26132170.md) — English *(derived)*

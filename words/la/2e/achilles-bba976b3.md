@@ -1,0 +1,15 @@
+# Achillēs
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Achilles](../../en/28/achilles-6fb5b418.md) — English *(borrowed)*

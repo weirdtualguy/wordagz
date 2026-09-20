@@ -1,0 +1,15 @@
+# bandera
+
+**Language:** Polish (`pl`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Bandera](../../en/d8/bandera-dce0337c.md) — English *(derived)*

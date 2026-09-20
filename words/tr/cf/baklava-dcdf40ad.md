@@ -1,0 +1,15 @@
+# baklava
+
+**Language:** Turkish (`tr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [baklava](../../en/90/baklava-f20243f7.md) — English *(borrowed)*

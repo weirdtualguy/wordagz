@@ -1,0 +1,16 @@
+# trey
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tray](../../en/9d/tray-57b97df1.md) — English *(inherited)*
+- [trey](../../en/ac/trey-6ec802ab.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# Fornes
+
+**Language:** Norwegian (`no`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Fornes](../../en/13/fornes-ae4af6be.md) — English *(borrowed)*

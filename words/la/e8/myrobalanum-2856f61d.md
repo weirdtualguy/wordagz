@@ -1,0 +1,15 @@
+# myrobalanum
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [myrobalan](../../en/a8/myrobalan-94101d4f.md) — English *(borrowed)*

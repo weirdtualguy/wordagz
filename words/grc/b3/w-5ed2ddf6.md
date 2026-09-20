@@ -1,0 +1,17 @@
+# κερᾱ́τῐον
+
+**Language:** Ancient Greek (`grc`)
+
+## Definition
+
+little horn, carob
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [ceratium](../../en/29/ceratium-f6bcfb1d.md) — English *(derived)*

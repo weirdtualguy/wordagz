@@ -1,0 +1,15 @@
+# oxymōrum
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [oxymoron](../../en/34/oxymoron-7051c65f.md) — English *(borrowed)*

@@ -1,0 +1,20 @@
+# \*friþuz
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+peace
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [affray](../../en/4e/affray-4bbc139b.md) — English *(derived)*
+- [afraid](../../en/c8/afraid-96723d08.md) — English *(derived)*
+- [fray](../../en/0b/fray-ddd226fc.md) — English *(derived)*
+- [frith](../../en/0c/frith-a048f19d.md) — English *(derived)*

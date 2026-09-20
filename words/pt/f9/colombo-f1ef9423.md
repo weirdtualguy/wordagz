@@ -1,0 +1,15 @@
+# Colombo
+
+**Language:** Portuguese (`pt`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Colombo](../../en/53/colombo-e6e102e2.md) — English *(borrowed)*

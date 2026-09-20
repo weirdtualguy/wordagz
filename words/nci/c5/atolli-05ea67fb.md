@@ -1,0 +1,15 @@
+# ātōlli
+
+**Language:** nci (`nci`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [atole](../../en/eb/atole-e77ff51c.md) — English *(derived)*

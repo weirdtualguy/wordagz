@@ -1,0 +1,15 @@
+# nardus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [nard](../../en/12/nard-273b973f.md) — English *(derived)*

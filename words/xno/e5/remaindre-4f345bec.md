@@ -1,0 +1,15 @@
+# remaindre
+
+**Language:** Anglo-Norman (`xno`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [remainder](../../en/0b/remainder-1fcf7e37.md) — English *(derived)*

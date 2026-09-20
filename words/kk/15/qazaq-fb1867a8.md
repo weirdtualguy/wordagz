@@ -1,0 +1,15 @@
+# qazaq
+
+**Language:** kk (`kk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Qazaq](../../en/a3/qazaq-4b9961b0.md) — English *(borrowed)*

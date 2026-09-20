@@ -1,0 +1,15 @@
+# orthodoxus
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [orthodox](../../en/93/orthodox-46d6ce1d.md) — English *(derived)*

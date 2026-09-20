@@ -1,0 +1,17 @@
+# fīdus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+faithful
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Fido](../../en/a7/fido-b86e7c41.md) — English *(derived)*

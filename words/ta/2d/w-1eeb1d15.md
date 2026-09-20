@@ -1,0 +1,15 @@
+# தம் தம்
+
+**Language:** ta (`ta`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tom-tom](../../en/a5/tom-tom-f643c476.md) — English *(borrowed)*

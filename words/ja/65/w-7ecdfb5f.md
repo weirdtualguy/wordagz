@@ -1,0 +1,15 @@
+# 江戸
+
+**Language:** Japanese (`ja`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Edo](../../en/fb/edo-af0c7f4f.md) — English *(borrowed)*

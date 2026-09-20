@@ -1,0 +1,17 @@
+# vijs
+
+**Language:** Dutch (`nl`)
+
+## Definition
+
+screw
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [feeze](../../en/f2/feeze-ac253c3c.md) — English *(derived)*

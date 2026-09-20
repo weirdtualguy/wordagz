@@ -1,0 +1,15 @@
+# rapine
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [rapine](../../en/99/rapine-49fbd94e.md) — English *(derived)*

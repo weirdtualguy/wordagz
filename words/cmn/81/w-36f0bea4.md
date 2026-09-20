@@ -1,0 +1,15 @@
+# 磨憨
+
+**Language:** Mandarin (`cmn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Mohan](../../en/ee/mohan-82dd7c01.md) — English *(borrowed)*

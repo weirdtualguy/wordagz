@@ -1,0 +1,15 @@
+# alkoholizm
+
+**Language:** Polish (`pl`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [alkoholism](../../en/a9/alkoholism-7e3ee8d1.md) — English *(borrowed)*

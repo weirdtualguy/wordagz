@@ -1,0 +1,15 @@
+# Galilaeus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Galilean](../../en/32/galilean-63503fd4.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# Ude
+
+**Language:** German (`de`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Ude](../../en/b4/ude-403fbf96.md) — English *(borrowed)*

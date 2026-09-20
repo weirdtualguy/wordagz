@@ -1,0 +1,15 @@
+# atong
+
+**Language:** aot (`aot`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Atong](../../en/e7/atong-07a3bd69.md) — English *(borrowed)*

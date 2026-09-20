@@ -1,0 +1,15 @@
+# سلجوق
+
+**Language:** ota (`ota`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Seljuk](../../en/80/seljuk-cf5ce796.md) — English *(derived)*

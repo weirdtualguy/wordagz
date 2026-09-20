@@ -1,0 +1,17 @@
+# tegan
+
+**Language:** Welsh (`cy`)
+
+## Definition
+
+pet, darling
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Tegan](../../en/e5/tegan-a217332a.md) — English *(derived)*

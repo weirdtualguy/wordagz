@@ -1,0 +1,15 @@
+# අනිල්
+
+**Language:** si (`si`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Anil](../../en/50/anil-d1764a73.md) — English *(borrowed)*

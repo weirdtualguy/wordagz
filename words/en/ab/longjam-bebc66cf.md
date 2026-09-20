@@ -1,0 +1,15 @@
+# Longjam
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A Meitei surname from Manipuri
+
+## Direct ancestors
+
+- [ꯂꯣꯡꯖꯝ](../../mni/54/w-a66ed7c1.md) — mni *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

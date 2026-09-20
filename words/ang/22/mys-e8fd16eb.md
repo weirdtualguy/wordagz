@@ -1,0 +1,17 @@
+# mȳs
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+mice
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [mice](../../en/df/mice-ad50fb7a.md) — English *(inherited)*

@@ -1,0 +1,17 @@
+# ire
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+ire
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [ire](../../en/3c/ire-b4acce27.md) — English *(derived)*

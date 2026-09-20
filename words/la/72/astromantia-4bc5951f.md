@@ -1,0 +1,15 @@
+# astromantīa
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [astromancy](../../en/95/astromancy-96ee5b5b.md) — English *(borrowed)*

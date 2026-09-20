@@ -1,0 +1,17 @@
+# \*syewH-
+
+**Language:** Proto-Indo-European (`ine-pro`)
+
+## Definition
+
+to sew
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sew](../../en/9d/sew-b19a3363.md) — English *(derived)*

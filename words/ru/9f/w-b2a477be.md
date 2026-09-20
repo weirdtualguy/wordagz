@@ -1,0 +1,15 @@
+# Савельева
+
+**Language:** Russian (`ru`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Saveliyeva](../../en/6a/saveliyeva-28b11996.md) — English *(borrowed)*

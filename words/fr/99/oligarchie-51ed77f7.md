@@ -1,0 +1,15 @@
+# oligarchie
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [oligarchy](../../en/99/oligarchy-b9a16d9a.md) — English *(borrowed)*

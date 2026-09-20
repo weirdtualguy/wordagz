@@ -1,0 +1,17 @@
+# bois
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+wood
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Boyce](../../en/ea/boyce-49ddb369.md) — English *(derived)*

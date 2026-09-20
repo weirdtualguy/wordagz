@@ -1,0 +1,15 @@
+# آبْدَسْت
+
+**Language:** fa-cls (`fa-cls`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [abdest](../../en/2a/abdest-928fb434.md) — English *(derived)*

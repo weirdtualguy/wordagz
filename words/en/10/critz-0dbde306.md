@@ -1,0 +1,15 @@
+# Critz
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from German.
+
+## Direct ancestors
+
+- [Kritz](../../de/21/kritz-a6805269.md) — German *(derived)*
+
+## Direct descendants
+
+_None recorded._

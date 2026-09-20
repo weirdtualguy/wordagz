@@ -1,0 +1,17 @@
+# cibōrium
+
+**Language:** Medieval Latin (`la-med`)
+
+## Definition
+
+drinking-cup
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [ciborium](../../en/96/ciborium-a9ba5f66.md) — English *(borrowed)*

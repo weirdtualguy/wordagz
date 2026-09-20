@@ -1,0 +1,17 @@
+# خطِ شریف
+
+**Language:** ota (`ota`)
+
+## Definition
+
+noble writing
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [hatti-sherif](../../en/43/hatti-sherif-163ca9d4.md) — English *(borrowed)*

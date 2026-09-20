@@ -1,0 +1,15 @@
+# pastel
+
+**Language:** Spanish (`es`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [pastel](../../en/9a/pastel-9d71965b.md) — English *(borrowed)*

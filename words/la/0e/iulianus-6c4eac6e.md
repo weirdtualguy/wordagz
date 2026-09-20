@@ -1,0 +1,15 @@
+# Iulianus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Iuliyanov](../../en/6c/iuliyanov-2e0e1e7e.md) — English *(derived)*

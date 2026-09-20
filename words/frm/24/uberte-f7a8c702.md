@@ -1,0 +1,15 @@
+# uberté
+
+**Language:** Middle French (`frm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [uberty](../../en/b4/uberty-ed569c8c.md) — English *(derived)*

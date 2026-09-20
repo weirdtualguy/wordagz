@@ -1,0 +1,15 @@
+# पटका
+
+**Language:** Hindi (`hi`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [patka](../../en/ca/patka-116d5136.md) — English *(borrowed)*

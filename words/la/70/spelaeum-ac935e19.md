@@ -1,0 +1,17 @@
+# spelaeum
+
+**Language:** Latin (`la`)
+
+## Definition
+
+cave
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [spelaean](../../en/2b/spelaean-ee3669a5.md) — English *(derived)*

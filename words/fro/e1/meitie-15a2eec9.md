@@ -1,0 +1,17 @@
+# meitié
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+half
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [moiety](../../en/f5/moiety-83c31517.md) — English *(derived)*

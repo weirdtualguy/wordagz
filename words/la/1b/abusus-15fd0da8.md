@@ -1,0 +1,17 @@
+# abūsus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+misused, using up
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [abuse](../../en/34/abuse-01965df6.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# Jurić
+
+**Language:** sh (`sh`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Jurich](../../en/98/jurich-7473e4c6.md) — English *(derived)*

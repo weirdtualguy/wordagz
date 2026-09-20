@@ -1,0 +1,16 @@
+# بادنگان
+
+**Language:** fa-cls (`fa-cls`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [malidzano](../../en/72/malidzano-99df6b11.md) — English *(derived)*
+- [melongene](../../en/06/melongene-6e6ce396.md) — English *(derived)*

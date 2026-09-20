@@ -1,0 +1,15 @@
+# balais
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [balas](../../en/02/balas-0b1738f8.md) — English *(derived)*

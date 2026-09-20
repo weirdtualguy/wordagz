@@ -1,0 +1,15 @@
+# Ssu-p'ing
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+Alternative form of Siping.
+
+## Direct ancestors
+
+- [四平](../../cmn/12/w-8c0926a0.md) — Mandarin *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

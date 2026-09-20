@@ -1,0 +1,15 @@
+# 化隆
+
+**Language:** Mandarin (`cmn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Hualong](../../en/68/hualong-4b4a07d1.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# Abramović
+
+**Language:** sh (`sh`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Abramovich](../../en/67/abramovich-cc1c2e6b.md) — English *(derived)*

@@ -1,0 +1,17 @@
+# discalceātus
+
+**Language:** la-ecc (`la-ecc`)
+
+## Definition
+
+barefoot
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [discalced](../../en/f1/discalced-a8d308db.md) — English *(borrowed)*

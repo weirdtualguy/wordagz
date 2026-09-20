@@ -1,0 +1,17 @@
+# \*te
+
+**Language:** Proto-Indo-European (`ine-pro`)
+
+## Definition
+
+second-person singular pronoun
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [thee](../../en/18/thee-1dbb7131.md) — English *(inherited)*

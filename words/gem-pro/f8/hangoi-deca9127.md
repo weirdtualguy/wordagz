@@ -1,0 +1,15 @@
+# \*hangōþi
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [hangeth](../../en/71/hangeth-d11d5c58.md) — English *(inherited)*

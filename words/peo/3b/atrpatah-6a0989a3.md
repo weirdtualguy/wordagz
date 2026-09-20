@@ -1,0 +1,15 @@
+# \*Ātr̥pātah
+
+**Language:** peo (`peo`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Azerbaijan](../../en/e2/azerbaijan-97634bc6.md) — English *(derived)*

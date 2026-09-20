@@ -1,0 +1,15 @@
+# Ἀνανίας
+
+**Language:** Ancient Greek (`grc`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Ananias](../../en/79/ananias-4a1d1832.md) — English *(derived)*

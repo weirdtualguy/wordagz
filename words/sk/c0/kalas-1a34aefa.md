@@ -1,0 +1,15 @@
+# Kalaš
+
+**Language:** sk (`sk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Kalas](../../en/72/kalas-52148481.md) — English *(borrowed)*

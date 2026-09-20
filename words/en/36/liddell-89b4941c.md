@@ -1,0 +1,18 @@
+# Liddell
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [hlÿde](../../ang/1a/hlyde-d9087168.md) ("loud, River Lid").
+
+## Direct ancestors
+
+- [hlÿde](../../ang/1a/hlyde-d9087168.md) — Old English *(inherited)*
+- [Lidelesdale](../../enm/53/lidelesdale-32fdf0a9.md) — Middle English *(inherited)*
+
+## Direct descendants
+
+_None recorded._

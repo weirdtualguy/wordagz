@@ -1,0 +1,17 @@
+# 𒌷
+
+**Language:** akk (`akk`)
+
+## Definition
+
+city, place of dwelling or collecting under
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Uruk](../../en/8d/uruk-12c89a3b.md) — English *(derived)*

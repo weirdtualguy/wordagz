@@ -1,0 +1,15 @@
+# Cuk Ṣon
+
+**Language:** ood (`ood`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Tucson](../../en/7b/tucson-82064479.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# դրամ
+
+**Language:** hy (`hy`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [dram](../../en/26/dram-5916c1b4.md) — English *(borrowed)*

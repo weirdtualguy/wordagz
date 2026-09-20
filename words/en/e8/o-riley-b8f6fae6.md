@@ -1,0 +1,15 @@
+# O'Riley
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from Irish.
+
+## Direct ancestors
+
+- [Ó Raghallaigh](../../ga/c0/o-raghallaigh-4ee7999a.md) — Irish *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

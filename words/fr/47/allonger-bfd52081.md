@@ -1,0 +1,17 @@
+# allonger
+
+**Language:** French (`fr`)
+
+## Definition
+
+to lengthen
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [longe](../../en/0a/longe-74edc1f1.md) — English *(derived)*

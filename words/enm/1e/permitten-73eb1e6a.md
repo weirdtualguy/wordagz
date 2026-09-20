@@ -1,0 +1,15 @@
+# permitten
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [permit](../../en/a8/permit-543a05bc.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# sȳcophantia
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sycophancy](../../en/87/sycophancy-4b7b3c86.md) — English *(borrowed)*

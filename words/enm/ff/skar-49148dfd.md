@@ -1,0 +1,17 @@
+# skar
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+incision, cut, fissure
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [scar](../../en/d2/scar-59ee03d6.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# Selmani
+
+**Language:** sq (`sq`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Selmani](../../en/88/selmani-4efd416c.md) — English *(derived)*

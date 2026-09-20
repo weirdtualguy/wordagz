@@ -1,0 +1,15 @@
+# glenare
+
+**Language:** Late Latin (`la-lat`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [glean](../../en/58/glean-e9e71aec.md) — English *(derived)*

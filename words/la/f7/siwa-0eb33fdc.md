@@ -1,0 +1,15 @@
+# Siwa
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Siwa](../../en/35/siwa-7d905d85.md) — English *(borrowed)*

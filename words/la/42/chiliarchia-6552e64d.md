@@ -1,0 +1,15 @@
+# chiliarchia
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [chiliarchy](../../en/7a/chiliarchy-36927014.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# giapponese
+
+**Language:** Italian (`it`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Japonese](../../en/97/japonese-5d5d262e.md) — English *(borrowed)*

@@ -1,0 +1,18 @@
+# Friedman
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from German.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [Fried](../../de/60/fried-f8e3cff7.md) ("peace").
+
+## Direct ancestors
+
+- [Fried](../../de/60/fried-f8e3cff7.md) — German *(derived)*
+- [Friedmann](../../de/4e/friedmann-611a1f63.md) — German *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

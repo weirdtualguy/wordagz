@@ -1,0 +1,17 @@
+# pectinibranchiate
+
+**Language:** English (`en`) · **Part of speech:** adj
+
+## Definition
+
+Having pectinated gills.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [pecten](../../la/d2/pecten-41ba9a46.md) ("comb").
+
+## Direct ancestors
+
+- [pecten](../../la/d2/pecten-41ba9a46.md) — Latin *(derived)*
+
+## Direct descendants
+
+_None recorded._

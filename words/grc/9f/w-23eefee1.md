@@ -1,0 +1,15 @@
+# Ῡ̔μήν
+
+**Language:** Ancient Greek (`grc`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Hymen](../../en/db/hymen-44a4631f.md) — English *(derived)*

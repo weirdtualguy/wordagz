@@ -1,0 +1,15 @@
+# prōsequor
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [pursue](../../en/b6/pursue-dd1b8e97.md) — English *(derived)*

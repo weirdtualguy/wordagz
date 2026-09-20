@@ -1,0 +1,15 @@
+# Πέτρος
+
+**Language:** Greek (`el`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Petros](../../en/51/petros-ef958169.md) — English *(borrowed)*

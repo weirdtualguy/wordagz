@@ -1,0 +1,15 @@
+# gabalos
+
+**Language:** cel-gau (`cel-gau`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [yelve](../../en/5d/yelve-76e52476.md) — English *(derived)*

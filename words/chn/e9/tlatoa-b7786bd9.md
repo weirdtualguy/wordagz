@@ -1,0 +1,17 @@
+# tlatoa
+
+**Language:** chn (`chn`)
+
+## Definition
+
+to go
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [clattawa](../../en/74/clattawa-0362a656.md) — English *(borrowed)*

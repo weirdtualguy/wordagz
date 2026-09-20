@@ -1,0 +1,15 @@
+# anagrammatisme
+
+**Language:** Middle French (`frm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [anagrammatism](../../en/c3/anagrammatism-87d2d9d1.md) — English *(borrowed)*

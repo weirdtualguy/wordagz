@@ -1,0 +1,17 @@
+# tillen
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+to draw
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [till](../../en/d0/till-3d30ec25.md) — English *(derived)*

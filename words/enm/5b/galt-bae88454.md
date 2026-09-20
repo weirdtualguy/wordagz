@@ -1,0 +1,17 @@
+# galt
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+boar
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Gault](../../en/fb/gault-2d2256a6.md) — English *(derived)*

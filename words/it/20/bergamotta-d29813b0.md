@@ -1,0 +1,15 @@
+# bergamotta
+
+**Language:** Italian (`it`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [bergamot](../../en/c4/bergamot-e0818950.md) — English *(derived)*

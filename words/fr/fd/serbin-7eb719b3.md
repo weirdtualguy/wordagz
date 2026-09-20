@@ -1,0 +1,15 @@
+# Serbin
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Serbin](../../en/1f/serbin-6606de6a.md) — English *(borrowed)*

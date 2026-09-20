@@ -1,0 +1,15 @@
+# 渝中
+
+**Language:** Mandarin (`cmn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Yuzhong](../../en/2a/yuzhong-43324aa3.md) — English *(borrowed)*

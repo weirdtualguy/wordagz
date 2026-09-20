@@ -1,0 +1,17 @@
+# alizari
+
+**Language:** French (`fr`)
+
+## Definition
+
+madder root (commercial name)
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [alizari](../../en/1c/alizari-f36d3a95.md) — English *(borrowed)*

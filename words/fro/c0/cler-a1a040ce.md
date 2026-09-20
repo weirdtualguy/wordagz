@@ -1,0 +1,15 @@
+# cler
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [clear](../../en/5c/clear-9eecd16c.md) — English *(derived)*

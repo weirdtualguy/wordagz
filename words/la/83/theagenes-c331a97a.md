@@ -1,0 +1,15 @@
+# Theagenes
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Theagenes](../../en/2e/theagenes-5eb69516.md) — English *(borrowed)*

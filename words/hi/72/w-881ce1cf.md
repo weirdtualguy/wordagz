@@ -1,0 +1,15 @@
+# मेला
+
+**Language:** Hindi (`hi`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [mela](../../en/61/mela-15bc978f.md) — English *(borrowed)*

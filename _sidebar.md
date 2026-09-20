@@ -1,0 +1,3 @@
+- [Home](/)
+- [Languages](/languages/)
+- [Semantic drift report](/drift)

@@ -1,0 +1,15 @@
+# \*ano-
+
+**Language:** Proto-Indo-European (`ine-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [on-](../../en/95/on-d7ef8bc6.md) — English *(inherited)*

@@ -1,0 +1,15 @@
+# Roscoff
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Roscoff](../../en/80/roscoff-5e514f58.md) — English *(borrowed)*

@@ -1,0 +1,17 @@
+# -phile
+
+**Language:** English (`en`) · **Part of speech:** suffix
+
+## Definition
+
+Forming nouns and adjectives meaning "loving", "friendly", or "friend".
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [φίλος](../../grc/a6/w-f771e74e.md) ("dear, beloved").
+
+## Direct ancestors
+
+- [φίλος](../../grc/a6/w-f771e74e.md) — Ancient Greek *(derived)*
+
+## Direct descendants
+
+_None recorded._

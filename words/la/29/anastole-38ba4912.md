@@ -1,0 +1,15 @@
+# anastolē
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [anastole](../../en/67/anastole-449a23d1.md) — English *(borrowed)*

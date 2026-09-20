@@ -1,0 +1,15 @@
+# pohā
+
+**Language:** haw (`haw`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [poha](../../en/82/poha-f6932492.md) — English *(borrowed)*

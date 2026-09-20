@@ -1,0 +1,17 @@
+# saltchuck
+
+**Language:** chn (`chn`)
+
+## Definition
+
+the sea
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [saltchuck](../../en/3e/saltchuck-92fca513.md) — English *(borrowed)*

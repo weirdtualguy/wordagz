@@ -1,0 +1,15 @@
+# gymnosophiste
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [gymnosophist](../../en/ec/gymnosophist-2bc46708.md) — English *(borrowed)*

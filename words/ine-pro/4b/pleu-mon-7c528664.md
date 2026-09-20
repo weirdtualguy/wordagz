@@ -1,0 +1,15 @@
+# \*pléu-mon-
+
+**Language:** Proto-Indo-European (`ine-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [pulmonary](../../en/f9/pulmonary-fb1ad0a6.md) — English *(derived)*

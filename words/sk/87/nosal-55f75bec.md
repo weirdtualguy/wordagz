@@ -1,0 +1,15 @@
+# Nosáľ
+
+**Language:** sk (`sk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Nosal](../../en/62/nosal-b13f4f63.md) — English *(borrowed)*

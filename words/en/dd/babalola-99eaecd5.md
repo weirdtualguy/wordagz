@@ -1,0 +1,15 @@
+# Babalola
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from Yoruba.
+
+## Direct ancestors
+
+- [Babalọlá](../../yo/7d/babalola-decdde26.md) — yo *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

@@ -1,0 +1,16 @@
+# natrón
+
+**Language:** Spanish (`es`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [anatron](../../en/a0/anatron-9cd99705.md) — English *(derived)*
+- [natron](../../en/b3/natron-f2ff4cfb.md) — English *(derived)*

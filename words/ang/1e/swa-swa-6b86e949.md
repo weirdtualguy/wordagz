@@ -1,0 +1,15 @@
+# swā swā
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [so-so](../../en/c4/so-so-972f83c9.md) — English *(inherited)*

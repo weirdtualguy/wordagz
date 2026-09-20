@@ -1,0 +1,15 @@
+# 戴
+
+**Language:** Mandarin (`cmn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Tai](../../en/a6/tai-e43f3841.md) — English *(borrowed)*

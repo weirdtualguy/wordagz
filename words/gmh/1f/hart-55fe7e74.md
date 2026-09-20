@@ -1,0 +1,17 @@
+# hart
+
+**Language:** Middle High German (`gmh`)
+
+## Definition
+
+woods
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Hardt](../../en/61/hardt-77039325.md) — English *(derived)*

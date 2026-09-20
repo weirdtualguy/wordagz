@@ -1,0 +1,20 @@
+# Yago
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A male given name from Spanish.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [יַעֲקֹב](../../he/f2/w-f479ebf9.md) ("Jacob").
+
+## Direct ancestors
+
+- [Iacobus](../../la/84/iacobus-fa4bf3c7.md) — Latin *(derived)*
+- [Yago](../../es/21/yago-08d1313d.md) — Spanish *(borrowed)*
+- [יַעֲקֹב](../../he/f2/w-f479ebf9.md) — Hebrew *(derived)*
+- [Ἰάκωβος](../../grc/36/w-1b45ddfa.md) — Ancient Greek *(derived)*
+
+## Direct descendants
+
+_None recorded._

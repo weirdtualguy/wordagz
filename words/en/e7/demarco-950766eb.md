@@ -1,0 +1,15 @@
+# DeMarco
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from Italian.
+
+## Direct ancestors
+
+- [De Marco](../../it/d3/de-marco-d2ebee21.md) — Italian *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

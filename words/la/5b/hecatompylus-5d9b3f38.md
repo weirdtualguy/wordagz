@@ -1,0 +1,15 @@
+# Hecatompylus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Hecatompylus](../../en/c2/hecatompylus-b3abd8d9.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# spaghetti
+
+**Language:** Italian (`it`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [spaghetti](../../en/7b/spaghetti-01c887b2.md) — English *(borrowed)*

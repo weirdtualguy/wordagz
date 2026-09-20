@@ -1,0 +1,15 @@
+# lire
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [lyre](../../en/2e/lyre-026ebf7a.md) — English *(derived)*

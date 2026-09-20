@@ -1,0 +1,15 @@
+# капу́ста
+
+**Language:** Russian (`ru`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [kapusta](../../en/bd/kapusta-0ad10f2c.md) — English *(borrowed)*

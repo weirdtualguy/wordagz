@@ -1,0 +1,15 @@
+# \*gaman
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [game](../../en/46/game-2d5c4b75.md) — English *(inherited)*

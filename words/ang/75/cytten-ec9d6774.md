@@ -1,0 +1,15 @@
+# \*ċytten
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [chit](../../en/1e/chit-8d03d98b.md) — English *(inherited)*

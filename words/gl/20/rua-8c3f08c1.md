@@ -1,0 +1,15 @@
+# Rúa
+
+**Language:** gl (`gl`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Rua](../../en/96/rua-98cbcbf6.md) — English *(borrowed)*

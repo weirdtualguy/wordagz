@@ -1,0 +1,15 @@
+# analogia
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [analogy](../../en/01/analogy-8604dad9.md) — English *(borrowed)*

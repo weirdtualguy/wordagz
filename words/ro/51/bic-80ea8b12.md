@@ -1,0 +1,15 @@
+# Bîc
+
+**Language:** Romanian (`ro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Bic](../../en/b0/bic-121dc766.md) — English *(borrowed)*

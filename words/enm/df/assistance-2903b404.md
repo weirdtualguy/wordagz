@@ -1,0 +1,15 @@
+# assistance
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [assistance](../../en/0c/assistance-f5403f14.md) — English *(inherited)*

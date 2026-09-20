@@ -1,0 +1,17 @@
+# \*spōaną
+
+**Language:** Proto-Germanic (`gem-pro`)
+
+## Definition
+
+to prosper, succeed, be happy
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [speed](../../en/13/speed-dc3de6da.md) — English *(derived)*

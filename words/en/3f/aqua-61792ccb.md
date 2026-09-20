@@ -1,0 +1,16 @@
+# aqua-
+
+**Language:** English (`en`) · **Part of speech:** prefix
+
+## Definition
+
+water
+
+## Direct ancestors
+
+- [aqua](../../enm/b9/aqua-73c13dcd.md) — Middle English *(inherited)*
+- [aqua](../../la/62/aqua-011cf166.md) — Latin *(derived)*
+
+## Direct descendants
+
+_None recorded._

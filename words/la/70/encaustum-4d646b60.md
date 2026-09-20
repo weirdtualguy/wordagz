@@ -1,0 +1,17 @@
+# encaustum
+
+**Language:** Latin (`la`)
+
+## Definition
+
+purple ink used by Roman emperors to sign documents
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [ink](../../en/79/ink-43905d19.md) — English *(derived)*

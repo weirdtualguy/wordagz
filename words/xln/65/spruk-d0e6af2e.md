@@ -1,0 +1,15 @@
+# Æspӕruk
+
+**Language:** xln (`xln`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Asparukh](../../en/af/asparukh-09015eaf.md) — English *(derived)*

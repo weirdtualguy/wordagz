@@ -1,0 +1,15 @@
+# pergola
+
+**Language:** Italian (`it`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [pergola](../../en/ba/pergola-d45b9c1a.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# Meknès
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Meknes](../../en/01/meknes-073c5134.md) — English *(borrowed)*

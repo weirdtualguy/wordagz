@@ -1,0 +1,17 @@
+# \*wurti
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+a root; a spice
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [wort](../../en/d6/wort-09a3fa18.md) — English *(inherited)*

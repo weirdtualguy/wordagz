@@ -1,0 +1,15 @@
+# tanoa
+
+**Language:** fj (`fj`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [tanoa](../../en/c4/tanoa-21d5464e.md) — English *(borrowed)*

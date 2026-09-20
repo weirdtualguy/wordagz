@@ -1,0 +1,18 @@
+# pilfre
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+booty
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [pilfer](../../en/92/pilfer-21282717.md) — English *(derived)*
+- [pilfre](../../en/c0/pilfre-eee182cd.md) — English *(derived)*

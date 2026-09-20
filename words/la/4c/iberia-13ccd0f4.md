@@ -1,0 +1,15 @@
+# Iberia
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Iberia](../../en/6c/iberia-1234f5db.md) — English *(borrowed)*

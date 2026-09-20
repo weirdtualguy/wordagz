@@ -1,0 +1,15 @@
+# អ៊ុយ
+
+**Language:** km (`km`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Uy](../../en/81/uy-25bb5bca.md) — English *(derived)*

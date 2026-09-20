@@ -1,0 +1,17 @@
+# vòdún
+
+**Language:** fon (`fon`)
+
+## Definition
+
+fetish
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [voodoo](../../en/50/voodoo-a5bb9811.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# \*spānu
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [spoon](../../en/ed/spoon-b350edf3.md) — English *(inherited)*

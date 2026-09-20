@@ -1,0 +1,16 @@
+# Bērȳtus
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Berytian](../../en/ef/berytian-34310114.md) — English *(derived)*
+- [Berytus](../../en/7f/berytus-2c9eefba.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# Mac 'Ille Bhuidh
+
+**Language:** Scottish Gaelic (`gd`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Bowie](../../en/cb/bowie-2d6ad735.md) — English *(borrowed)*

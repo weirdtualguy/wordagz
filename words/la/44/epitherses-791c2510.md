@@ -1,0 +1,15 @@
+# Epithersēs
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Epitherses](../../en/82/epitherses-08d40c80.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# čajka
+
+**Language:** sl (`sl`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Chayka](../../en/b9/chayka-27bd5844.md) — English *(derived)*

@@ -1,0 +1,15 @@
+# モロヘイヤ
+
+**Language:** Japanese (`ja`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [moroheiya](../../en/82/moroheiya-8391a43b.md) — English *(borrowed)*

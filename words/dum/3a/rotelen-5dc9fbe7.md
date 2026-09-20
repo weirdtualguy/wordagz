@@ -1,0 +1,17 @@
+# rotelen
+
+**Language:** Middle Dutch (`dum`)
+
+## Definition
+
+to rattle, wheeze, drone
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [ruttle](../../en/a1/ruttle-39ea1f4c.md) — English *(derived)*

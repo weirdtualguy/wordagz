@@ -1,0 +1,15 @@
+# 寸
+
+**Language:** Japanese (`ja`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sun](../../en/5a/sun-69f7ea55.md) — English *(derived)*

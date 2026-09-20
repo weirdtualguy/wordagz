@@ -1,0 +1,17 @@
+# τρᾰπεζῑ́της
+
+**Language:** Ancient Greek (`grc`)
+
+## Definition
+
+banker
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [trapezitine](../../en/79/trapezitine-c68a215a.md) — English *(derived)*

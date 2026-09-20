@@ -1,0 +1,18 @@
+# wā
+
+**Language:** Old English (`ang`)
+
+## Definition
+
+woe
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [woe](../../en/f8/woe-1b7606d7.md) — English *(inherited)*
+- [woebegone](../../en/50/woebegone-e8f0d3f5.md) — English *(inherited)*

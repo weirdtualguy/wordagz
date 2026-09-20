@@ -1,0 +1,15 @@
+# Lavallée
+
+**Language:** English (`en`) · **Part of speech:** name
+
+## Definition
+
+A surname from French. Alternative form of Lavallee.
+
+## Direct ancestors
+
+- [Lavallée](../../fr/5c/lavallee-f799a648.md) — French *(borrowed)*
+
+## Direct descendants
+
+_None recorded._

@@ -1,0 +1,15 @@
+# Mazowsze
+
+**Language:** Polish (`pl`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Masovia](../../en/2b/masovia-9d3cee0a.md) — English *(derived)*

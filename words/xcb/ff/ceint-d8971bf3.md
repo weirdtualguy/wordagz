@@ -1,0 +1,17 @@
+# \*ceint
+
+**Language:** xcb (`xcb`)
+
+## Definition
+
+border
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Pen-y-ghent](../../en/2f/pen-y-ghent-6dd3e856.md) — English *(derived)*

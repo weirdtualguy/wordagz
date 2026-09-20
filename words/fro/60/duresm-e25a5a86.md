@@ -1,0 +1,15 @@
+# Duresm
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Duresm](../../en/e2/duresm-68001ab8.md) — English *(derived)*

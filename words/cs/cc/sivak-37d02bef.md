@@ -1,0 +1,15 @@
+# Sivák
+
+**Language:** Czech (`cs`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Sivak](../../en/90/sivak-36f30faa.md) — English *(borrowed)*

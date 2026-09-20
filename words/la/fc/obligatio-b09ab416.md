@@ -1,0 +1,15 @@
+# obligatio
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [obligation](../../en/03/obligation-8fbf3d64.md) — English *(derived)*

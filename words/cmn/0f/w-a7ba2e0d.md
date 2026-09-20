@@ -1,0 +1,15 @@
+# 滑
+
+**Language:** Mandarin (`cmn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Hua](../../en/b3/hua-b827fbe7.md) — English *(borrowed)*

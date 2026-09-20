@@ -1,0 +1,15 @@
+# Чарджо́у
+
+**Language:** Russian (`ru`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Chardzhou](../../en/99/chardzhou-757405e7.md) — English *(borrowed)*

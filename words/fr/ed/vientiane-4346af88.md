@@ -1,0 +1,15 @@
+# Vientiane
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Vientiane](../../en/87/vientiane-102003dc.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# Annam
+
+**Language:** French (`fr`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Annam](../../en/18/annam-cc30030e.md) — English *(borrowed)*

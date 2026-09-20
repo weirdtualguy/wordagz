@@ -1,0 +1,17 @@
+# ove-
+
+**Language:** English (`en`) · **Part of speech:** prefix
+
+## Definition
+
+Alternative form of ovi-.
+
+!> **Semantic drift warning:** this definition shares no meaningful keywords with its root ancestor [ovis](../../la/70/ovis-8550382c.md) ("sheep").
+
+## Direct ancestors
+
+- [ovis](../../la/70/ovis-8550382c.md) — Latin *(derived)*
+
+## Direct descendants
+
+_None recorded._

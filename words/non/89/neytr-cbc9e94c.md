@@ -1,0 +1,17 @@
+# neytr
+
+**Language:** Old Norse (`non`)
+
+## Definition
+
+in good order, fit, fit for use
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [nait](../../en/ef/nait-9422eca7.md) — English *(derived)*

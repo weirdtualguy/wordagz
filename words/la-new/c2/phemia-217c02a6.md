@@ -1,0 +1,15 @@
+# -phēmia
+
+**Language:** New Latin (`la-new`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [-phemia](../../en/37/phemia-dac26a03.md) — English *(borrowed)*

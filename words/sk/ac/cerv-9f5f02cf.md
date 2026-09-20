@@ -1,0 +1,15 @@
+# Červ
+
+**Language:** sk (`sk`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Cerv](../../en/04/cerv-b15d7dfe.md) — English *(borrowed)*

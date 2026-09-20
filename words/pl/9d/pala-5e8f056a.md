@@ -1,0 +1,15 @@
+# Pala
+
+**Language:** Polish (`pl`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Pala](../../en/f6/pala-d018de25.md) — English *(borrowed)*

@@ -1,0 +1,15 @@
+# osanna
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [hosanna](../../en/9e/hosanna-d0501a0d.md) — English *(borrowed)*

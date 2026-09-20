@@ -1,0 +1,15 @@
+# schoppe
+
+**Language:** Middle Dutch (`dum`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [scoop](../../en/c6/scoop-f7d4b6fa.md) — English *(derived)*

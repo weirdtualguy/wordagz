@@ -1,0 +1,17 @@
+# kostr
+
+**Language:** Old Norse (`non`)
+
+## Definition
+
+choice, opportunity, chance, condition, state, quality
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [cost](../../en/28/cost-e49fc112.md) — English *(derived)*

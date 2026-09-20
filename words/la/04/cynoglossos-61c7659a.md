@@ -1,0 +1,15 @@
+# cynoglossos
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [hound's tongue](../../en/21/hound-s-tongue-25d84311.md) — English *(derived)*

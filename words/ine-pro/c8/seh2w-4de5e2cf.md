@@ -1,0 +1,17 @@
+# \*seh₂w-
+
+**Language:** Proto-Indo-European (`ine-pro`)
+
+## Definition
+
+sharp
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [sword](../../en/15/sword-9d911172.md) — English *(derived)*

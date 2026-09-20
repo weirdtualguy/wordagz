@@ -1,0 +1,15 @@
+# 啟東
+
+**Language:** Mandarin (`cmn`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [Qidong](../../en/1c/qidong-d6f30a52.md) — English *(borrowed)*

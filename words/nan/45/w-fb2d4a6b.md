@@ -1,0 +1,15 @@
+# 哥羅麵
+
+**Language:** nan (`nan`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [kolo mee](../../en/35/kolo-mee-80ede834.md) — English *(derived)*

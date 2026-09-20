@@ -1,0 +1,15 @@
+# dehortārī
+
+**Language:** Latin (`la`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [dehort](../../en/2f/dehort-97adf7ee.md) — English *(derived)*

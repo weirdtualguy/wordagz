@@ -1,0 +1,15 @@
+# spatyl
+
+**Language:** Middle English (`enm`)
+
+## Definition
+
+_No definition recorded._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [spurtle](../../en/ff/spurtle-e43b477c.md) — English *(inherited)*

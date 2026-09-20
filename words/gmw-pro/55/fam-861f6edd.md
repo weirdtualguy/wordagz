@@ -1,0 +1,17 @@
+# \*faþm
+
+**Language:** Proto-West Germanic (`gmw-pro`)
+
+## Definition
+
+outstretched arms, embrace; fathom (unit of measurement)
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [fathom](../../en/78/fathom-6417cba5.md) — English *(inherited)*

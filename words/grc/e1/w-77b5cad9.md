@@ -1,0 +1,17 @@
+# κνῑ́δη
+
+**Language:** Ancient Greek (`grc`)
+
+## Definition
+
+sea nettle
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [cnidarian](../../en/f2/cnidarian-da9adfc7.md) — English *(derived)*

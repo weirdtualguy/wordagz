@@ -1,0 +1,17 @@
+# rimer
+
+**Language:** Old French (`fro`)
+
+## Definition
+
+to rhyme (a word) with another word; to write verse
+
+_Gloss taken from an etymology template; no dictionary entry in this dataset._
+
+## Direct ancestors
+
+_None recorded (this is a root)._
+
+## Direct descendants
+
+- [rhyme](../../en/4a/rhyme-93717a4f.md) — English *(derived)*
