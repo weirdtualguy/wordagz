@@ -15,6 +15,8 @@ from collections import defaultdict
 
 import networkx as nx
 
+from export_json import export_json
+
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
@@ -563,6 +565,7 @@ def main():
     flagged = tag_semantic_drift(G)
     log(f"Tagged {flagged:,} nodes with semantic drift")
 
+    export_json(G, args.output)
     pages, _ = generate_site(G, args.output, args.max_pages)
     log(f"Done: {pages:,} pages in ./{args.output}/")
 
